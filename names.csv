@@ -1,0 +1,5172 @@
+Instrument,Company Common Name
+TX.N,Ternium SA
+CAIV.VI,CA Immobilien Anlagen AG
+UNIQ.VI,Uniqa Insurance Group AG
+SMPV.VI,Semperit Holding AG
+VOES.VI,voestalpine AG
+SIAG.VI,S Immo AG
+VIEV.VI,Flughafen Wien AG
+KTCG.VI,Kapsch Trafficcom AG
+AMS.S,ams-OSRAM AG
+AGRV.VI,Agrana Beteiligungs AG
+IMFI.VI,Immofinanz AG
+OMVV.VI,Omv AG
+VIGR.VI,Vienna Insurance Group Wiener Versicherung Gruppe AG
+KTN.DE,Kontron AG
+LENV.VI,Lenzing AG
+DOCO.VI,DO & CO AG
+EVNV.VI,EVN AG
+PALF.VI,Palfinger AG
+ATSV.VI,AT & S Austria Technologie & Systemtechnik AG
+TELA.VI,Telekom Austria AG
+ABGV.VI,Porr AG
+SBOE.VI,Schoeller-Bleckmann Oilfield Equipment AG
+VERB.VI,Verbund AG
+OBER.VI,Oberbank AG
+WBSV.VI,Wienerberger AG
+MMKV.VI,Mayr-Melnhof Karton AG
+POST.VI,Oesterreichische Post AG
+ANDR.VI,Andritz AG
+RBIV.VI,Raiffeisen Bank International AG
+ZUMV.VI,Zumtobel Group AG
+ACKB.BR,Ackermans & Van Haaren NV
+COLR.BR,Colruyt Group NV
+IETB.BR,D'Ieteren Group SA
+LOTB.BR,Lotus Bakeries NV
+COFB.BR,Cofinimmo SA
+FAGRO.BR,Fagron NV
+BAR.BR,Barco NV
+SOF.BR,Sofina SA
+MONTE.BR,Montea NV
+CFEB.BR,Compagnie d'entreprises CFE SA
+ABI.BR,Anheuser-Busch Inbev SA
+UMI.BR,Umicore SA
+ECONB.BR,Econocom Group SE
+GLPG.AS,Galapagos NV
+UCB.BR,Ucb SA
+PROX.BR,Proximus NV
+BEKB.BR,NV Bekaert SA
+SOLB.BR,Solvay SA
+KIPO.BR,Kinepolis Group NV
+VELD.BR,Van de Velde NV
+MLXS.BR,Melexis NV
+OBEL.BR,Orange Belgium NV
+AGFB.BR,AGFA Gevaert NV
+RETE.BR,Retail Estates NV
+GREENY.BR,Greenyard NV
+WDPP.BR,Warehouses de Pauw NV
+CMBT.BR,CMB.TECH NV
+EXMR.BR,Exmar NV
+ELI.BR,Elia Group SA
+AOO.BR,Aedifica NV
+TESB.BR,Tessenderlo Group NV
+PDL.L,Petra Diamonds Ltd
+CEZP.PR,CEZ as
+TOP.CO,Topdanmark A/S
+SYDB.CO,Sydbank A/S
+BKOM.PR,Komercni Banka as
+COLOb.CO,Coloplast A/S
+RILBA.CO,Ringkjoebing Landbobank A/S
+DSV.CO,DSV A/S
+PAALb.CO,Per Aarsleff Holding A/S
+AMBUb.CO,Ambu A/S
+HHDC.CO,H+H International A/S
+GN.CO,GN Store Nord A/S
+FLUGb.CO,Flugger group A/S
+RBREW.CO,Royal Unibrew A/S
+KBHL.CO,Copenhagen Airports A/S
+NOVOb.CO,Novo Nordisk A/S
+DEMANT.CO,Demant A/S
+NORTHM.CO,North Media A/S
+VWS.CO,Vestas Wind Systems A/S
+NTGNT.CO,NTG Nordic Transport Group AS
+MTHH.CO,MT Hoejgaard Holding A/S
+MAERSKb.CO,AP Moeller - Maersk A/S
+FLS.CO,FLSmidth & Co A/S
+GABR.CO,Gabriel Holding A/S
+COLUM.CO,Columbus A/S
+CARLb.CO,Carlsberg A/S
+ALKb.CO,ALK-Abello A/S
+GMAB.CO,Genmab A/S
+DNORD.CO,Dampskibsselskabet Norden A/S
+NSISb.CO,Novozymes A/S
+SCHO.CO,Schouw & Co A/S
+DFDS.CO,DFDS AS
+NKT.CO,Nkt A/S
+HLUNa.CO,H Lundbeck A/S
+ALMB.CO,ALM. Brand A/S
+SOLARb.CO,Solar A/S
+KCRA.HE,Konecranes Abp
+OUT1V.HE,Outokumpu Oyj
+LAT1V.HE,Lassila & Tikanoja Oyj
+CTY1S.HE,Citycon Oyj
+ALBAV.HE,Alandsbanken Abp
+ATRAV.HE,Atria Oyj
+UPM.HE,UPM-Kymmene Oyj
+OLVAS.HE,Olvi Oyj
+VAIAS.HE,Vaisala Oyj
+TIETO.HE,Tietoevry Oyj
+CGCBV.HE,Cargotec Corp
+TYRES.HE,Nokian Tyres plc
+NESTE.HE,Neste Oyj
+VIK1V.HE,Viking Line Abp
+KNEBV.HE,Kone Oyj
+RAUTE.HE,Raute Oyj
+ICP1V.HE,Incap Oyj
+SAMPO.HE,Sampo Oyj
+HUH1V.HE,Huhtamaki Oyj
+GLA1V.HE,Glaston Oyj Abp
+HKFOODS.HE,HKFoods Oyj
+METSB.HE,Metsa Board Oyj
+PON1V.HE,Ponsse Oyj
+STERV.HE,Stora Enso Oyj
+EXL1V.HE,Exel Composites Oyj
+TLT1V.HE,Teleste Oyj
+BITTI.HE,Bittium Oyj
+SUY1V.HE,Suominen Oyj
+MEKKO.HE,Marimekko Oyj
+NOKIA.HE,Nokia Oyj
+FIA1S.HE,Finnair Oyj
+FORTUM.HE,Fortum Oyj
+OKDBV.HE,Oriola Oyj
+KESKOB.HE,Kesko Oyj
+YIT.HE,YIT Oyj
+LINDEX.HE,Lindex Group Oyj
+WITH.HE,WithSecure Oyj
+DIGIA.HE,Digia Oyj
+FSKRS.HE,Fiskars Oyj Abp
+METSO.HE,Metso Oyj
+ETTE.HE,Etteplan Oyj
+KEMIRA.HE,Kemira Oyj
+WRT1V.HE,Wartsila Oyj Abp
+CBLP.PA,Mersen SA
+ORNBV.HE,Orion Oyj
+RXL.PA,Rexel SA
+LAGA.PA,Lagardere SA
+TFFP.PA,Television Francaise 1 SA
+PUBP.PA,Publicis Groupe SA
+EXHO.PA,Sodexo SA
+EMEIS.PA,Emeis SA
+ALGIL.PA,Groupe Guillin SA
+TEPRF.PA,Teleperformance SE
+SAVEN.PA,Savencia SA
+ROBF.PA,Robertet SA
+CARR.PA,Carrefour SA
+CRIP.PA,Chargeurs SA
+CASP.PA,Casino Guichard Perrachon SA
+SOPR.PA,Sopra Steria Group SA
+VIRI.PA,Viridien SA
+ENGIE.PA,Engie SA
+ALPJT.PA,Poujoulat SA
+ACCP.PA,Accor SA
+TCFP.PA,Thales SA
+LVMH.PA,LVMH Moet Hennessy Louis Vuitton SE
+SEBF.PA,SEB SA
+BICP.PA,Societe BIC SA
+COVH.PA,Covivio Hotels SCA
+AREIT.PA,Altareit SCA
+LOIM.PA,Klepierre SA
+SCHN.PA,Schneider Electric SE
+AIRF.PA,Air France KLM SA
+LNA.PA,LNA Sante SA
+ETL.PA,Eutelsat Communications SA
+ATOS.PA,Atos SE
+ICAD.PA,Icade SA
+CVO.PA,Covivio SA
+MANP.PA,Manitou BF SA
+ALATI.PA,Actia Group SA
+MAUP.PA,Etablissements Maurel et Prom SA
+PIEJF.PK,Rothschild & Co SCA
+DIOR.PA,Christian Dior SE
+PRTP.PA,Kering SA
+RCOP.PA,Remy Cointreau SA
+FNAC.PA,Fnac Darty SA
+VIV.PA,Vivendi SE
+BOUY.PA,Bouygues SA
+FOUG.PA,Eiffage SA
+ESLX.PA,EssilorLuxottica SA
+NEXS.PA,Nexans SA
+ADP.PA,Aeroports de Paris SA
+SAF.PA,Safran SA
+DAST.PA,Dassault Systemes SE
+AKE.PA,Arkema SA
+SGOB.PA,Compagnie de Saint Gobain SA
+IMTP.PA,Imerys SA
+AIRP.PA,L'Air Liquide Societe Anonyme pour l'Etude et l'Exploitation des Procedes Georges Claude SA
+CGDM.PA,Cegedim SA
+STMPA.PA,STMicroelectronics NV
+VLLP.PA,Vallourec SA
+UBIP.PA,Ubisoft Entertainment SA
+OREP.PA,L'Oreal SA
+RENA.PA,Renault SA
+DANO.PA,Danone SA
+VLOF.PA,Valeo SE
+CCHE.PA,Seche Environnement SA
+MICP.PA,Compagnie Generale des Etablissements Michelin SCA
+BVI.PA,Bureau Veritas SA
+PERP.PA,Pernod Ricard SA
+SCOR.PA,Scor SE
+VIE.PA,Veolia Environnement SA
+FLYP.PA,Societe Fonciere Lyonnaise SA
+AXAF.PA,AXA SA
+BOIR.PA,Boiron SA
+ERMT.PA,Eramet SA
+JCQ.PA,Jacquet Metals SA
+MMTP.PA,Metropole Television SA
+SGEF.PA,Vinci SA
+RUBF.PA,Rubis SCA
+ALSO.PA,Alstom SA
+OPM.PA,Opmobility SE
+ALEXA.PA,Exacompta Clairefontaine SA
+CDAF.PA,Compagnie des Alpes SA
+STDM.PA,Sartorius Stedim Biotech SA
+MBWS.PA,Marie Brizard Wine and Spirits SA
+IMAF.PA,Altarea SCA
+IPAR.PA,Interparfums SA
+EURA.PA,Eurazeo SE
+JCDX.PA,JCDecaux SE
+TRIA.PA,Trigano SA
+GLTN.PA,GL Events SA
+LTEN.PA,Alten SA
+BOND.PA,Bonduelle SA
+AUBT.PA,Aubay SA
+SOIT.PA,Soitec SA
+QDT.PA,Quadient SA
+ISOS.PA,Ipsos SA
+SASY.PA,Sanofi SA
+FRVIA.PA,Forvia SE
+BOLL.PA,Bollore SE
+VANTI.PA,Vantiva SA
+URW.PA,Unibail-Rodamco-Westfield SE
+GETP.PA,Getlink SE
+MWDP.PA,Wendel SE
+KOF.PA,Kaufman & Broad SA
+VLTSA.PA,Voltalia SA
+ORAN.PA,Orange SA
+NEXI.PA,Nexity SA
+HRMS.PA,Hermes International SCA
+IPN.PA,Ipsen SA
+CLARI.PA,Clariane SE
+VCTP.PA,Vicat SA
+LEGD.PA,Legrand SA
+MERY.PA,Mercialys SA
+MTXGn.DE,MTU Aero Engines AG
+KCOGn.DE,Kloeckner & Co SE
+CECG.DE,CECONOMY AG
+SRET.L,Sirius Real Estate Ltd
+AAHG.F,Ahlers AG
+SKBG.DE,Koenig & Bauer AG
+BIOG.DE,Biotest AG
+EIN_p.DE,Einhell Germany AG
+RHKG.DE,Rhoen Klinikum AG
+ZILGn.DE,ElringKlinger AG
+DUEG.DE,Duerr AG
+SURG.DE,Surteco Group SE
+EUKG_p.F,EUROKAI GmbH & Co KgaA
+SIM0.F,Simona AG
+SATG.DE,Sartorius AG
+SY1G.DE,Symrise AG
+FRAG.DE,Fraport Frankfurt Airport Services Worldwide AG
+HEIG.DE,Heidelberg Materials AG
+LHAG.DE,Deutsche Lufthansa AG
+MUVGn.DE,Muenchener Rueckversicherungs-Gesellschaft in Muenchen AG
+VOSG.DE,Vossloh AG
+TEGG.DE,TAG Immobilien AG
+MBHG_p.F,Maschinenfabrik Berthold Hermle AG
+VIBG_p.DE,Villeroy & Boch AG
+RWEG.DE,RWE AG
+WAFGn.DE,Siltronic AG
+BEIG.DE,Beiersdorf AG
+BYWGnx.DE,BayWa AG
+HOTG.DE,Hochtief AG
+CE2G.H,CropEnergies AG
+MRCG.DE,Merck KGaA
+DRWG.DE,Draegerwerk AG & Co KGaA
+VBKG.DE,Verbio SE
+SGCG.DE,SGL Carbon SE
+IS7.DE,InTiCa Systems SE
+WCHG.DE,Wacker Chemie AG
+RHMG.DE,Rheinmetall AG
+VAR1.DE,Varta AG
+BRNKn.DE,Branicks Group AG
+SZUG.DE,Suedzucker AG
+HLAG.DE,Hapag-Lloyd AG
+KBX.DE,Knorr Bremse AG
+GMMG.DE,Grammer AG
+INHG.DE,Indus Holding AG
+BASFn.DE,BASF SE
+FMEG.DE,Fresenius Medical Care AG
+TUI1n.DE,TUI AG
+BAYGn.DE,Bayer AG
+DEZG.DE,DEUTZ AG
+BMWG.DE,Bayerische Motoren Werke AG
+CONG.DE,Continental AG
+SIEGn.DE,Siemens AG
+VOWG.DE,Volkswagen AG
+NAFG.DE,Aurubis AG
+HNKG_p.DE,Henkel AG & Co KGaA
+PV.DE,Pfeiffer Vacuum Technology AG
+UTDI.DE,United Internet AG
+MEDG.DE,Mediclin AG
+FIEG.DE,Fielmann Group AG
+EBKG.DE,EnBW Energie Baden Wuerttemberg AG
+HABAn.DE,Hamborner REIT AG
+IVUG.DE,IVU Traffic Technologies AG
+NXUG.DE,Nexus AG
+PBBG.DE,Deutsche Pfandbriefbank AG
+SWEGn.DE,Schweizer Electronic AG
+BLHG.F,BREMER LAGERHAUS-GESELLSCHAFT AG von 1877
+BEZ.DE,Berentzen Gruppe AG
+EDD3_p.F,Edding AG
+GSC1n.DE,Gesco SE
+CSHG.DE,CENIT AG
+1U1.DE,1&1 AG
+DBKGn.DE,Deutsche Bank AG
+JENGn.DE,Jenoptik AG
+RSL2.DE,R Stahl AG
+HDDG.DE,Heidelberger Druckmaschinen AG
+WSU.DE,Washtec AG
+LEIG.DE,Leifheit AG
+GILG.DE,Dmg Mori AG
+BOSSn.DE,Hugo Boss AG
+BVB.DE,Borussia Dortmund GmbH & Co KGaA
+DEQGn.DE,Deutsche EuroShop AG
+MBGn.DE,Mercedes-Benz Group AG
+PSAGn.DE,PSI Software SE
+A1OS.DE,All for One Group SE
+LPKG.DE,LPKF Laser & Electronics SE
+AMDG.DE,Amadeus Fire AG
+PNEGn.DE,PNE AG
+ECVG.DE,Encavis AG
+TKAG.DE,thyssenkrupp AG
+MVVGn.DE,MVV Energie AG
+BSLG.DE,Basler AG
+TPEG.DE,PVA TePla AG
+ACT1.DE,Alzchem Group AG
+SISG.DE,First Sensor AG
+HACGn.DE,KPS AG
+TTKG.DE,Takkt AG
+ELGG.DE,Elmos Semiconductor SE
+KRNG.DE,Krones AG
+DHLn.DE,Deutsche Post AG
+M5ZG.DE,Manz AG
+V6CG.DE,Viscom SE
+IFXGn.DE,Infineon Technologies AG
+OSPGk.H,USU Software AG
+AFXG.DE,Carl Zeiss Meditec AG
+BC8G.DE,Bechtle AG
+NTGG.DE,Nabaltec AG
+RAAG.DE,Rational AG
+GLJn.DE,Grenke AG
+QBYn.DE,QBeyond AG
+ADNGk.DE,adesso SE
+ALVG.DE,Allianz SE
+ARLn.H,Aareal Bank AG
+HP3An.DE,Ringmetall SE
+LXSG.DE,Lanxess AG
+HHFGn.DE,Hamburger Hafen und Logistik AG
+PATGn.DE,Patrizia SE
+GXIG.DE,Gerresheimer AG
+B5AG.H,Bauer AG
+AOXG.DE,alstria office REIT AG
+DTEGn.DE,Deutsche Telekom AG
+ACBr.AT,Alpha Services and Holdings SA
+NBGr.AT,National Bank of Greece SA
+HELr.AT,Ellaktor SA
+INRr.AT,Intracom Holdings SA
+OLPr.AT,Piraeus Port Authority SA
+SRSr.AT,Gr Sarantis SA
+HRMr.AT,GEK Terna SA
+MYTr.AT,Metlen Energy & Metals AE
+OTEr.AT,Hellenic Telecommunications Organization SA
+OLYr.AT,Technical Olympic SA
+LMDr.AT,Lamda Development SA
+DEHr.AT,Public Power Corporation SA
+EYDr.AT,Athens Water Supply and Sewerage Company SA
+HEPr.AT,HELLENiQ ENERGY Holdings SA
+EXCr.AT,Hellenic Exchanges Athens Stock Exchange SA
+MORr.AT,Motor Oil Hellas Corinth Refineries SA
+OPUSG.BU,Opus Global Nyrt
+GDRB.BU,Richter Gedeon Vegyeszeti Gyar Nyrt
+OTPB.BU,OTP Bank Nyrt
+MTEL.BU,Magyar Telekom Tavkozlesi Nyrt
+MOLB.BU,MOL Magyar Olaj es Gazipari Nyrt
+BRIMH.IC,Brim hf
+EMBLA.CO,Embla Medical hf
+MARL.IC,Marel hf
+GFTU_u.L,Grafton Group PLC
+GL9.I,Glanbia PLC
+KSP.I,Kingspan Group PLC
+KMR.L,Kenmare Resources PLC
+ARYN.S,Aryzta AG
+DCC.L,DCC PLC
+CRH.N,CRH PLC
+RYA.I,Ryanair Holdings PLC
+ICLR.OQ,ICON PLC
+KYGa.I,Kerry Group PLC
+GNC.L,Greencore Group PLC
+GCC.L,C&C Group PLC
+DAL.MI,Datalogic SpA
+EMBI.MI,Credito Emiliano SpA
+RECI.MI,Recordati Industria Chimica e Farmaceutica SpA
+LDOF.MI,Leonardo SpA
+MTCM.MI,Maire SpA
+UNPI.MI,Unipol Gruppo SpA
+MARR.MI,Marr SpA
+EMII.MI,Bper Banca SpA
+FNMI.MI,FNM SpA
+TRN.MI,Terna Rete Elettrica Nazionale SpA
+BSS.MI,Biesse SpA
+AMPF.MI,Amplifon SpA
+AZMT.MI,Azimut Holding SpA
+ITPG.MI,Interpump Group SpA
+CAI.MI,Cairo Communication SpA
+ERG.MI,ERG SpA
+CEMB.MI,Cembre SpA
+FCT.MI,Fincantieri SpA
+BPSI.MI,Banca Popolare Di Sondrio SpA
+IF.MI,Banca IFIS SpA
+SRG.MI,Snam SpA
+SPMI.MI,Saipem SpA
+JUVE.MI,Juventus FC SpA
+ENI.MI,Eni SpA
+CIRI.MI,CIR SpA - Compagnie Industriali Riunite
+SOLS.MI,SOL SpA
+DANI.MI,Danieli & C Officine Meccaniche SpA
+GFRN.MI,Gefran SpA
+EM.MI,Emak SpA
+PRT.MI,Esprinet SpA
+ITMI.MI,Italmobiliare SpA
+ACE.MI,Acea SpA
+DLG.MI,De' Longhi SpA
+EDNn.MI,Edison SpA
+PIA.MI,Piaggio & C SpA
+ELEN.MI,El En SpA
+REY.MI,Reply SpA
+PIRC.MI,Pirelli & C SpA
+GASI.MI,Assicurazioni Generali SpA
+IREE.MI,Iren SpA
+CRDI.MI,UniCredit SpA
+MDBI.MI,Mediobanca Banca di Credito Finanziario SpA
+ISP.MI,Intesa Sanpaolo SpA
+WBD.MI,Webuild SpA
+BMPS.MI,Banca Monte dei Paschi di Siena SpA
+BZU.MI,Buzzi SpA
+NTZ.N,Natuzzi SpA
+TLIT.MI,Telecom Italia SpA
+ENEI.MI,Enel SpA
+AEF.MI,Aeffe SpA
+HRA.MI,Hera SpA
+ZV.MI,Zignago Vetro SpA
+DIAS.MI,DiaSorin SpA
+BGN.MI,Banca Generali SpA
+GEO.MI,Geox SpA
+PST.MI,Poste Italiane SpA
+MOL.MI,Moltiply Group SpA
+PRY.MI,Prysmian SpA
+TIP.MI,Tamburi Investment Partners SpA
+ASCI.MI,Ascopiave SpA
+IGD.MI,Immobiliare Grande Distribuzione SIIQ SpA
+FIMI.MI,Fiera Milano SpA
+TIGO.OQ,Millicom International Cellular SA
+AUDK.LU,RTL Group SA
+SESFd.PA,SES SA
+SNI.OL,Stolt-Nielsen Ltd
+TENR.MI,Tenaris SA
+SUBC.OL,Subsea 7 SA
+AALB.AS,Aalberts NV
+AER.N,AerCap Holdings NV
+BAMN.AS,Koninklijke BAM Groep NV
+TWKNc.AS,TKH Group NV
+SVEL.AS,Kendrion NV
+RAND.AS,Randstad NV
+INGA.AS,ING Groep NV
+VASN.AS,Vastned Retail NV
+AD.AS,Koninklijke Ahold Delhaize NV
+HEIN.AS,Heineken NV
+ARDS.AS,Arcadis NV
+QGEN.N,Qiagen NV
+WEHA.AS,Wereldhave NV
+PHG.AS,Koninklijke Philips NV
+AKZO.AS,Akzo Nobel NV
+WLSNc.AS,Wolters Kluwer NV
+BESI.AS,BE Semiconductor Industries NV
+ASMI.AS,ASM International NV
+SBMO.AS,SBM Offshore NV
+PTNL.AS,PostNL NV
+HEIO.AS,Heineken Holding NV
+FUGR.AS,Fugro NV
+KPN.AS,Koninklijke KPN NV
+AMG.AS,AMG Critical Materials NV
+JHX.AX,James Hardie Industries PLC
+PHAR.AS,Pharming Group NV
+ASML.AS,ASML Holding NV
+VOPA.AS,Koninklijke Vopak NV
+ECMPA.AS,Eurocommercial Properties NV
+CORB.AS,Corbion NV
+AIR.PA,Airbus SE
+NSTEc.AS,NSI NV
+TOM2.AS,TomTom NV
+SHEL.L,Shell PLC
+BONHR.OL,Bonheur ASA
+ATEA.OL,Atea ASA
+NRC.OL,NRC Group ASA
+VEI.OL,Veidekke ASA
+AFK.OL,Arendals Fossekompani ASA
+ODF.OL,Odfjell SE
+SCHA.OL,Schibsted ASA
+YAR.OL,Yara International ASA
+KOG.OL,Kongsberg Gruppen ASA
+AUSS.OL,Austevoll Seafood ASA
+LSG.OL,Leroy Seafood Group ASA
+NHY.OL,Norsk Hydro ASA
+ELK.OL,Elkem ASA
+MOWI.OL,Mowi ASA
+TGS.OL,TGS ASA
+NOD.OL,Nordic Semiconductor ASA
+KIT.OL,Kitron ASA
+NEL.OL,Nel ASA
+ORK.OL,Orkla ASA
+SOR.OL,Sparebanken Sor
+TEL.OL,Telenor ASA
+AKER.OL,Aker ASA
+SB1NO.OL,Sparebank 1 Sor-Norge ASA
+EQNR.OL,Equinor ASA
+SALM.OL,SalMar ASA
+STB.OL,Storebrand ASA
+CCCP.WA,CCC SA
+GTCP.WA,Globe Trade Centre SA
+MBK.WA,mBank SA
+INGP.WA,ING Bank Slaski SA
+BDXP.WA,Budimex SA
+MILP.WA,Bank Millennium SA
+BHW.WA,Bank Handlowy w Warszawie SA
+KGH.WA,KGHM Polska Miedz SA
+SPL1.WA,Santander Bank Polska SA
+CDR.WA,CD Projekt SA
+OPL.WA,Orange Polska SA
+PKN.WA,Orlen SA
+GEA1.WA,Grenevia SA
+PKO.WA,Powszechna Kasa Oszczednosci Bank Polski SA
+NEUP.WA,Neuca SA
+LPPP.WA,LPP SA
+CORA.LS,Corticeira Amorim SGPS SA
+JMT.LS,Jeronimo Martins SGPS SA
+NVGR.LS,Navigator Company SA
+BCP.LS,Banco Comercial Portugues SA
+YSO.LS,Sonae SGPS SA
+MOTA.LS,Mota Engil SGPS SA
+SEM.LS,SEMAPA Sociedade de Investimento e Gestao SGPS SA
+EDP.LS,Edp SA
+ALSS.LS,Altri SGPS SA
+GALP.LS,Galp Energia SGPS SA
+RENE.LS,REN Redes Energeticas Nacionais SGPS S A
+NOS.LS,NOS SGPS SA
+NVTK.MM,Novatek PAO
+LKOH.MM,NK Lukoil PAO
+NLMK.MM,Novolipetsk Steel PAO
+CHMF.MM,Severstal' PAO
+ELFV.MM,EL5-Energo PAO
+GAZP.MM,Gazprom PAO
+RTKM.MM,Rostelekom PAO
+AFKS.MM,AFK Sistema PAO
+TATN.MM,Tatneft' PAO
+ROSN.MM,NK Rosneft' PAO
+SIBN.MM,Gazprom Neft' PAO
+GMKN.MM,GMK Noril'skiy Nikel' PAO
+SNGS.MM,Surgutneftegaz PAO
+PLZL.MM,Polyus PAO
+MTSS.MM,Mobil'nye Telesistemy PAO
+TRNF_p.MM,Transneft' PAO
+FIVEDR.MM,X5 Retail Group NV
+URKAI.RTS,Uralkaliy PAO
+1TAT01DE.BV,Tatra Banka as
+KRKG.LJ,Krka dd Novo Mesto
+TLSG.LJ,Telekom Slovenije dd
+FLUI.MC,Fluidra SA
+EBRO.MC,Ebro Foods SA
+CIEA.MC,CIE Automotive SA
+ALM.MC,Almirall SA
+ROVI.MC,Laboratorios Farmaceuticos ROVI SA
+ELE.MC,Endesa SA
+VIS.MC,Viscofan SA
+SABE.MC,Banco de Sabadell SA
+AZK.MC,Azkoyen SA
+ANA.MC,Acciona SA
+COL.MC,Inmobiliaria Colonial SOCIMI SA
+CAF.MC,Construcciones y Auxiliar de Ferrocarriles SA
+TUBA.MC,Tubacex SA
+VID.MC,Vidrala SA
+FCC.MC,Fomento de Construcciones y Contratas SA
+NHH.MC,Minor Hotels Europe & Americas SA
+TRE.MC,Tecnicas Reunidas SA
+GCO.MC,Grupo Catalana Occidente SA
+MEL.MC,Melia Hotels International SA
+A3M.MC,Atresmedia Corporacion de Medios de Comunicacion SA
+ITX.MC,Industria de Diseno Textil SA
+FAE.MC,Faes Farma SA
+IDR.MC,Indra Sistemas SA
+MCM.MC,Miquel y Costas & Miquel SA
+ENOR.MC,Elecnor SA
+ENAG.MC,Enagas SA
+GRLS.MC,Grifols SA
+REDE.MC,Redeia Corporacion SA
+SCYR.MC,Sacyr SA
+ALB.MC,Corporacion Financiera Alba SA
+ACX.MC,Acerinox SA
+ACS.MC,ACS Actividades de Construccion y Servicios SA
+PSG.MC,Prosegur Compania de Seguridad SA
+NTGY.MC,Naturgy Energy Group SA
+SLRS.MC,Solaria Energia y Medio Ambiente SA
+OHLA.MC,Obrascon Huarte Lain SA
+REP.MC,Repsol SA
+BKT.MC,Bankinter SA
+MAP.MC,Mapfre SA
+ENC.MC,Ence Energia y Celulosa SA
+CABK.MC,CaixaBank SA
+BBVA.MC,Banco Bilbao Vizcaya Argentaria SA
+IBE.MC,Iberdrola SA
+PRS.MC,Promotora de Informaciones SA
+AFRY.ST,Afry AB
+VITb.ST,Vitec Software Group AB (publ)
+INVEb.ST,Investor AB
+LATOb.ST,Investment AB Latour
+BILIa.ST,Bilia AB
+RATOb.ST,Ratos AB
+HOFI.ST,Hoist Finance AB (publ)
+HEXAb.ST,Hexagon AB
+KINVb.ST,Kinnevik AB
+SOBIV.ST,Swedish Orphan Biovitrum AB (publ)
+BEIAb.ST,Beijer Alma AB
+FABG.ST,Fabege AB
+SSABa.ST,SSAB AB
+NOLAb.ST,Nolato AB
+ELANb.ST,Elanders AB
+ENEA.ST,Enea AB
+OEMb.ST,OEM International AB
+VBGb.ST,VBG Group AB (publ)
+PEABb.ST,Peab AB
+BEGR.ST,BE Group AB (publ)
+WALLb.ST,Wallenstam AB
+NMAN.ST,Nederman Holding AB
+DUNI.ST,Duni AB
+JM.ST,JM AB
+SKAb.ST,Skanska AB
+GETIb.ST,Getinge AB
+HOLMb.ST,Holmen AB
+ERICb.ST,Telefonaktiebolaget LM Ericsson
+ATCOa.ST,Atlas Copco AB
+GRANG.ST,Granges AB
+CAST.ST,Castellum AB
+ELUXb.ST,Electrolux AB
+VOLVb.ST,Volvo AB
+SCAb.ST,Svenska Cellulosa Aktiebolaget SCA
+NOTE.ST,Note AB (publ)
+TEL2b.ST,Tele2 AB
+STORYb.ST,Storytel AB (publ)
+VITR.ST,Vitrolife AB
+DORO.ST,Doro AB
+AVANZ.ST,Avanza Bank Holding AB
+SAND.ST,Sandvik AB
+SKFb.ST,SKF AB
+BIOGb.ST,Biogaia AB
+ATRLJb.ST,Atrium Ljungberg AB
+LIFCOb.ST,Lifco AB (publ)
+PANDXb.ST,Pandox AB
+AXFO.ST,Axfood AB
+SVEDb.ST,Svedbergs Group AB
+SKISb.ST,SkiStar AB
+NIBEb.ST,Nibe Industrier AB
+SAGAa.ST,Sagax AB
+HUFVa.ST,Hufvudstaden AB
+NILb.ST,Nilorngruppen AB
+BOL.ST,Boliden AB
+SAABb.ST,Saab AB
+BILL.ST,Billerud AB (publ)
+ORX.ST,Orexo AB
+KNOW.ST,Knowit AB (publ)
+SWECb.ST,Sweco AB (publ)
+CTTS.ST,CTT Systems AB
+BALDb.ST,Fastighets AB Balder
+MSONb.ST,Midsona AB
+IARb.ST,IAR Systems Group AB
+SECTb.ST,Sectra AB
+PACT.ST,Proact IT Group AB
+ANODb.ST,Addnode Group AB (publ)
+BORG.ST,Bjorn Borg AB
+DURCb.ST,Duroc AB
+CLASb.ST,Clas Ohlson AB
+CATb.ST,Catella AB
+ITAB.ST,ITAB Shop Concept AB
+HMb.ST,H & M Hennes & Mauritz AB
+RROS.ST,Rottneros AB
+BERGb.ST,Bergman & Beving AB
+INDT.ST,Indutrade AB
+NCCb.ST,Ncc AB
+LUNDb.ST,L E Lundbergforetagen AB (publ)
+MYCR.ST,Mycronic AB (publ)
+ALFA.ST,Alfa Laval AB
+TELIA.ST,Telia Company AB
+INDUa.ST,Industrivarden AB
+TRELb.ST,Trelleborg AB
+SECUb.ST,Securitas AB
+ASSAb.ST,Assa Abloy AB
+EPEND.ST,Ependion AB
+BIOT.ST,Biotage AB
+MEKO.ST,Meko AB
+HUSQb.ST,Husqvarna AB
+WIHL.ST,Wihlborgs Fastigheter AB
+ORRON.ST,Orron Energy AB
+AQ.ST,AQ Group AB
+SYSR.ST,Systemair AB
+AAK.ST,AAK AB (publ)
+PROB.ST,Probi AB
+NOBI.ST,Nobia AB
+LAGRb.ST,Lagercrantz Group AB
+ADDTb.ST,Addtech AB
+CATE.ST,Catena AB
+ARBNO.S,Arbonia AG
+PMN.S,Phoenix Mecano AG
+KUD.S,Kudelski SA
+CFR.S,Compagnie Financiere Richemont SA
+LOGN.S,Logitech International SA
+MBTN.S,Meyer Burger Technology AG
+EMMN.S,Emmi AG
+SWTQ.S,Schweiter Technologies AG
+STLN.S,Swiss Steel Holding AG
+BELL.S,Bell Food Group AG
+YPSN.S,Ypsomed Holding AG
+CLN.S,Clariant AG
+RIEN.S,Rieter Holding AG
+HELN.S,Helvetia Holding AG
+SUN.S,Sulzer AG
+SIKA.S,Sika AG
+BYS.S,Bystronic AG
+DOKA.S,Dormakaba Holding AG
+SCMN.S,Swisscom AG
+GF.S,Georg Fischer AG
+HOLN.S,Holcim AG
+CLTN.S,Coltene Holding AG
+UHR.S,Swatch Group AG
+NOVN.S,Novartis AG
+PSPN.S,PSP Swiss Property AG
+SCHP.S,Schindler Holding AG
+OERL.S,OC Oerlikon Corporation AG Pfaeffikon
+NESN.S,Nestle SA
+SGSN.S,SGS SA
+LISN.S,Chocoladefabriken Lindt & Spruengli AG
+BARN.S,Barry Callebaut AG
+ADVN.S,Adval Tech Holding AG
+KNIN.S,Kuehne und Nagel International AG
+FORN.S,Forbo Holding AG
+INRN.S,Interroll Holding AG
+CICN.S,Cicor Technologies Ltd
+LECN.S,Leclanche SA
+SOON.S,Sonova Holding AG
+SQN.S,Swissquote Group Holding SA
+STGN.S,StarragTornos Group AG
+ISN.S,Intershop Holding AG
+SPSN.S,Swiss Prime Site AG
+KOMN.S,Komax Holding AG
+FTON.S,Feintool International Holding AG
+CPHN.S,CPH Group AG
+ZURN.S,Zurich Insurance Group AG
+GAV.S,Carlo Gavazzi Holding AG
+IFCN.S,Inficon Holding AG
+GEBN.S,Geberit AG
+ABBN.S,Abb Ltd
+BUCN.S,Bucher Industries AG
+TEMN.S,Temenos AG
+BOS.S,Bossard Holding AG
+ZEHN.S,Zehnder Group AG
+HUBN.S,Huber+Suhner AG
+MIKN.S,Mikron Holding AG
+ALSN.S,Also Holding AG
+EMSN.S,Ems Chemie Holding AG
+BLKB.S,Basellandschaftliche Kantonalbank
+BALN.S,Baloise Holding AG
+ASCN.S,Ascom Holding AG
+OFN.S,Orell Fuessli AG
+CALN.S,Calida Holding AG
+METN.S,Metall Zug AG
+APGN.S,APG SGA SA
+LLBN.S,Liechtensteinische Landesbank AG
+FHZN.S,Flughafen Zuerich AG
+LEHN.S,Lem Holding SA
+DAE.S,Daetwyler Holding AG
+HOCN.S,Hocn Ltd
+KARN.S,Kardex Holding AG
+VPBN.S,VP Bank AG
+TECN.S,Tecan Group AG
+GURN.S,Gurit Holding AG
+ALLN.S,Allreal Holding AG
+BBN.S,Bellevue Group AG
+GIVN.S,Givaudan SA
+VZN.S,VZ Holding AG
+IMPN.S,Implenia AG
+SLHN.S,Swiss Life Holding AG
+COTNE.S,Comet Holding AG
+MOBN.S,Mobimo Holding AG
+BCVN.S,Banque Cantonale Vaudoise
+GAMH.S,GAM Holding AG
+ESNT.L,Essentra PLC
+DRX.L,Drax Group PLC
+BNKR.L,Bankers Investment Trust PLC
+BKGH.L,Berkeley Group Holdings PLC
+CLDN.L,Caledonia Investments PLC
+FOUR.L,4imprint Group PLC
+BOY.L,Bodycote PLC
+CAME.L,Camellia PLC
+CBRO.L,Close Brothers Group PLC
+BWNG.L,N Brown Group PLC
+FSTA.L,Fuller Smith & Turner PLC
+GRI.L,Grainger PLC
+ELCO.L,Eleco PLC
+LWDB.L,Law Debenture Corporation PLC
+APTD.L,Aptitude Software Group PLC
+MACF.L,Macfarlane Group PLC
+PAGPA.L,Paragon Banking Group PLC
+MEGPM.L,ME Group International PLC
+RCP.L,RIT Capital Partners PLC
+NICL.L,Nichols PLC
+RWI.L,Renewi PLC
+ROR.L,Rotork PLC
+PSN.L,Persimmon PLC
+SMDS.L,DS Smith PLC
+TOWNT.L,Town Centre Securities PLC
+TPK.L,Travis Perkins PLC
+VLX.L,Volex PLC
+TRY.L,TR Property Investment Trust PLC
+SDG.L,Sanderson Design Group PLC
+VP.L,VP PLC
+ITM.L,ITM Power PLC
+CNE.L,Capricorn Energy PLC
+BAB.L,Babcock International Group PLC
+SSE.L,SSE PLC
+ECORE.L,Ecora Resources PLC
+HTGR.L,H & T Group PLC
+HRGV.L,Hargreaves Lansdown PLC
+JLP.L,Jubilee Metals Group PLC
+BRK.L,Brooks Macdonald Group PLC
+AZN.L,AstraZeneca PLC
+STEMS.L,SThree PLC
+JDW.L,J D Wetherspoon PLC
+NG.L,National Grid PLC
+TW.L,Taylor Wimpey PLC
+EXPN.L,Experian PLC
+MCB.L,McBride PLC
+GAW.L,Games Workshop Group PLC
+SAA.L,M&C Saatchi PLC
+JDG.L,Judges Scientific PLC
+ZTF.L,Zotefoams PLC
+ELM.L,Elementis PLC
+RNK.L,Rank Group PLC
+VCTX.L,Victrex PLC
+INCH.L,Inchcape PLC
+FGP.L,FirstGroup PLC
+IMB.L,Imperial Brands PLC
+CHCH.L,Churchill China PLC
+CRDA.L,Croda International PLC
+JD.L,JD Sports Fashion PLC
+WIL.L,Wilmington PLC
+HOCM.L,Hochschild Mining PLC
+BALF.L,Balfour Beatty PLC
+BP.L,BP PLC
+RKT.L,Reckitt Benckiser Group PLC
+TATE.L,Tate & Lyle PLC
+IHG.L,InterContinental Hotels Group PLC
+REL.L,RELX PLC
+ULVR.L,Unilever PLC
+BATS.L,British American Tobacco plc
+IMI.L,IMI PLC
+RIO.L,Rio Tinto PLC
+JMAT.L,Johnson Matthey PLC
+DGE.L,Diageo PLC
+WTB.L,Whitbread PLC
+PSON.L,Pearson PLC
+PFC.L,Petrofac Ltd
+AMSU.L,Advanced Medical Solutions Group PLC
+VTYV.L,Vistry Group PLC
+DNLM.L,Dunelm Group PLC
+TTG.L,TT electronics PLC
+TLW.L,Tullow Oil PLC
+SPX.L,Spirax Group PLC
+SYNTS.L,Synthomer PLC
+BTRW.L,Barratt Redrow PLC
+BLND.L,British Land Company PLC
+ABF.L,Associated British Foods PLC
+BNZL.L,Bunzl plc
+DLAR.L,De La Rue PLC
+MGAMM.L,Morgan Advanced Materials PLC
+LAND.L,Land Securities Group PLC
+LGEN.L,Legal & General Group PLC
+MKS.L,Marks and Spencer Group PLC
+HMSO.L,Hammerson PLC
+CCP.L,Celtic PLC
+SBRY.L,J Sainsbury PLC
+GHH.L,Gooch & Housego PLC
+SGRO.L,Segro PLC
+SDR.L,Schroders PLC
+IGRI.L,IG Design Group PLC
+SMIN.L,Smiths Group PLC
+SN.L,Smith & Nephew PLC
+IPX.L,Impax Asset Management Group PLC
+STAN.L,Standard Chartered PLC
+NETC.L,Netcall PLC
+PHP.L,Primary Health Properties PLC
+MUL.L,Mulberry Group PLC
+TSCO.L,Tesco PLC
+CPG.L,Compass Group PLC
+GPEG.L,Great Portland Estates PLC
+BT.L,BT Group PLC
+HLMA.L,Halma PLC
+HSL.L,Henderson Smaller Companies Investment Trust PLC
+TRBG.L,Tribal Group PLC
+VIDV.L,Videndum PLC
+SPT.L,Spirent Communications plc
+RCH.L,Reach PLC
+BWY.L,Bellway PLC
+DPLM.L,Diploma PLC
+MSLH.L,Marshalls PLC
+TEP.L,Telecom Plus PLC
+MCG.L,Mobico Group PLC
+GBGP.L,GB Group PLC
+HWG.L,Harworth Group PLC
+RWA.L,Robert Walters PLC
+HAYS.L,Hays PLC
+SNR.L,Senior PLC
+STVG.L,STV Group PLC
+RS1R.L,RS Group PLC
+IGG.L,IG Group Holdings PLC
+NXT.L,Next PLC
+GSK.L,GSK plc
+III.L,3i Group PLC
+EZJ.L,Easyjet PLC
+BRWM.L,Blackrock World Mining Trust PLC
+HWDN.L,Howden Joinery Group PLC
+KGF.L,Kingfisher PLC
+WEIR.L,Weir Group PLC
+CLSH.L,CLS Holdings PLC
+COA.L,Coats Group PLC
+KLR.L,Keller Group PLC
+ICGIN.L,Intermediate Capital Group PLC
+BLPU.L,Bloomsbury Publishing PLC
+CCC.L,Computacenter PLC
+JLEC.L,Jersey Electricity PLC
+TPT.L,Topps Tiles PLC
+WKP.L,Workspace Group PLC
+XAR.L,Xaar PLC
+OXIG.L,Oxford Instruments PLC
+CCL.L,Carnival PLC
+ASOS.L,ASOS PLC
+PAGE.L,Pagegroup PLC
+ALAPH.L,Alliance Pharma PLC
+IEM.L,Impax Environmental Markets PLC
+ITRK.L,Intertek Group PLC
+SQZ.L,Serica Energy PLC
+UTG.L,Unite Group PLC
+AAL.L,Anglo American PLC
+CLLN.L,Carillion PLC
+RSW.L,Renishaw PLC
+CVSG.L,CVS Group PLC
+DOM.L,Domino's Pizza Group PLC
+SVT.L,Severn Trent PLC
+MBH.L,Michelmersh Brick Holdings PLC
+VOD.L,Vodafone Group PLC
+SRC.L,Sigmaroc PLC
+LIO.L,Liontrust Asset Management PLC
+NXR.L,Norcros PLC
+PGH.L,Personal Group Holdings PLC
+EVOK.L,Evoke PLC
+42TE.L,Co-Operative Group Ltd
+WG.L,John Wood Group PLC
+PPH.L,PPHE Hotel Group Ltd
+HIK.L,Hikma Pharmaceuticals PLC
+IOMG.L,iomart group PLC
+BYG.L,Big Yellow Group PLC
+PCA.L,Palace Capital PLC
+PAFR.L,Pan African Resources PLC
+GNS.L,Genus PLC
+MONY.L,MONY Group PLC
+SOU.L,Sound Energy PLC
+SRB.L,Serabi Gold PLC
+LSL.L,LSL Property Services PLC
+ITV.L,ITV PLC
+BRBY.L,Burberry Group PLC
+ABDN.L,Abrdn PLC
+ADML.L,Admiral Group PLC
+FXPO.L,Ferrexpo PLC
+RSTP.L,Restore PLC
+SMWH.L,WH Smith PLC
+BAG.L,A G Barr PLC
+GRG.L,Greggs PLC
+HTG.L,Hunting PLC
+DSCV.L,discoverIE Group plc
+ALUG.L,Alumasc Group PLC
+AHT.L,Ashtead Group PLC
+ANTO.L,Antofagasta PLC
+JET2.L,Jet2 PLC
+CAL.L,Capital & Regional PLC
+CKN.L,Clarkson PLC
+CARRC.L,Carr's Group PLC
+CPI.L,Capita PLC
+CRPR.L,James Cropper PLC
+ANEA.L,Anglo-Eastern Plantations PLC
+DLN.L,Derwent London PLC
+DWHT.L,Dewhurst Group PLC
+SXS.L,Spectris PLC
+GDWN.L,Goodwin PLC
+HLCL.L,Helical PLC
+HILS.L,Hill & Smith PLC
+LTHM.L,James Latham PLC
+CWK.L,Cranswick PLC
+PORV.L,Porvair PLC
+RAT.L,Rathbones Group PLC
+RCDO.L,Ricardo PLC
+REAH.L,R E A Holdings PLC
+MGNS.L,Morgan Sindall Group PLC
+SHI.L,SIG PLC
+SRP.L,Serco Group PLC
+SGE.L,Sage Group PLC
+TFW.L,FW Thorpe PLC
+TET.L,Treatt PLC
+PNN.L,Pennon Group PLC
+SNWS.L,Smiths News PLC
+YNGa.L,Young & Co's Brewery PLC
+SJP.L,St James's Place PLC
+MNDI.L,Mondi PLC
+BVIC.L,Britvic PLC
+PFD.L,Premier Foods PLC
+MTO.L,Mitie Group PLC
+FRAS.L,Frasers Group PLC
+CSN.L,Chesnara PLC
+SAFE.L,Safestore Holdings PLC
+HFD.L,Halfords Group PLC
+RWS.L,RWS Holdings PLC
+HFG.L,Hilton Food Group PLC
+RMV.L,Rightmove PLC
+BEG.L,Begbies Traynor Group PLC
+KINDsdb.ST,Kindred Group PLC
+CWR.L,Ceres Power Holdings PLC
+YOU.L,YouGov PLC
+ACN.N,Accenture PLC
+ALV.N,Autoliv Inc
+GRMN.N,Garmin Ltd
+SHOE.L,Shoe Zone PLC
+DKSH.S,DKSH Holding AG
+ZELA.CO,Zealand Pharma A/S
+PVNA.MI,Piovan SpA
+BOUL.ST,Boule Diagnostics AB
+SCTS.L,Softcat PLC
+SFER.MI,Salvatore Ferragamo SpA
+NLBR.LJ,Nova Ljubljanska banka dd Ljubljana
+TGYM.MI,Technogym SpA
+AKVA.OL,Akva Group ASA
+GVS.MI,GVS SpA
+LXFR.N,Luxfer Holdings PLC
+PZU.WA,Powszechny Zaklad Ubezpieczen SA
+ROTLV.BX,Banca Transilvania SA
+ROBRD.BX,BRD Groupe Societe Generale SA
+ROSNP.BX,OMV Petrom SA
+THW.ASE,Daniel Thwaites PLC
+SHEP.ASE,Shepherd Neame Ltd
+FDJ.PA,La Francaise des Jeux SA
+BAER.S,Julius Baer Gruppe AG
+KOJAMO.HE,Kojamo Oyj
+YRM.MI,Rosetti Marino SpA
+DETEC.HE,Detection Technology Oyj
+CTT.LS,CTT Correios de Portugal SA
+FACC.VI,FACC AG
+DIDA.MC,Distribuidora Internacional de Alimentacion SA
+VQTG.H,va Q tec AG
+ATTP.WA,Grupa Azoty SA
+PEBB.L,Pebble Group PLC
+JSW.WA,Jastrzebska Spolka Weglowa SA
+ORSTED.CO,Oersted A/S
+TLXGn.DE,Talanx AG
+ANORA.HE,Anora Group Oyj
+BMED.MI,Banca Mediolanum SpA
+ADB.MI,Aeroporto Guglielmo Marconi di Bologna SpA
+SRAIL.S,Stadler Rail AG
+LWBP.WA,Lubelski Wegiel Bogdanka SA
+MONC.MI,Moncler SpA
+WLN.PA,Worldline SA
+TKTT.PA,Tarkett SA
+VLS.PA,Valneva SE
+KRU.WA,Kruk SA
+APIA.L,abrdn Property Income Trust Ltd
+CVTEC.ST,Cavotec SA
+NNIT.CO,NNIT A/S
+B2I.OL,B2 Impact ASA
+ONT.L,Oxford Nanopore Technologies PLC
+TETY.ST,Tethys Oil AB
+VANL.L,Van Elle Holdings PLC
+GOODG.L,Good Energy Group PLC
+AKELd.ST,Akelius Residential Property AB (publ)
+ICESEA.IC,Iceland Seafood Internat hf
+MFONI.RTS,MegaFon PAO
+TC1n.H,Tele Columbus AG
+IVSO.ST,Invisio AB
+IDLA.PA,ID Logistics SAS
+ATYM.L,Atalaya Mining PLC
+FPIP.ST,FormPipe Software AB
+AYV.PA,Ayvens SA
+MONET.PR,Moneta Money Bank as
+JAZZ.OQ,Jazz Pharmaceuticals PLC
+GVOLT.LS,Greenvolt Energias Renovaveis SA
+PCTN.L,Picton Property Income Ltd
+DIGI.BX,Digi Communications NV
+CRTO.OQ,Criteo SA
+ISS.CO,ISS A/S
+RWAY.MI,Rai Way SpA
+CARM.PA,Carmila SA
+FOBANK.CO,Foeroya Banki P/F
+DOTD.L,dotDigital Group PLC
+FNOX.ST,Fortnox AB
+ANIM.MI,Anima Holding SpA
+ENAV.MI,Enav SpA
+HYDR.MM,FGK Rusgidro PAO
+ENAE.WA,Enea SA
+ARGAN.PA,Argan SA
+TOBII.ST,Tobii AB
+RESURS.ST,Resurs Holding AB (publ)
+GSFG.OL,Grieg Seafood ASA
+MTLS.OQ,Materialise NV
+KER.WA,Kernel Holding SA
+SIFG.AS,Sif Holding NV
+VGP1.BR,VGP NV
+ALMT.ST,ALM Equity AB
+HTRO.ST,Hexatronic Group AB
+MBHB.BU,MBH Bank Nyrt
+VOLO.ST,Volati AB
+DOCM.S,DocMorris AG
+TENr.AT,Terna Energy SA
+LSEG.L,London Stock Exchange Group PLC
+DB1Gn.DE,Deutsche Boerse AG
+EAST9.ST,Eastnine AB (publ)
+CPS.WA,Cyfrowy Polsat SA
+ODHN.S,Orascom Development Holding AG
+SB.N,Safe Bulkers Inc
+EDPR.LS,EDP Renovaveis SA
+HMSN.ST,HMS Networks AB
+HNSA.ST,Hansa Biopharma AB
+HPOLb.ST,Hexpol AB
+REJLb.ST,Rejlers AB (publ)
+BRKN.S,Burkhalter Holding AG
+SAGS.L,Science Group PLC
+ROSNN.BX,Societatea Nationala Nuclearelectrica SA
+88CF.L,Heathrow Funding Ltd
+STRV.VI,STRABAG SE
+S92G.DE,SMA Solar Technology AG
+ESUN.S,Edisun Power Europe AG
+IRAO.MM,Inter RAO YEES PAO
+ANTIN.PA,Antin Infrastructure Partners SAS
+SDIS.L,SDI Group PLC
+LOOMIS.ST,Loomis AB
+AO.L,AO World plc
+ZAL.OL,Zalaris ASA
+HLE.DE,Hella GmbH & Co KgaA
+MAST.BU,Masterplast Nyrt
+COME.MI,Comer Industries SpA
+LUVE.MI,Lu-Ve SpA
+SCFG.MI,Salcef Group SpA
+SNL.MI,Sanlorenzo SpA
+PGE.WA,PGE Polska Grupa Energetyczna SA
+BPOST.BR,Bpost SA
+EPIRa.ST,Epiroc AB
+BUFAB.ST,Bufab AB (publ)
+BMAX.ST,Byggmax Group AB
+BULTEN.ST,Bulten AB
+NBIS.OQ,Nebius Group NV
+LUCEL.L,Luceco PLC
+1913.HK,Prada SpA
+ELIOR.PA,Elior Group SA
+TPE.WA,Tauron Polska Energia SA
+CAPP.PA,Capgemini SE
+DOMI.MC,Global Dominion Access SA
+GSJ.MC,Grupo Empresarial San Jose SA
+ORON.S,Orior AG
+GEST.MC,Gestamp Automocion SA
+HUMAN.ST,Humana AB
+NELLY.ST,Nelly Group AB (publ)
+ECEL.L,Eurocell PLC
+DLGD.L,Direct Line Insurance Group PLC
+ENGP.WA,Energa SA
+KID.OL,Kid ASA
+NXPI.OQ,NXP Semiconductors NV
+KTAG.DE,Knaus Tabbert AG
+ELTEL.ST,Eltel AB
+BAES.L,BAE Systems PLC
+MOZN.S,Mobilezone Holding AG
+O5G.DE,CPI Property Group SA
+BOPr.AT,Piraeus Financial Holdings SA
+NBS.L,Nationwide Building Society
+BEAN.S,Belimo Holding AG
+A2.MI,A2A SpA
+SSPG.L,SSP Group PLC
+G1AG.DE,GEA Group AG
+AKRBP.OL,Aker BP ASA
+BAWG.VI,BAWAG Group AG
+JUP.L,Jupiter Fund Management PLC
+MT.AS,ArcelorMittal SA
+LONN.S,Lonza Group AG
+COFA.PA,Coface SA
+AMUN.PA,Amundi SA
+SBER.MM,Sberbank Rossii PAO
+COREa.ST,Corem Property Group AB
+ALRS.MM,AK Alrosa PAO
+MCHN.S,MCH Group AG
+SOGN.PA,Societe Generale SA
+ASRNL.AS,ASR Nederland NV
+UU.L,United Utilities Group PLC
+ELISA.HE,Elisa Oyj
+DOVA.MI,Dovalue SpA
+DNB.OL,Dnb Bank ASA
+FBK.MI,FinecoBank Banca Fineco SpA
+FFARM.AS,ForFarmers NV
+FQT.DE,Frequentis AG
+QCEG.H,Global PVQ SE
+LOCAL.PA,Solocal Group SA
+ISB.IC,Islandsbanki hf
+STMN.S,Straumann Holding AG
+TEF.MC,Telefonica SA
+AGES.BR,Ageas SA
+FNTGn.DE,freenet AG
+XFAB.PA,X Fab Silicon Foundries EV
+QLT.L,Quilter PLC
+STOGR.CO,Scandinavian Tobacco Group A/S
+PHMR.MC,Pharma Mar SA
+SFZN.S,Siegfried Holding AG
+70TD.L,British Telecommunications PLC
+FAG.ST,Fagerhult Group AB
+MUMG.DE,Mensch und Maschine Software SE
+LIAB.ST,Lindab International AB
+BIOX.PA,Biomerieux SA
+PGHN.S,Partners Group Holding AG
+EVKn.DE,Evonik Industries AG
+CLOEb.ST,Cloetta AB
+JHG.N,Janus Henderson Group PLC
+ENENTO.HE,Enento Group Oyj
+BCPT.L,Balanced Commercial Property Trust Ltd
+ENR1n.DE,Siemens Energy AG
+ALRR.WA,Alior Bank SA
+ARISE.ST,Arise AB
+IBST.L,Ibstock PLC
+ANE.MC,Corporacion Acciona Energias Renovables SA
+BAKKA.OL,P/F Bakkafrost
+ARION.IC,Arion banki hf
+AKTIA.HE,Aktia Bank Abp
+PLAZb.ST,Platzer Fastigheter Holding AB (publ)
+NCAB.ST,NCAB Group AB (publ)
+FESTI.IC,Festi hf
+DUST.ST,Dustin Group AB
+PTSB.I,Permanent TSB Group Holdings PLC
+PHOR.MM,PhosAgro PAO
+NOMD.N,Nomad Foods Ltd
+NDXG.DE,Nordex SE
+TT.N,Trane Technologies PLC
+SHCS.L,Shaftesbury Capital PLC
+CURY.L,Currys PLC
+GIBG.H,GSW Immobilien AG
+CAML.L,Central Asia Metals PLC
+VON.AS,VEON Ltd
+CB.N,Chubb Ltd
+THG.L,THG PLC
+AMA.MC,Amadeus IT Group SA
+LYB.N,LyondellBasell Industries NV
+WAWI.OL,Wallenius Wilhelmsen ASA
+WWI.OL,Wilh Wilhelmsen Holding ASA
+ABNd.AS,ABN Amro Bank NV
+EDEN.PA,Edenred SE
+LEON.S,Leonteq AG
+GENG.L,Genuit Group PLC
+ILTY.MI,illimity Bank SpA
+ICOS.MI,Intercos SpA
+OCDO.L,Ocado Group PLC
+SFSN.S,SFS Group AG
+STBS.L,Secure Trust Bank PLC
+SENSI.S,Sensirion Holding AG
+AUTON.S,Autoneum Holding AG
+MAB1.L,Mortgage Advice Bureau (Holdings) PLC
+PCELL.ST,Powercell Sweden AB (publ)
+PRX.AS,Prosus NV
+TTEF.PA,TotalEnergies SE
+CMCX.L,CMC Markets PLC
+GJFG.OL,Gjensidige Forsikring ASA
+PNDORA.CO,Pandora A/S
+PEAN.S,Peach Property Group AG
+GBFG.DE,Bilfinger SE
+CMRE.N,Costamare Inc
+TRYG.CO,Tryg A/S
+IVS.MI,IVS Group SA
+SABT.PA,Oeneo SA
+ICAG.L,International Consolidated Airlines Group SA
+ENT.L,Entain PLC
+AIXGn.DE,Aixtron SE
+APAM.AS,Aperam SA
+AGRO.N,Adecoagro SA
+FREG.DE,Fresenius SE & Co KGaA
+HEIMpref.ST,Heimstaden AB
+IURG.DE,Kap AG
+SRENH.S,Swiss Re AG
+BMKB.L,Benchmark Holdings PLC
+BCHN.S,Burckhardt Compression Holding AG
+FDEV.L,Frontier Developments PLC
+MNG.L,M&G PLC
+RR.L,Rolls-Royce Holdings PLC
+CRLI.MI,Carel Industries SpA
+THULE.ST,Thule Group AB
+GLEN.L,Glencore PLC
+DOMETIC.ST,Dometic Group AB (publ)
+APTV.N,Aptiv PLC
+1910.HK,Samsonite International SA
+CRST.L,Crest Nicholson Holdings PLC
+SES.MI,Sesa SpA
+SDIPpref.ST,Sdiptech AB (publ)
+BOOZT.ST,Boozt AB
+ITECH.ST,I-Tech AB
+ALKS.OQ,Alkermes Plc
+CAMX.ST,Camurus AB
+ORGC.ST,OrganoClick AB
+PUMG.DE,Puma SE
+SAGA.L,Saga PLC
+BKWB.S,BKW AG
+EIMS.IC,Eimskipafelag Islands hf
+EVRE.L,EVRAZ plc
+ELIS.PA,Elis SA
+CCH.L,Coca Cola HBC AG
+PCZ.DE,ProCredit Holding AG
+ADYEN.AS,Adyen NV
+CEY.L,Centamin PLC
+INSEI.L,Inspired PLC
+CPRI.N,Capri Holdings Ltd
+CRAYN.OL,Crayon Group Holding ASA
+HFR.AX,Highfield Resources Ltd
+TKWY.AS,Just Eat Takeaway.com NV
+ST5G.DE,Steico SE
+UNI.MC,Unicaja Banco SA
+BCU.MI,Brunello Cucinelli SpA
+EUFI.PA,Eurofins Scientific SE
+NN.AS,NN Group NV
+SPIE.PA,Spie SA
+AEIGn.DE,Allgeier SE
+GYC.DE,Grand City Properties SA
+FNMA.ST,Ferronordic AB
+ETN.N,Eaton Corporation PLC
+ZUGN.S,Zug Estates Holding AG
+WPPL.WA,Wirtualna Polska Holding SA
+ADVG.DE,Adtran Networks SE
+BTGGga.F,Bertelsmann SE & Co KgaA
+FDM.L,FDM Group (Holdings) PLC
+FOXT.L,Foxtons Group PLC
+BRGB.OL,Borregaard ASA
+SPOT.N,Spotify Technology SA
+PTEC.L,Playtech PLC
+O2Dn.H,Telefonica Deutschland Holding AG
+ANV.MI,Antares Vision SpA
+VSVS.L,Vesuvius plc
+ESTC.N,Elastic NV
+MERIS.ST,Meriaura Group Oyj
+WPP.L,WPP PLC
+CMBN.S,Cembra Money Bank AG
+DFSD.L,DFS Furniture PLC
+OCI.AS,OCI NV
+LEGn.DE,LEG Immobilien SE
+MCKPF.PK,Mallinckrodt PLC
+TFIF.L,TwentyFour Income Fund Ltd
+OVH.PA,Ovh Groupe SA
+COKG.DE,Cancom SE
+OSRn.H,Osram Licht AG
+DNP.WA,Dino Polska SA
+BALCO.ST,Balco Group AB
+MTRS.ST,Munters Group AB
+NWHD.ST,Nordic Waterproofing Holding AB
+MONNA.MI,Monnalisa SpA
+CNH.N,CNH Industrial NV
+ABDP.L,Ab Dynamics PLC
+BGSGH.BB,Sirma Group Holding AD
+BRAV.ST,Bravida Holding AB
+GHC.MI,Garofalo Health Care SpA
+GPI.MI,GPI SpA
+KWS.L,Keywords Studios Ltd
+GWI.L,Globalworth Real Estate Investments Ltd
+WIIT.MI,Wiit SpA
+MDM.PA,Maisons du Monde SA
+FPE3_p.DE,Fuchs Se
+PRGO.N,Perrigo Company PLC
+SIXG.DE,Sixt SE
+TIG.L,Team Internet Group PLC
+VOLCARb.ST,Volvo Car AB
+GLOB.N,Globant SA
+TKOO.PA,Tikehau Capital SCA
+SCST.ST,Scandi Standard AB (publ)
+ODLO.OL,Odfjell Drilling Ltd
+IDSI.L,International Distribution Services PLC
+CWCG.DE,Cewe Stiftung & Co KGaA
+BFSA.DE,Befesa SA
+VIOH.AT,Viohalco SA
+BBOXT.L,Tritax Big Box Reit PLC
+JUSTJ.L,Just Group PLC
+MZXG.DE,Masterflex SE
+SFRG.ST,Stillfront Group AB (publ)
+NPAPER.ST,Nordic Paper Holding AB
+VALMT.HE,Valmet Oyj
+FILA.MI,FILA Fabbrica Italiana Lapis ed Affini SpA
+PNR.N,Pentair PLC
+SWON.S,SoftwareOne Holding Ltd
+TRIFOR.CO,Trifork Group AG
+ENTRA.OL,Entra ASA
+NESF.L,NextEnergy Solar Fund Ltd
+FGENF.L,Foresight Environmental Infrastructure Ltd
+QLINEA.ST,Q linea AB
+VERK.HE,Verkkokauppa.com Oyj
+BOOH.L,Boohoo Group PLC
+LRES.MC,Lar Espana Real Estate SOCIMI SA
+PETSP.L,Pets at Home Group PLC
+DHG.I,Dalata Hotel Group PLC
+CREI.L,Custodian Property Income REIT plc
+STOG_p.DE,Sto SE & Co KgaA
+FEVR.L,Fevertree Drinks PLC
+BETCO.ST,Better Collective A/S
+AY.OQ,Atlantica Sustainable Infrastructure PLC
+MRL.MC,MERLIN Properties SOCIMI SA
+IRES.I,Irish Residential Properties REIT PLC
+HIAG.S,HIAG Immobilien Holding AG
+APPS.MC,Applus Services SA
+ATTOF.PK,Atento SA
+FLOL.L,Flowtech Fluidpower PLC
+ESP.L,Empiric Student Property PLC
+EDRE.MC,eDreams ODIGEO SA
+EQTAB.ST,EQT AB
+NOGN.L,Nostrum Oil & Gas PLC
+ONTEX.BR,Ontex Group NV
+SHOTE.ST,Scandic Hotels Group AB
+ENX.PA,Euronext NV
+FAN.L,Volution Group PLC
+TLGO.MC,Talgo SA
+TOKMAN.HE,Tokmanni Group Oyj
+JCI.N,Johnson Controls International PLC
+FEOIb.ST,Fenix Outdoor International AG
+NEXA.N,Nexa Resources SA
+STLAM.MI,Stellantis NV
+SAPG.DE,SAP SE
+LOG.MC,Logista Integral SA
+AKSOA.OL,Aker Solutions ASA
+MDT.N,Medtronic PLC
+GROWE.MI,Growens SpA
+UBSG.S,UBS Group AG
+OVS.MI,OVS SpA
+CLNX.MC,Cellnex Telecom SA
+VLAN.AS,Van Lanschot Kempen NV
+ZALG.DE,Zalando SE
+XXL.OL,XXL ASA
+IGT.N,International Game Technology PLC
+GAMA.L,Gamma Communications PLC
+NEOEN.PA,Neoen SA
+SBBb.ST,Samhallsbyggnadsbolaget I Norden AB
+INF.L,Informa PLC
+IMCD.AS,IMCD NV
+EMBRACb.ST,Embracer Group AB
+AGRP.L,Assura PLC
+HSS.L,HSS Hire Group PLC
+NSKOG.OL,Norske Skog ASA
+AENA.MC,Aena SME SA
+DOXE.MI,Doxee SpA
+TRC.L,Revel Collective PLC
+GYM.L,GYM Group PLC
+MAGIN.ST,MAG Interactive AB (publ)
+AUTOA.L,Auto Trader Group PLC
+MBBG.DE,MBB SE
+EVOG.ST,Evolution AB (publ)
+INWT.MI,Infrastrutture Wireless Italiane SpA
+OHBG.DE,OHB SE
+K2Apref.ST,K2A Knaust & Andersson Fastigheter AB (publ)
+NHOA.PA,Nhoa SA
+GFG.DE,Global Fashion Group SA
+BCART.BR,Biocartis Group NV
+GSM.OQ,Ferroglobe PLC
+SHA0.DE,Schaeffler AG
+PKTM.S,PIERER Mobility AG
+GREG.MC,Grenergy Renovables SA
+PIHLIS.HE,Pihlajalinna Oyj
+EPR.OL,Europris ASA
+COOR.ST,Coor Service Management Holding AB
+ALIG.ST,Alimak Group AB (publ)
+ADJ.DE,Adler Group SA
+IHPI.L,IntegraFin Holdings plc
+PSMGn.DE,Prosiebensat 1 Media SE
+TIFS.L,TI Fluid Systems PLC
+CCEP.OQ,Coca-Cola Europacific Partners PLC
+GFTG.DE,GFT Technologies SE
+ORSO.MI,Orsero SpA
+1COV.DE,Covestro AG
+G24n.DE,Scout24 SE
+SINCH.ST,Sinch AB (publ)
+MRON.L,Melrose Industries PLC
+GLEG.L,MJ Gleeson PLC
+XIOR.BR,Xior Student Housing NV
+ATTE.ST,Attendo AB (publ)
+FTKn.DE,flatexDEGIRO AG
+GPGR.ST,Genova Property Group AB
+RACE.MI,Ferrari NV
+ALFEN.AS,Alfen NV
+CATME.ST,Catena Media PLC
+FSGF.L,Foresight Group Holdings Ltd
+MRLM.L,Marlowe PLC
+SAXG.DE,Stroeer SE & Co KgaA
+ALIFb.ST,AddLife AB
+WJG.L,Watkin Jones PLC
+VACN.S,VAT Group AG
+CMCL.A,Caledonia Mining Corporation PLC
+SHED.L,Urban Logistics Reit PLC
+FORT.L,Forterra PLC
+BEZG.L,Beazley PLC
+READ.ST,Readly International AB (publ)
+QTCOM.HE,Qt Group Oyj
+LIGHT.AS,Signify NV
+BONAVb.ST,Bonava AB (publ)
+TTALO.HE,Terveystalo Oyj
+BFIT.AS,Basic Fit NV
+COPN.S,Cosmo Pharmaceuticals NV
+IREN.S,Investis Holding SA
+DHH.MI,Dominion Hosting Holding SpA
+SECARE.ST,Swedencare AB (publ)
+GOMX.ST,GomSpace Group AB
+BOWL.L,Hollywood Bowl Group PLC
+TBCG.L,TBC Bank Group PLC
+MAHAa.ST,Maha Energy AB
+TCM.CO,TCM Group A/S
+NRRT.L,Newriver Reit PLC
+ADNT.N,Adient PLC
+FTI.N,TechnipFMC PLC
+RDC.DE,Redcare Pharmacy NV
+FF.MI,Fine Foods & Pharmaceuticals NTM SpA
+2HR.DE,H&R GmbH & Co KgaA
+BICO.ST,BICO Group AB
+CTEC.L,ConvaTec Group PLC
+SAVE.ST,Nordnet AB (publ)
+IG.MI,Italgas SpA
+HUSCO.CO,HusCompagniet A/S
+LIMET.ST,Lime Technologies AB (publ)
+D6HG.DE,Datagroup SE
+EXOR.AS,Exor NV
+CASHP.MC,Prosegur Cash SA
+NEXII.MI,Nexi SpA
+ESSITYb.ST,Essity AB (publ)
+SFOR.L,S4 Capital PLC
+BAMI.MI,Banco BPM SpA
+ECNL.MI,Aquafil SpA
+BOCH.CY,Bank of Cyprus Holdings PLC
+KARNO.ST,Karnov Group AB (publ)
+AAGG.DE,Aumann AG
+IXXG.DE,init innovation in traffic systems SE
+MVC.MC,Metrovacesa SA
+GREENM.CO,GreenMobility A/S
+GALE.S,Galenica AG
+AEDAS.MC,Aedas Homes SA
+ALFAAL.L,Alfa Financial Software Holdings PLC
+ALLIGOb.ST,Alligo AB
+HFGG.DE,Hellofresh SE
+IDIA.S,Idorsia Ltd
+ADMr.AT,Holding Company ADMIE IPTO SA
+GRPG.I,Greencoat Renewables PLC
+JST.DE,Jost Werke SE
+SUPR.L,Supermarket Income REIT PLC
+B4B.DE,METRO AG
+SITT.MI,SIT SpA
+BIRG.I,Bank of Ireland Group PLC
+LANDI.S,Landis+Gyr Group AG
+KETL.L,Strix Group PLC
+KFASTb.ST,K-Fast Holding AB
+MUSTI.HE,Musti Group Oyj
+ENOG.L,Energean PLC
+GLV.I,Glenveagh Properties PLC
+AT1.DE,Aroundtown SA
+NWOn.H,New Work SE
+MLPG.DE,MLP SE
+SMCP.PA,SMCP SA
+NLFSK.CO,Nilfisk Holding A/S
+CLIMEb.ST,Climeon AB (publ)
+FPHG.DE,Francotyp Postalia Holding AG
+ARJOb.ST,Arjo AB (publ)
+EONGn.DE,E On Se
+RHIM.L,RHI Magnesita NV
+EG7.ST,Enad Global 7 AB (publ)
+NVT.N,nVent Electric PLC
+BAKK.L,Bakkavor Group Plc
+SMHNn.DE,SUSS MicroTec SE
+AIBG.I,AIB Group PLC
+CAAP.N,Corporacion America Airports SA
+SHFG.DE,SNP Schneider Neureither & Partner SE
+BNRGn.DE,Brenntag SE
+NWLF.MI,Newlat Food SpA
+DMPG.DE,Dermapharm Holding SE
+SHLG.DE,Siemens Healthineers AG
+BSGR.AS,B&S Group SA
+VRLA.PA,Verallia SA
+NDAFI.HE,Nordea Bank Abp
+MHPCq.L,Mhp Se
+BREE.L,Breedon Group PLC
+OVZON.ST,Ovzon AB (publ)
+ALLFG.AS,Allfunds Group PLC
+CGEO.L,Georgia Capital PLC
+CIBUS.ST,Cibus Nordic Real Estate AB (publ)
+HARVIA.HE,Harvia Oyj
+JDEP.AS,JDE Peets NV
+MXHNn.DE,MAX Automation SE
+DWNG.DE,Deutsche Wohnen SE
+RLT.MI,Relatech SpA
+WBGRb.ST,Wastbygg Gruppen AB (publ)
+MEDA.S,Medartis Holding AG
+SF3.DE,STS Group AG
+NYFO.ST,Nyfosa AB
+SOME.MI,Somec SpA
+NETCG.CO,Netcompany Group A/S
+VPLAYb.ST,Viaplay Group AB (publ)
+VNAn.DE,Vonovia SE
+EBOX.L,Tritax EuroBox PLC
+RAI.L,Ra International Group Plc
+KGHK.L,Knights Group Holdings PLC
+H24.H,Home24 SE
+KSBG.DE,KSB SE & Co KGaA
+TTRGn.DE,technotrans SE
+DHER.DE,Delivery Hero SE
+CWK.N,Cushman & Wakefield PLC
+AMCR.N,Amcor PLC
+HEM.ST,Hemnet Group AB (publ)
+FTCHQ.PK,Farfetch Ltd
+GTX.OQ,Garrett Motion Inc
+WEW.DE,Westwing Group SE
+AML.L,Aston Martin Lagonda Global Holdings PLC
+SIGNC.S,SIG Group AG
+KGX.DE,Kion Group AG
+TPXT.L,Tpximpact Holdings PLC
+TITC.BR,Titan Cement International SA
+PHNX.L,Phoenix Group Holdings PLC
+SBSG.DE,Stratec Se
+AG1G.DE,AUTO1 Group SE
+ACR.OL,Axactor ASA
+CLVT.N,Clarivate PLC
+BPTB.L,Bridgepoint Group PLC
+AFPD.S,Aluflexpack AG
+EMG.L,Man Group PLC
+ALCC.S,Alcon AG
+MOVE.S,Medacta Group SA
+ALEP.WA,Allegro.eu SA
+EVTG.DE,Evotec SE
+8TRA.DE,Traton SE
+FER.MC,Ferrovial SE
+WOSG.L,Watches of Switzerland Group PLC
+EPROb.ST,Electrolux Professional AB (publ)
+KWSG.DE,KWS SAAT SE & Co KgaA
+YOUG.DE,ABOUT YOU Holding SE
+KTEn.H,Katek Se
+BNTX.OQ,Biontech SE
+TMV.DE,TeamViewer SE
+CEMI.MI,Cementir Holding NV
+MUXG.DE,Mutares SE & Co KgaA
+CMPR.OQ,Cimpress PLC
+ENPG.MM,En+ Group MKPAO
+SPECI.L,Inspecs Group PLC
+FRP.L,FRP Advisory Group PLC
+ATCO_pd.N,Atlas Corp
+OSBO.L,OSB Group PLC
+WIX.L,Wickes Group PLC
+AON.N,Aon PLC
+TCAPI.L,TP ICAP Group PLC
+CPRI.MI,Davide Campari Milano NV
+SFQ.DE,Saf-Holland Se
+CTPNV.AS,Ctp NV
+ACCA.OL,Aker Carbon Capture ASA
+BEWI.OL,Bewi ASA
+PODP.L,Pod Point Group Holdings PLC
+HAGG.DE,Hensoldt AG
+RUAL.MM,OK Rusal MKPAO
+DOCS.L,Dr Martens PLC
+BYIT.L,Bytes Technology Group PLC
+MOONM.L,Moonpig Group PLC
+INPST.AS,InPost SA
+TE.PA,Technip Energies NV
+TRST.L,Trustpilot Group PLC
+ATG.L,Auction Technology Group PLC
+RNW.OQ,Renew Energy Global PLC
+AMBP.N,Ardagh Metal Packaging SA
+PBEE.L,Pensionbee Group PLC
+PCOP.WA,Pepco Group NV
+UMG.AS,Universal Music Group NV
+PPGN.S,PolyPeptide Group AG
+EDV.TO,Endeavour Mining plc
+BCG.L,Baltic Classifieds Group PLC
+WPS.L,WAG Payment Solutions PLC
+IVG.MI,Iveco Group NV
+AZE.BR,Azelis Group NV
+ARIS.MI,Ariston Holding NV
+MFEB.MI,MFE-MEDIAFOREUROPE NV
+DTGGe.DE,Daimler Truck Holding AG
+IHS.N,IHS Holding Ltd
+HLN.L,Haleon PLC
+ZGN.N,Ermenegildo Zegna NV
+NRPJ.J,Nepi Rockcastle NV
+DSFIR.AS,DSM-Firmenich AG
+FRO.N,Frontline Plc
+MTRO.L,Metro Bank Holdings PLC
+STM1.DE,Stabilus SE
+DWL.L,Dowlais Group PLC
+LIN.OQ,Linde PLC
+SHUR.BR,Shurgard Self Storage Ltd
+FLOW.AS,Flow Traders Ltd
+SDZ.S,Sandoz Group AG
+AU.N,Anglogold Ashanti PLC
+ARM.OQ,Arm Holdings PLC
+AEGN.AS,Aegon Ltd
+SW.N,Smurfit WestRock PLC
+TEL.N,TE Connectivity PLC
+BRBI.MI,Brembo NV
+E4I.DE,Multitude PLC
+VONN.S,Vontobel Holding AG
+SHBa.ST,Svenska Handelsbanken AB
+SPNO.CO,Spar Nord Bank A/S
+SEBa.ST,Skandinaviska Enskilda Banken AB
+SAN.MC,Banco Santander SA
+NWG.L,NatWest Group PLC
+PRU.L,Prudential PLC
+LLOY.L,Lloyds Banking Group PLC
+KBC.BR,Kbc Groep NV
+JYSK.CO,Jyske Bank A/S
+INVP.L,Investec PLC
+HSBA.L,HSBC Holdings PLC
+SWEDa.ST,Swedbank AB
+ERST.VI,Erste Group Bank AG
+EURBr.AT,Eurobank Ergasias Services and Holdings SA
+DANSKE.CO,Danske Bank A/S
+CAGR.PA,Credit Agricole SA
+CBKG.DE,Commerzbank AG
+BNPP.PA,BNP Paribas SA
+BARC.L,Barclays PLC
+AV.L,Aviva PLC
+SNBN.S,Schweizerische Nationalbank
+PBGG.WA,PBG SA w restrukturyzacji w likwidacji
+DOU1.DE,Douglas AG
+RORRC.BX,Rompetrol Rafinare SA
+BE0010621481.BR,Nationale Maatschappij Der Belgische Spoorwegen
+ZCCM.EUA,ZCCM Investments Holdings PLC
+FCPP.LS,Futebol Clube do Porto Futebol Sad
+MDF.MC,Duro Felguera SA
+BDZ.WA,EC Bedzin SA
+PLAZ.L,Plaza Centers NV
+PPS.L,Proton Motor Power Systems PLC
+VTRr.AT,Bioter SA
+RFK.WA,Rafako SA
+BITr.AT,Bitros Holding SA
+3MAJ.ZA,3 MAJ Brodogradiliste dd
+SPRO.NFF,Sea Production Ltd
+OP.ST,Oscar Properties Holding AB
+VTL.WA,Vistal Gdynia SA
+NORSE.OL,Norse Atlantic ASA
+UCM.BX,UCM Resita SA
+STRAX.ST,Strax AB
+HTWS.L,Helios Towers PLC
+MR3.BB,TEC Maritsa 3 AD
+MCAB.BX,Romcab SA
+SNGGk.DE,Singulus Technologies AG
+YAL.AT,Yalco Constantinou SA
+SGRE.WA,Sadovaya Group SA
+CABLE.AS,Global InterConnection Group Ltd
+OREGE.PA,Orege SA
+1ISK01AE.BV,Colas Slovakia as
+NXTE.MC,Nueva Expresion Textil SA
+ONCP.WA,Onico SA
+ALHPI.PA,Hopium SA
+MS1.DE,Marley Spoon Group SE
+AFHO.WA,Aforti Holding SA
+MTC.L,Mothercare PLC
+WLFD.VI,Wolford AG
+SATr.AT,Sato Office and Houseware Supplies SA
+WIGGk.DE,Sporttotal AG
+ULPL.ZA,Alpha Adriatic dd
+LZTL.PA,Les Hotels de Paris SA
+VCP.L,Victoria PLC
+SIDG.BX,ArcelorMittal Hunedoara SA
+BIA.MI,Bialetti Industrie SpA
+LIG.LS,Lisgrafica Impressao e Artes Graficas SA
+AURIM.ST,Auriant Mining AB
+ENER.MI,Enertronica Santerno SpA
+TAST.L,Tasty PLC
+ALTA.OL,Alternus Energy Group PLC
+IOX.OL,Interoil Exploration and Production ASA
+SFSP.WA,Sfinks Polska SA
+ALAMG.PA,Auplata Mining Group SA
+ISE.MC,Innovative Solutions Ecosystem SA
+ATLA.CO,Atlantic Petroleum P/F
+THNK.ZA,Tehnika dd
+NHST.NFF,Nhst Holding AS
+LEHTO.HE,Lehto Group Oyj
+PS4G.H,Phoenix Solar AG
+KCH.WA,Krakchemia SA
+H9YG.H,HanseYachts AG
+ITMG.DE,Intertainment AG
+LUI.CY,Louis PLC
+RGP.L,Ross Group PLC
+VALOE.HE,Valoe Oyj
+CLC.WA,Columbus Energy SA
+GCAT.L,Caracal Gold PLC
+VESY.BX,Ves SA
+DAFR.BX,Dafora SA
+ALVER.PA,Vergnet Vsa SA
+AGAT.MI,Agatos SpA
+CLEN.VI,Cleen Energy AG
+NTVO.L,Nativo Resources PLC
+AKOBO.OL,Akobo Minerals AB (publ)
+CORO.L,Coro Energy Plc
+AWDR.OL,Awilco Drilling PLC
+ADVr.AT,Ave SA
+ECWI.SCT,Ecolumber SA
+PTRC.BX,Petrocart SA
+GVMH.L,Grand Vision Media Holdings PLC
+EZEN.MC,Grupo Ezentis SA
+VAST.L,Vast Resources PLC
+ALTD.PA,Tonner Drones SA
+ZNT.L,Zentra Group PLC
+URU.L,URU Metals Ltd
+SYME.L,Supply@Me Capital PLC
+ERME.CY,Ermes Department Stores PLC
+JWNG.L,Jaywing PLC
+DSNO.ST,Desenio Group AB (publ)
+PGNG.DE,Paragon GmbH & Co KGaA
+ALEUP.PA,Europlasma SA
+NYR.BR,Nyrstar NV
+EMEL.L,Empyrean Energy PLC
+ALMIB.PA,Amoeba SA
+GWIN.ASE,Gowin New Energy Group Ltd
+COR.L,Corpus Resources PLC
+ALBOO.PA,Boostheat SAS
+ALMAR.PA,Mare Nostrum SA
+ATOP.WA,Aton-Ht SA
+LRK.WA,Lark.pl SA
+VE.MI,Visibilia Editore SpA
+TRAF.L,Trafalgar Property Group PLC
+ICONI.L,Iconic Labs PLC
+IBES.MC,Nyesa Valores Corporacion
+ALCHI.PA,Alchimie SA
+BWZ.MI,Beewize SpA
+SEIFT.MI,Societa Editoriale Il Fatto SpA
+TRYB.L,Tribe Technology PLC
+SEFA.L,Shefa Gems Ltd
+MLONE.EUA,Body One Lingerie SA
+ALAGO.PA,E-Pango SA
+ALENE.PA,Enertime SAS
+COEN.ST,Cortus Energy AB
+CLEP.WA,Coal Energy SA
+MNRG.L,MetalNRG PLC
+VBX.DE,Voltabox AG
+NTOG.L,Nostra Terra Oil and Gas Company PLC
+ALDUX.PA,Adux SA
+RHD.WA,Reinhold Europe AB
+KINO.L,Kinovo PLC
+DURr.AT,Duros SA
+ELEG.L,Electric Guitar PLC
+HANN.MC,Hannun SA
+GIGP.WA,Gi Group Poland SA
+AGU.MI,Arras Group SpA
+NTI.OL,Norsk Titanium AS
+FINM.PA,Financiere Marjos SA
+HHHAk.MU,Homes & Holiday AG
+COMI.BX,Condmag SA
+ELMO.TL,Elmo Rent AS
+BAWAT.ST,Bawat Water Technologies AB
+MAN1.WA,Manydev Studio SE
+ALKALK.L,Alkemy Capital Investments PLC
+BGTPLP.BB,Toplofikacia Pleven AD
+RUSHF.HE,Rush Factory Oyj
+7458.LU,Compagnie Europeenne pour le Developpement d'Entreprises Commerciales SA
+VIVP.WA,Euroinvestment SA
+EGT.L,European Green Transition PLC
+SYMU.L,Symphony Environmental Technologies PLC
+LAH1.MU,Interstahl Handel Holding AG
+ASCR.L,Ascent Resources PLC
+MAV.ST,Mavshack AB (publ)
+KATK.L,Katoro Gold PLC
+MLEAS.EUA,Easson Holdings Ltd
+LES.WA,Less SA
+BASXc.BR,Basilix NV
+CURN.S,Curatis Holding AG
+PNO.NFF,Petrolia Noco AS
+ALCAB.PA,Cabasse SA
+ORCA.CY,Orca Investment PLC
+GEX.L,Georgina Energy PLC
+PET.L,Petrel Resources PLC
+HPEP.WA,Hipower Energy SA
+NICA.ST,Nanologica AB (publ)
+ALENT.PA,Entreparticuliers.com SA
+OGAS.CY,CO Cyprus Opportunity Energy PCL
+EARN.L,Earnz PLC
+INTR.BB,Interlogic Real Estate AD
+FILL.PR,Fillamentum as
+CFI.PA,CFI-Compagnie Fonciere Internationale SCA
+CMRS.L,Critical Mineral Resources PLC
+BLFP.WA,BeLeaf SA
+AINO.ST,Aino Health AB (publ)
+ROFOL.CY,AJ Green Shell PLC
+CXS.ASE,ChallengerX plc
+EPIr.AT,Selected Textile Industries Association SA
+STRDb.TE,Suntrade Group publ AB
+YACHT.CY,Upyachting Management PLC
+FOODr.AT,Foodlink SA
+CPD.WA,CPD SA
+HMPLY.NGM,Hemply Balance Holding AB (publ)
+ARCA.ST,Arcario AB
+CV3.MU,Carpevigo Holding AG
+QBIG.H,Q2M Managementberatung AG
+S6P.F,Spielvereinigung Unterhaching Fussball GmbH & Co KgaA
+SCMG.D,Schumag AG
+TIS0k.F,Tiscon AG
+MFCG.H,Cash Medien AG
+BGHHI.BB,Kostenets HHI AD
+EXJ.DE,Readcrest Capital AG
+BGZG.H,Smart Grids AG
+TR61q.F,TMM Real Estate Development Public Ltd
+VEGA.BB,Vega AD
+RDSL.BB,Rodopska Slava AD
+TUFG.F,Libero football finance AG
+NJOB.ST,NetJobs Group AB
+DEVH.ST,Deversify Health AB (publ)
+BPI.BB,Bolkan Property Instruments ADSITS
+BERP.WA,Brg SA
+TGGP.WA,Triggo SA
+MK30.D,Axenio AG
+SNPM.CY,SNP Southeast Network Public Ltd
+REIB.EUB,Reibel NV
+TCCA.NFF,Containership Company AS
+MLIML.EUA,Imalliance SA
+MLSUM.EUA,Sumo Resources PLC
+GAR.WA,Garin SA
+TQT.MC,Technomeca Aerospace SA
+ZENG.BR,Immo Zenobe Gramme NV
+LIONE.NFF,Lionero AS
+NXAR.NGM,Nexar Group AB
+TOPR.NGM,Topright Nordic AB (publ)
+ALTRA.L,Alt Resources PLC
+KABL.BB,Tk-Imoti AD
+37Gn.D,Ceritech AG
+SEVK.BB,Sevko AD
+YBSP.WA,Yellow Boson SA
+DRR.BB,Drouzhba AD
+IQO.ASE,Inteliqo Ltd
+ZEFG.F,Zhongde Waste Technology AG
+IPWP.WA,Image Power SA
+LND.L,Landore Resources Ltd
+MIO.MC,Media Investment Optimization SL
+PTE.WA,Parcel Technik SA
+SIN.WA,Solar Innovation SA
+MDH.ASE,Mendell Helium PLC
+9MQ.D,HWK 1365 SE
+HEXI.ST,Hexicon AB
+PARAN.BQB,Parans Solar Lighting AB (publ)
+RENT.NGM,Rentunder Holding AB
+PNRM.NFF,Pioneer Marine Inc
+ROCOKG.BX,Comalex SA
+FINI.BB,Real Estate Investments Fund Fini ADSITS
+RRHP.WA,RHG Group SA
+PREBON.TE,Prebona AB
+METK.BB,Metalopack AD
+REVB.L,Revolution Beauty Group PLC
+033A.D,Spac Four AG
+LITO.BX,Litoral SA
+BGIG.BB,Bulgarian Investment Group ADSITS
+67R.D,One Touch Football AG
+C45.D,Faveos Se
+HRCP.WA,Grupa HRC SA
+SKN.WA,Sakana SA
+MLFTI.EUA,France Tourisme Immobilier SA
+WCAT.L,Wildcat Petroleum PLC
+LVCG.L,Live Company Group PLC
+ZENZIPb.TE,Zenergy AB
+LUMG.F,ais AG
+KNOX.OL,Knox Energy Solutions AS
+PYSM.L,Physiomics PLC
+EUZ.L,Europa Metals Ltd
+KIBO.L,Kibo Energy PLC
+TRLr.AT,Wool Industry Tria Alfa SA
+CLON.L,Clontarf Energy PLC
+DVTD.L,Davictus PLC
+LAZI.MI,SS Lazio SpA
+ALUCI.PA,Lucibel SA
+MLRZE.EUL,Raize Instituicao de Pagamentos SA
+EKK1.BE,Reederei Herbert Ekkenga Passagierschiffahrt AG
+DILBc.BR,Immobiliere Distri-Land NV
+T7RAk.H,DWK Deutsche Wasserkraft AG
+ECOM.TE,Ecomb AB (publ)
+POLY.ST,PolyPlank AB (publ)
+RCA.WA,Rocca SA
+AIROBOT.TL,Airobot Technologies AS
+BGSIMT.BB,Simat AD
+LEGP.WA,Legimi SA
+BMNB.L,Bushveld Minerals Ltd
+RDNP.WA,Redan SA
+SARSYS.NGM,Sarsys AB
+ALCE.SCT,Ayco Grupo Inmobiliario SA
+4MBP.WA,4Mobility SA
+TECO.OL,Teco 2030 ASA
+NTS.WA,Notoria SA
+WEBH.L,Webis Holdings PLC
+TRXP.WA,Trex SA
+MDPP.WA,Medcamp SA
+BGBEE.BB,Bee Smart Technologies AD
+EMGS.OL,Electromagnetic Geoservices ASA
+MLPVG.EUA,Groupe Plus Values SA
+ENP.BX,Compania Energopetrol SA
+CRTM.L,Critical Metals PLC
+VULC.ASE,Vulcan Industries PLC
+GSRE.MI,G Rent SpA
+SENSW.NGM,Sustainable Energy Solutions Sweden Holding AB
+AFRIR.NGM,Africa Resources AB (publ)
+LMGP.WA,Live Motion Games SA
+UMR.L,Unicorn Mineral Resources Public Ltd Co
+BLIM.PA,Fonciere 7 Investissement SA
+ELMT.BB,Elektrometal AD
+FEEI.BB,Energetics and Energy Savings Fund ADSITS
+PSIBb.BQB,Petrosibir AB
+HOIb.NGM,Hoi Publishing AB
+ALONNRb.NGM,Archelon Natural Resources AB (publ)
+INPR.BB,Investment Properties In Properties ADSITS
+NILS.ST,Nilsson Special Vehicles AB (publ)
+BUY.ST,Sweden BuyersClub AB
+SNT.L,Sabien Technology Group PLC
+SAMTb.NGM,Samtrygg Group AB (publ)
+KREP.BB,Krepezhni Izdelia AD
+PENSUM.BU,Pensum Group Nyrt
+VLTP.WA,Voolt SA
+MLHPE.EUA,Hopening SA
+ALFO.MI,Alfonsino SpA
+A8NG.MU,aovo Touristik AG
+P24.WA,Present24 SA
+MDZE.L,Mediazest PLC
+AVEP.WA,Advertigo SA
+KBTP.WA,Klabater SA
+GMZ1.WA,Grupa Modne Zakupy SA
+CBD.CY,Constantinou Bros Developers PLC
+HUBS.NGM,Hubbster Group AB (publ)
+FRIr.AT,Frigoglass SAIC
+IPOP.WA,Intersport Polska SA
+GPHP.WA,Advanced Graphene Products SA
+FRON3.CY,Frontarico PLC
+BIOM.L,Biome Technologies PLC
+JOXG.MU,Jost AG
+ALARF.PA,Adeunis SA
+EPRP.WA,Ekopark SA
+TYM.L,Tertiary Minerals PLC
+4NJ.D,Deutsche Payment A1M SE
+MEV.MI,Mevim SpA
+SOMR.BX,Sometra SA
+BYBKk.BE,Red Rock Capital AG
+BGINS.BB,InterStandarts AD
+AOLP.WA,Analizy Online SA
+ECOb.TE,EcoRub AB
+CEEP.BB,CEE Imoti ADSITS
+CHF.L,Chesterfield Resources PLC
+SPNG.MU,Neuhof Textil-Holding AG
+HFI.ASE,Hydrogen Future Industries PLC
+ADVNT.MI,Adventure SpA
+DEV.WA,Energy SA
+HYWG.BE,Hydrotec Gesellschaft fuer Wassertechnik AG
+SAFES.TE,Safe At Sea AB
+VIDA.BB,Vidachim AD
+NOVU.TE,Novus Group International AB
+TLOP.WA,Telesto SA
+CHSSW.L,World Chess PLC
+PR3.MC,Corpfin Capital Prime Retail III SOCIMI SA
+GEM.OL,Green Minerals AS
+ERRIA.CO,Erria A/S
+G6PGn.DE,Going Public Media AG
+ACPA.L,Armadale Capital PLC
+FHD.WA,Fundusz Hipoteczny Dom SA
+MLEAV.EUA,EAVS Groupe Equipements Audiovisuels et Systemes SA
+LAIR.NGM,LightAir AB (publ)
+IMMI.BB,Immi AD
+FUES.BB,Fund Estates ADSITS
+DLC.BB,Delta Credit ADSITS Sofia
+CFG.WA,Creativeforge Games SA
+PDGP.WA,Pyramid Games SA
+NTOr.AT,Doppler SA
+DISP.CY,Display Art PLC
+MEOR.BX,Metalica SA
+BGVNS.BB,Venus AD
+OXEMA.ST,Oxe Marine AB
+GTGS.NGM,Gold Town Games AB
+ALVIA.PA,Vialife SA
+REEA.L,Altona Rare Earths PLC
+MOBT.BX,Mobila Radauti SA
+HRCW.CO,HRC World PLC
+SKAND.OL,Skandia Greenpower AS
+STOZ.BX,Sticloval SA
+BGI.BB,BGI Group AD
+GGTV.MI,Giglio Group SpA
+BGINTL.BB,Interlogic Leasing AD
+ECCP.WA,ECC Games SA
+END.MC,Endurance Motive SA
+BBUI.PA,Barbara Bui SA
+HAMA.L,Hamak Gold Ltd
+DYND.EUA,Dynafond SA
+ORME.BU,Ormester Vagyonvedelmi Nyrt
+ARAX.BX,Armax Gaz SA
+ML2G.F,Ming Le Sports AG
+CFCG.DE,aconnic AG
+BGCITP.BB,Premium Property Invest REIT
+ROZH.BB,Rozachim AD
+SOGES.MI,Soges Group SpA
+ALLAM.PA,Llama Group SA
+NTRb.CO,NTR Holding A/S
+ROARM.BX,Armatura SA
+TTAT.ASE,Time To ACT PLC
+N2Fk.MU,NanoFocus AG
+GPP.BB,Grinders Producing Plant AD
+NBB.L,Norman Broadbent PLC
+DACA.CO,Danish Aerospace Company A/S
+NEWL.ST,Newlist AB (publ)
+INFH.BB,Infra Holding AD
+MOHM.L,MOH Nippon PLC
+APLP.WA,LC SA
+ELLWEE.ST,Ellwee AB (publ)
+IVESP.WA,Investeko SA
+PATP.L,Panthera Resources PLC
+STDP.WA,Standrew SA
+TPD1T.TL,Trigon Property Development AS
+ALGTR.PA,Groupe Tera SA
+NFGAB.ST,Nordic Flanges Group AB (publ)
+BSAP.WA,Bras SA
+CLNBB.MI,CleanBnB SpA
+ALROC.PA,Roctool SA
+MARU.ASE,Marula Mining PLC
+TRIBOb.ST,Triboron International AB
+D2BAk.H,CD Deutsche Eigenheim AG
+HAVI.OL,Havila Shipping ASA
+RMR.L,Rome Resources PLC
+EAM.OL,Eam Solar AS
+PR2.MC,Corpfin Capital Prime Retail II Socimi SA
+GBPq.L,Global Petroleum Ltd
+LITX.MI,Litix SpA
+LEDIBOND.CO,LED iBond International AS
+RO2P.BX,2Performant Network SA
+BIOF.TE,Biofrigas Sweden AB (publ)
+FOU.BR,Fountain SA
+BIOEX.ST,Bioextrax AB publ
+XSG.L,Xeros Technology Group PLC
+RKB1R.RI,Rigas Kugu Buvetava AS
+TOPK.CY,Top Kinisis Travel Public Ltd
+UTR1L.VL,Utenos Trikotazas AB
+RAE.WA,Raen SA
+OMLP.WA,One More Level SA
+LIGR.TE,Lightning Group AB
+NVGP.WA,Novavis Group SA
+IMRP.WA,Intermarum SA
+FRG.L,Firering Strategic Minerals Plc
+NSOL.OL,Norsk Renewables AS
+AXOLOT.ST,Axolot Solutions Holding AB
+NFO.TE,NFO Drives AB
+C0M.F,CCS Abwicklungs AG
+AERWb.TE,Aerowash AB (Publ)
+METTM.CY,Mettmann Public Co Ltd
+STKP.BB,Stock Plus AD
+PCOMb.ST,Precomp Solutions AB (publ)
+QUBP.WA,QubicGames SA
+ALNMG.PA,Netmedia Group SA
+NSAK.D,OTI Greentech AG
+LITF.EUL,Litho Formas SA
+GEMR.L,Gem Resources PLC
+FSDV.PA,Fayenceri Sarreguemin Digoin Vitry Franc SA
+VELB.BB,Velbazhd AD
+OCW.BB,Orpheus Club Wellness AD
+ENRAD.TE,Enrad AB
+ELJ.BX,Electroaparataj SA
+VFFG.MU,Vereinigte Filzfabriken AG
+IPPP.EUA,Immobiliere Parisienne de la Perle et des Pierres Precieuses SA
+HUIgb.ASE,Hydrogen Utopia International PLC
+EIDF.MC,Energia Innovacion y Desarrollo Fotovoltaico SA
+MASIb.BQB,Masify Capital AB (publ)
+CCE1.WA,Clean&Carbon Energy SA
+EVERY.TE,Everysport Group AB (publ)
+GHYP.WA,Global Hydrogen SA
+ALIMR.PA,Immersion SA
+ALIMO.PA,Groupimo SA
+PMA.WA,Prima Moda SA
+INSPL.ST,Insplorion AB
+AEROG.ST,Svenska Aerogel Holding AB (publ)
+0M8W.L,Agility Real Estate Inc
+CDL.L,Cloudbreak Discovery PLC
+HYN.OL,Hynion AS
+GPL.L,Graft Polymer (UK) Plc
+ZED.L,Zenova Group PLC
+HPT.BB,Hydropneumotechnics AD
+URBA.SCT,Urbar Ingenieros SA
+GAL.WA,Galvo SA
+MVWM.OL,M Vest Water AS
+CRMC.BX,Carmeco SA
+EEMS.MI,EEMS Italia SpA
+XBT.BB,Expat Beta ADSITS
+CATN.MC,Catenon SA
+ITB.WA,Interbud Lublin SA
+XDD.WA,Mentzen SA
+FSD.ASE,Field Systems Designs Holdings PLC
+ICIP.WA,IDH Development SA
+MANTEX.ST,Mantex AB
+SAUNA.TL,Saunum Group AS
+AUCP.PA,Augros Cosmetic Packaging SA
+SRES.L,Sunrise Resources Plc
+CLA.CY,Claridge Public Ltd
+TRH.SCT,TR Hotel Jardin del Mar SA
+PALG.DE,PAL Next AG
+E66n.MU,Semodu AG
+SHD.WA,Soho Development SA
+PLATA.CY,Plata Management PLC
+ULCG.DE,United Labels AG
+SBS.CO,SCANDINAVIAN BRAKE SYSTEMS Under frivillig likvidation A/S
+SQC.BB,Square Cube Properties AD
+ALECP.PA,Europacorp SA
+VERY.BB,Vereya Tour AD
+MOVINN.CO,Movinn A/S
+PTP.BB,Plovdiv Tech Park AD
+ACROUD.ST,Acroud AB
+EXEC.MI,Execus SpA
+UPL.L,Upland Resources Ltd
+SBVG.SG,Schwabenverlag AG
+ALDBL.PA,Bernard Loiseau SA
+INSP.L,Inspirit Energy Holdings PLC
+RLVNC.NGM,Relevance Communication Nordic AB
+QIIWI.ST,Qiiwi Games AB (publ)
+ESENSEN.BU,eSense Human Resources Szolgaltato Nyrt
+ORL.WA,Orzel SA
+HPS.WA,Hydrapres SA
+ORCAO.L,Orcadian Energy PLC
+LOVI.TE,Lovisagruvan AB (publ)
+SCBYT.MC,Bytetravel SA
+MEDSr.AT,MED SA
+ARSA.L,Asiamet Resources Ltd
+ESI.MI,Esi SpA
+SDTC.PA,Soditech SA
+EDDS.EUA,Editions du Signe SA
+TSBS.BB,Transstroy Bourgas AD
+ELQ.WA,ELQ SA
+ALGLD.PA,Gold by Gold SA
+ILLA.MI,ILLA SpA
+OJ2.D,Calvert International AG
+TOURN.ST,Tourn International AB (publ)
+SECIT.ST,SECITS Holding AB
+MIZA.BB,Mizia 96 AD
+BGSBS.BB,Specialized Business Systems AD
+ALALO.PA,Acheter Louer Fr SA
+CAPSL.OL,Capsol Technologies ASA
+ROECT.BX,Grupul Industrial Electrocontact SA
+SLOTTb.TE,Slottsviken Fastighetsaktiebolag (publ)
+TRNB.BB,Transstroy AM AD
+VLC.MI,Valica SpA
+AKUM.BB,Akumplast AD
+SFL.ST,Safello Group AB
+MLVST.EUA,Televista SA
+TINCk.H,Baumot Group AG
+SOLIDX.TE,SolidX AB
+MLMAZ.EUB,Mazaro NV
+CIRCHE.ST,CirChem AB
+UTG1.ST,Unlimited Travel Group UTG AB (publ)
+PAG.MI,Porto Aviation Group SpA
+FDA.MI,Fidia SpA
+MAHVIE.NGM,Mahvie Minerals AB (publ)
+PACY.BX,Palace SA
+AEO.L,Aeorema Communications PLC
+BGPARK.BB,Park ADSITS
+EST.L,East Star Resources PLC
+286n.MU,NCTE AG
+TDE.MI,Trendevice SpA
+JOBS.ST,Job Solution Sweden Holding AB (publ)
+PAIr.AT,E Pairis SA
+MEX.L,Tortilla Mexican Grill PLC
+WPU.OL,Wpu Waste Plastic Upcycling A/S
+CRDO.CY,Corado Management Plc
+SGCO.MI,SG Company SB SpA
+XAVIb.NGM,Xavi Solutionnode AB (publ)
+INSI.BX,Industria Sarmei Campia Turzii SA
+GNGP.WA,G Energy SA
+MLLCB.EUA,Les Constructeurs du Bois SA
+GAG0k.DE,GORE German Office Real Estate AG
+EASYb.TE,EasyFill AB (publ)
+TGTG.DE,11 88 0 Solutions AG
+SAXGR.ST,Saxlund Group AB
+WMA.CO,WindowMaster International A/S
+MPAY.WA,mPay SA
+SMLP.L,Strategic Minerals PLC
+EPRB.MI,Eprcomunicazione SpA Societa Benefit
+BLUEL.NGM,Bluelake Mineral AB (publ)
+MEXP.WA,Mex Polska SA
+LEV.AT,N Leventeris SA
+VRS.L,Versarien PLC
+FCMF.L,First Class Metals PLC
+ARNG.D,Arn Georg AG
+DGA.WA,DGA SA
+ABAS.TE,ABAS Protect AB
+BE0003861789.BR,Growners SA
+TOSP.WA,Tamex Obiekty Sportowe SA
+TUR.MC,Tubos Reunidos SA
+COTM.BX,Comat Galati SA
+AVTCHb.ST,Avtech Sweden AB (publ)
+AGPP.WA,Agromep SA
+ALCBX.PA,Cibox Inter@ctive SA
+WAFR.ASE,Walls & Futures REIT PLC
+TTAU.ASE,Tectonic Gold PLC
+ALAQU.PA,Aquila SA
+CHPP.WA,Cherrypick Games SA
+ARKA.L,Arkle Resources PLC
+KRS.L,Keras Resources PLC
+COM.L,Comptoir Group PLC
+FMETF.L,Fulcrum Metals PLC
+JANJ.L,Jangada Mines PLC
+ALLGO.PA,Largo SA
+SAL.L,Spaceandpeople PLC
+BGSFB.BB,Sopharma Buildings ADSITS
+EUTR.BB,Euroterra Bulgaria AD
+ATOMA.L,Atome PLC
+AUK.L,Aukett Swanke Group PLC
+PHSC.L,PHSC PLC
+ITXA.PA,Intexa SA
+VPOM.BB,Vipom AD
+MBO.L,MobilityOne Ltd
+NTCP.WA,New Tech Capital SA
+ALPCV.PA,Cerinnov Group SA
+IFLEX.MC,Iflex Flexible Packaging SA
+C3U.L,Christie Group plc
+MDIP.WA,MDI Energia SA
+KOYIM.CY,K Kouimtzis SA
+V1W0g.D,Elaris AG
+IGHZ.ZA,Institut IGH dd
+EBX.WA,Ekobox SA
+ABIGR.NGM,Abelco Investment Group AB
+HYDRCT.CO,Hydract A/S
+SCW.WA,Scanway SA
+PHLX.AS,Alumexx NV
+ENSG.CO,Ennogie Solar Group A/S
+WEBO.MI,Websolute SpA
+ATN.L,Aterian PLC
+235H.BB,235 Holdings AD
+BZR.BB,Balkancar Zarya AD
+IZO.WA,Izolacja Jarocin SA
+OSUN.OL,Ocean Sun AS
+3SQ1.F,AHT Syngas Technology NV
+ZUK.WA,Zaklady Urzadzen Kotlowych Staporkow SA
+CIRCLEb.ST,Circle Energy Sweden AB (publ)
+ORAT.CY,Oratco Public Company Ltd
+PALMP.L,Panther Metals Plc
+GSCUG.L,Great Southern Copper PLC
+AZC.WA,Aztec International SA
+COBR.L,Cobra Resources PLC
+RELR.LJ,Relax dd
+GENI.ST,Generic Sweden AB (publ)
+FTSHP.PR,Footshop as
+HYDP.ASE,Hydro Hotel Eastbourne PLC
+C1Y.L,Carclo PLC
+MASTM.L,Mast Energy Developments PLC
+MSMN.L,Mosman Oil and Gas Ltd
+HOMEb.TE,HomeMaid AB (publ)
+BGERG.BB,ERG Capital-3 ADSITS
+ITERA.OL,Itera ASA
+MLHYE.EUA,Hydro Exploitations SA
+COLOS.PR,Coloseum Holding as
+ALNLF.PA,Neolife SA
+NRF.BX,Norofert SA
+SERT.ST,Serstech AB
+AYDGn.DE,Artnet AG
+MRV.AT,Minerva Knitwear SA
+BPCINS.TE,BPC Instruments AB
+AXIC.ST,aXichem AB (publ)
+ARCT.ST,Arctic Minerals AB (publ)
+ARDPa.EUA,Les Motocycles Ardoin Saint Amand & Cie SA
+SKN1T.TL,Nordic Fibreboard AS
+EXLn.DE,Exasol AG
+RUC0k.H,Rim AG
+LOCA.EUA,Locasystem International SA
+NGOL.ST,Northgold AB
+MLMAD.EUA,Made SA
+VERN.EUA,Verney Carron SA
+MEGP.WA,Megaron SA
+MCLR.NGM,Medclair AB
+75Sn.DE,Sdm SE
+ZRE.WA,Zaklad Budowy Maszyn Zremb Chojnice SA
+HMI.L,Harvest Minerals Ltd
+EEX.WA,Eko Export SA
+DART.MI,Deodato.Gallery SpA
+DTRP.WA,Digitree Group SA
+XBS.WA,XBS Pro Log SA
+SBDS.L,Silver Bullet Data Services Group PLC
+F51.WA,Farm 51 Group SA
+JFIGk.BE,Janosch film & medien AG
+ASPL1.CY,Aphrodite Springs Public Ltd
+ALFUM.PA,Fill Up Media SA
+ATCA.ASE,All Things Considered Group PLC
+HDD.L,Hardide PLC
+ACQ.MI,Acquazzurra SpA
+NEOL.BX,Neptun Olimp SA
+KLIKY.PR,M&T 1997 as
+ENPP.WA,Energoaparatura SA
+TMPGP.MI,Tmp Group SpA
+BGFORM.BB,Formoplast AD
+USWE.ST,USWE Sports AB
+CHSS.PA,La Chausseria SA
+NXIG.H,Activa Resources AG
+SLNG.L,H C Slingsby PLC
+FONDIA.HE,Fondia Oyj
+IUBR.BX,IUS SA
+OAB0k.H,OAB Osnabruecker Anlagenund Beteiligungs-AG
+IHPG.LJ,Inles dd
+STNM.BX,Santierul Naval 2 Mai SA
+EARO.EUA,Compagnie des Eaux de Royan SA
+LDSG.L,Leeds Group PLC
+WTGR.TE,Wonderful Times Group AB
+FCHK.L,Fletcher King PLC
+DGI.L,DG Innovate PLC
+FABLE.TE,Fable Media Group AB
+SDGP.WA,Sundragon SA
+GTC.L,Getech Group PLC
+PLEKk.F,Plenum AG
+BRCR.BX,Braiconf SA
+PHOLpref.NGM,Preservia Holding AB
+PIIPPO.HE,Piippo Oyj
+SLSP.BB,SLS Realty ADSITS
+KAKEL.ST,Kakel Max AB (publ)
+LYGRD.ST,Lyckegard Group AB
+OKEAC.CO,Det Oestasiatiske Kompagni A/S
+RBL.BB,Real Bulland AD
+ICC.MI,International Care Company SpA
+ECG.MC,Euroconsult Engineering Consulting Group SA
+AFPA.L,African Pioneer PLC
+FACY.BX,Fabrica de Scule Rasnov SA FSR SA
+RBT.MC,Robot SA
+VPABb.TE,Veteranpoolen AB
+KEN.L,Kendrick Resources PLC
+ERCr.AT,Euroconsultants SA
+PHLY.OL,Philly Shipyard ASA
+VYT.MC,Vytrus Biotech SA
+VEEP.WA,Vee SA
+DIT.MI,Destination Italia SpA
+ROSTZ.BX,Sinteza SA
+GIFP.WA,Gaming Factory SA
+HIFAb.ST,Hifab Group AB
+DCTA.L,Directa Plus PLC
+PALLAS.HE,Pallas Air Oyj
+FREETR.TE,Freetrailer Group A/S
+PTW.WA,Polskie Towarzystwo Wspierania Przedsiebiorczosci SA
+ECRE.L,ECR Minerals PLC
+IMCI.L,IMC Exploration Group PLC
+KMM.BB,KMM AD
+EALF.BB,Elana Agricultural Land Fund ADSITS
+XHS.MI,Xenia Hotellerie Solution SpA SB
+AGDCU.EUL,Sociedade das Aguas da Curia SA
+MAXIMA.BN,Promaxima Immobilien AG
+CVG.MI,Convergenze SpA SB
+MSP.WA,Mostostal Plock SA
+TAND.L,Tan Delta Systems PLC
+MTFR.MI,Mondo TV France SA
+DMKER.BU,DM KER Nyrt
+VISr.AT,VIS Containers Manufacturing SA
+GIVG.F,Verianos Se
+CAOR.BX,SIF Hoteluri SA
+ALNA.L,Alina Holdings PLC
+EAV.MI,Emma Villas SpA
+AIKb.NGM,AIK Fotboll AB
+DGRG.DE,Deutsche Grundstuecksauktionen vormals Berliner Grundstuecksauktionen AG
+TCMA.MI,Tecma Solutions SpA
+LDB.MI,Lindbergh SpA
+SYNS.L,Synergia Energy Ltd
+ABSLb.TE,Absolicon Solar Collector AB
+WNRG.L,Westmount Energy Ltd
+REALFI.ST,Realfiction Holding AB
+AFN.L,ADVFN PLC
+OTAQ.ASE,OTAQ PLC
+JAJP.PA,Groupe JAJ SA
+CHRA.EUA,Imprimerie Chirat SA
+BODP.L,Botswana Diamonds PLC
+GTSP.WA,Geotrans SA
+UOGU.L,United Oil & Gas PLC
+CLRE.MC,Clerhp Estructuras SA
+MLCOR.EUA,Corep Lighting SA
+WHH.WA,Werth Holz SA
+CRCL.L,Corcel PLC
+NOTEK.ST,Norditek Group AB
+OZE.WA,Oze Capital SA
+TRT.L,Transense Technologies PLC
+QUAD.BB,Quantum Developments ADSITS
+NEWS.EUA,Nicolas Miguet et Associes SA
+FLSP.EUB,Flowsparks NV
+MTEP.WA,Minutor Energia SA
+GHM.MT,Grand Harbour Marina PLC
+ENRS.MC,Enerside Energy SA
+MYXM.L,MYCELX Technologies Corp
+MLECO.EUA,Ecolutions GmbH & Co KgaA
+ROLLI.ST,Rolling Optics Holding AB
+BULK.NFF,GoodBulk Ltd
+TOME.L,TomCo Energy PLC
+GOG1.H,Afrika Gold AG
+FBAP.PA,Fashion B Air SA
+ALMLB.PA,Miliboo SA
+FCHT.MI,Franchetti SpA
+TRRP.WA,Termo Rex SA
+SKLS.L,Skillcast Group PLC
+CMET.L,Capital Metals PLC
+MLSEQ.EUA,Sequa Petroleum NV
+PHYRpref.NGM,Preservia Hyresfastigheter AB (publ)
+ALATA.PA,Atari SA
+ROTRNG.BX,Transgex SA
+ZIN.L,Zinc Media Group PLC
+STGS.L,Strip Tinning Holdings PLC
+AEGA.OL,Aega ASA
+MLNEU.EUB,Compagnie Financiere de Neufcour SA
+1VIP01AE.BV,Vipo as
+1PRV001E.BV,Prva Strategicka as
+CANDLEb.ST,Candles Scandinavia AB
+BZT.L,Bezant Resources PLC
+ALAGP.PA,Agripower France SASU
+MCJ.ASE,Majestic Corporation PLC
+FMGP.WA,Wise Energy SA
+YOS.WA,Yoshi Innovation SA
+ALGID.PA,Egide SA
+DWELLOP.NFF,Dwellop AS
+CORRE.I,Corre Energy BV
+VIMAB.ST,VIMAB Group AB (publ)
+TGAMES.CO,TROPHY GAMES Development A/S
+ANGLR.TE,Angler Gaming PLC
+VERTIKAL.BU,Vertikal Group Nyrt
+CDA1.WA,CDA SA
+TSEC.ST,Tempest Security AB
+QED.L,Quadrise PLC
+WSBN.L,Wishbone Gold PLC
+KVOG.MU,Oberstdorfer Bergbahn AG
+ENEFI.BU,ENEFI Vagyonkezelo Nyrt
+VELV.L,Velocity Composites PLC
+FIEr.AT,Fieratex SA
+BELLN.MI,Bellini Nautica SpA
+DBE.WA,DB Energy SA
+TRWL.MI,TraWell Co SpA
+HUTV.VI,Hutter & Schrantz AG
+ORCP.L,Oracle Power PLC
+SKAS.L,Shuka Minerals PLC
+MLFXO.EUA,Finaxo Environnement SA
+ROBCM.BX,Casa de Bucovina Club de Munte SA
+AMAk.DE,Altech Advanced Materials AG
+TNX.MI,Tenax International SpA
+FZTC.MI,FinanzaTech SpA SB
+BIRO.MI,Estrima SpA
+ALTBG.PA,Blockchain Group SA
+MATr.AT,Mathios Refractory SA
+SYMA.BR,Softimat SA
+POZ.MI,Pozzi Milano SpA
+PGMP.WA,PMPG Polskie Media SA
+FLEXQ.ST,FlexQube AB (publ)
+TRVM.BX,Transcom SA
+AAB.CO,Aalborg Boldspilklub A/S
+HOTEL.ST,First Hotels AB (publ)
+MIRI.L,Mirriad Advertising PLC
+INTA.BX,Independenta SA
+ASTOR.NGM,Scandinavian Astor Group AB
+SPRB.EUA,Speed Rabbit Pizza SA
+WINKM.L,M Winkworth PLC
+AGRO.CY,Agros Development Company Proodos Public Ltd
+CIRC.MI,Circle SpA
+YMPI.MC,Mistral Patrimonio Inmobiliario SOCIMI SA
+LS.MI,Lemon Sistemi SpA
+OGUNb.ST,Ogunsen AB (publ)
+XTP.WA,XTPL SA
+PHTK.CY,Philoktimatiki Public Ltd
+AEDES.MI,Aedes Ligure per Imprese e Costruzioni SpA
+WISE.ST,Wise Group AB
+PRTE.WA,Protektor SA
+TOW.WA,Tower Investments SA
+ALISP.PA,ISPD Network SA
+KYRr.AT,Kiriacoulis Mediterranean Cruises Shipping SA
+HAVH.OL,Hav Group ASA
+MILA.L,Mila Resources PLC
+ALENO.PA,Enogia SA
+MDSP.ZA,Modra Spilja dd
+EEEE.L,Empire Metals Ltd
+HAYD.L,Haydale Graphene Industries PLC
+B90.L,B90 Holdings PLC
+BEZVA.PR,Bezvavlasy as
+ELBG.DE,elumeo SE
+ROCKR.L,Rockfire Resources PLC
+ALWTR.PA,Osmosun SA
+PLIP.WA,Platige Image SA
+GMET.L,Guardian Metal Resources PLC
+BE0003849669.BR,EMD Music SA
+OPBI.BB,Opportunity Bulgaria Investment AD
+SECU.MC,Secuoya Grupo de Comunicacion SA
+GRL.L,GoldStone Resources Ltd
+ATPr.AT,Attica Publications SA
+CLAB.MI,Clabo SpA
+COVB.BX,Confectii Vaslui SA
+MOMENT.ST,Moment Group AB
+MOJ.WA,Moj SA
+ESPE.MI,Espe SpA
+FAB1.WA,Fabrity Holding SA
+JWW.WA,JWW Invest SA
+METAC.ST,Metacon AB (publ)
+BATTM.NGM,Eurobattery Minerals AB
+ALCWE.PA,Charwood Energy SA
+ALPRI.PA,Prismaflex International SA
+BGLAND.BB,Bulland Investments ADSITS
+CDGI.MI,Casta Diva Group SpA
+RCMN.DE,RCM Beteiligungs AG
+NREST.ST,Nordrest Holding AB
+REALC.EUB,Realco SA
+PROr.AT,Proodeftiki Technical Co SA
+EVAS.MI,Askoll Eva SpA
+PRYM.WA,Prymus SA
+GWMO.L,Great Western Mining Corporation PLC
+BRLG.H,Brilliant AG
+CARDEO.NGM,Cardeon AB (publ)
+FOOTpref.ST,Footway Group AB
+NORRH.HE,Norrhydro Group Oyj
+BDPH.MT,Best Deal Properties Holding PLC
+VGM.OL,Vow Green Metals AS
+LANr.AT,Lanakam SA
+ALESA.PA,Ecoslops SA
+RNCP.WA,Reino Capital SA
+TPLR.BB,Toplofikatsia Ruse AD
+ALUVI.PA,UV Germi SA
+RTCR.L,RTC Group PLC
+XYLr.AT,Interwood Xylemboria ATENE
+REFE.BX,Remarul 16 Februarie SA
+IMS.WA,IMS SA
+MZA.WA,Muza SA
+ELGS.BX,Electroarges SA
+ATRP.WA,Atrem SA
+GCOM.MI,Giglio.Com SpA
+RONORD.BX,Nord SA
+SODER.ST,Soder Sportfiske AB
+FARF.L,Ferro-Alloy Resources Ltd
+PRABS.PR,Prabos Plus as
+ALADO.PA,Adomos SA
+STONE.CY,Paphos Stone C Estates Plc
+ITTr.AT,Intertech SA
+NIUTEC.NGM,Niutech Group AB
+SAC.MI,Saccheria FLli Franceschetti SpA
+REAT.L,React Group PLC
+BSPC.OL,Black Sea Property AS
+GRANGX.NGM,GRANGEX AB (publ)
+ASMG.WA,ASM Group SA
+ELSA.MI,Elsa Solutions SpA
+KDR.L,Karelian Diamond Resources PLC
+SUSG.TE,Sustainion Group AB
+KTEX.BB,Katex AD
+SNDA.L,Sunda Energy PLC
+SF.MI,SIF Italia SpA
+ERGA.WA,ERG SA
+MARAS.HE,Martela Oyj
+HERC.L,Hercules Site Services PLC
+HEGR.ST,Hedera Group AB (publ)
+HOVE.CO,Hove A/S
+IBSP.WA,Wise Finance SA
+HBGF.BB,HBG Investment Property Fund ADSITS
+PROC.L,Procook Group PLC
+MZ.MT,M&Z PLC
+BMMG.F,Brueder Mannesmann AG
+PIP.AT,Pipe Works L Girakian Profil SA
+PHEG.L,Powerhouse Energy Group PLC
+SFDP.WA,SFD SA
+AVIO.BX,Avioane Craiova SA
+FOR.WA,Forever Entertainment SA
+NAF.AT,Nafpaktos Textile Industry SA
+DNM.L,Dianomi PLC
+EQIP.ASE,Equipmake Holdings PLC
+NTQ.L,Enteq Technologies PLC
+ITXI.L,Itaconix PLC
+NISCH.NGM,Nischer Properties AB
+MELE.BX,Metal Lemn SA
+LNS1L.VL,Linas AB
+MET1.L,Metals One PLC
+EWA1L.VL,East West Agro AB
+SINT.ST,SinterCast AB
+BGPREM.BB,Premier Fund ADSITS
+ALDBT.PA,DBT SA
+GROC.L,GreenRoc Strategic Materials PLC
+BGNLC.BB,Neo London Capital AD
+FZLS.BB,Fazerles AD
+DEX.BB,Decotex AD
+MECF.BX,Mecanica Ceahlau SA
+BBRD.BB,Billboard AD
+NOVAM.MI,Novamarine SpA
+NGSG.ST,NGS Group AB
+ROUNVR.BX,Univers SA
+SNOX.ASE,SulNOx Group PLC
+MERA.WA,Mera SA
+THAL.L,Thalassa Holdings Ltd
+FDE.MI,Frendy Energy SpA
+APEP.WA,APS Energia SA
+08N.WA,Octava SA
+EROG.DE,Tmc Content Group AG
+MNS.WA,Mennica Skarbowa SA
+ALDEV.PA,Devernois SA
+YDES.MC,Desarrollos Ermita del Santo SOCIMI SA
+PREB.BX,Prebet Aiud SA
+SFCA.PA,Societe Francaise de Casinos SA
+YTAR.MC,Tarjar Xairo Socimi SA
+ENIP.WA,Energoinstal SA
+GELE.MI,Gel SpA
+RGL.BB,Regala Invest AD
+GPA.LS,Imobiliaria Construtora Grao Para SA
+IFS1.F,infas Holding AG
+EFAH.CY,Efa Holdings Plc
+CMCM.BX,COMCM SA
+FORS.CY,Cyprus Forest Industries Public Ltd
+ALBA.L,Alba Mineral Resources PLC
+RDF.MI,Redelfi SpA
+ECOB.L,Eco Buildings Group PLC
+CLED.MI,Class Editori SpA
+GISM.MI,Gismondi 1754 SpA
+TRAIN.MI,Bertolotti Impianti per l'industria Siderurgica e Mineraria SpA
+UZIN.BX,Uzinexport SA
+ASP.BX,Rafinaria Astra Romana SA
+SCHOS.L,Scholium Group PLC
+EGLB.MI,E-Globe SpA
+S247.L,Smarttech247 Group PLC
+LAB.WA,Labo Print SA
+WRKS.L,Works co uk PLC
+ROAG.BX,Agroland Business System SA
+PITG.F,Pittler Maschinenfabrik AG
+LASIA.MI,La Sia SpA
+STSM.MT,Santumas Shareholdings Plc
+LINKAB.ST,Link Prop Investment AB (publ)
+ALMCE.PA,Mon Courtier Energie SAS
+YFID.MC,Fidere Patrimonio SOCIMI SA
+ALU.BX,Alumil Rom Industry SA
+PGAG.F,Pearl Gold AG
+BGPET.BB,Petrol AD
+IQL.F,iQ International AG
+EPIEN.CY,Selected Energy SA
+ICPD.BB,InterCapital Property Development ADSITS
+SPME.DE,Splendid Medien AG
+MSC.MT,Main Street Complex PLC
+IR1.MU,Immovaria Real Estate AG
+AKRr.AT,Akritas SA
+BGARCT.BB,Arco Towers ADSITS
+NIO.ST,Nordic Iron Ore AB
+CBAM.CY,Constantinou Bros Properties PLC
+AUTGA.L,Autins Group PLC
+GUGEO.ST,Guideline Geo AB (publ)
+SYS1.L,System1 Group PLC
+SIRM.BX,Sinterom SA
+ALDNX.PA,Dnxcorp Se
+PORTO.MI,Portobello SpA
+BOTX.ST,Botnia Exploration Holding AB (publ)
+STID.EUA,Streit Mecanique SA
+ARCMA.L,Arc Minerals Ltd
+ALORA.PA,Altheora SA
+MERUS.HE,Merus Power Oyj
+GJAB.TE,Gullberg & Jansson AB (publ)
+ADME.L,Adm Energy PLC
+SDX.L,SDX Energy PLC
+NCHI.BX,Scala Development SA
+LRQ.WA,Larq SA
+CICO.BX,Ci-Co SA
+SALTb.ST,SaltX Technology Holding AB (publ)
+GLR.L,Galileo Resources PLC
+CONQ.BX,Contactoare SA
+VAREV.L,Various Eateries PLC
+ROALT.BX,Altur SA
+PLC.MI,PLC SpA
+JDGT.ZA,Jadroagent dd
+CEAG.DE,Friwo AG
+KZG.L,Kazera Global PLC
+KELAS.HE,Kesla Oyj
+KBG.BB,Korado Bulgaria AD
+PEDU.S,Perrot Duval Holding SA
+NHB0n.MU,Nebelhornbahn-AG
+GAMB.MI,Gambero Rosso SpA
+COSMO.MI,Farmacosmo SpA
+IAMU.BX,IAMU SA
+AMUND.AS,Almunda Professionals NV
+HEDV.VI,Maschinenfabrik Heid AG
+AKTV.BB,Aktiv Properties ADSITS
+KARIN.PR,Karo Leather as
+LEX.L,Lexington Gold Ltd
+RPF.BB,ROI Property ADSITS
+DIG1.WA,Digital Network SA
+DKRr.AT,Domiki Kritis SA
+BCEB.L,Beacon Energy PLC
+SESA.WA,Sescom SA
+STWA.ST,SeaTwirl AB (publ)
+FFLY.ST,Firefly AB
+KOM.MC,Plasticos Compuestos SA
+BLTP.WA,Balticon SA
+SKEH.BB,St St Constantine and Helena Holding AD
+KLEEb.CO,BRD Klee A/S
+AVOM.PA,Avenir Telecom SA
+KEKr.AT,Kekrops SA
+GML.MI,GM Leather SpA
+ORR.L,Oriole Resources PLC
+SCIG5.MC,Inbest GPF Mutli Asset Class Prime V SOCIMI SA
+MIND.L,Mind Gym PLC
+LMIA.DE,Lion E Mobility AG
+FOJE.BX,Foraj Sonde SA Videle
+UAM.BX,UAMT SA
+GJ.CO,Glunz & Jensen Holding A/S
+SOLNA.ST,Solnaberg Property AB (publ)
+HZY.MI,Homizy Siiq SpA
+DUNA.BU,Duna House Holding Nyrt
+SNW.WA,Sanwil Holding SA
+CGO.L,Contango Holdings PLC
+YINB7.MC,Inbest Prime VII Inmuebles Socimi SA
+BETOLAR.HE,Betolar Oyj
+FRB1.WA,Forbuild SA
+CRU.L,Coral Products PLC
+PRIUA.PR,Primoco UAV SE
+HSM.L,Samuel Heath and Sons PLC
+ECKS.MI,Ecosuntek SpA
+NTW.MI,Netweek SpA
+EDII.MI,Monrif SpA
+TLSA.MI,Telesia SpA
+MMAG.L,musicMagpie PLC
+NUMND.OL,Nordic Unmanned ASA
+ALRGR.PA,Rougier SA
+KCR.L,KCR Residential REIT PLC
+EAHP.WA,Esotiq & Henderson SA
+BHL.L,Bradda Head Lithium Ltd
+AEGR.L,Active Energy Group PLC
+RBWR.L,Rainbow Rare Earths Ltd
+GRC.WA,Grupa Recykl SA
+NVPP.MI,Nvp SpA
+UZT.BX,Uztel SA
+RSS.MC,Revenga Ingenieros SA
+ROCKW.BR,Whitestone Group SA
+UPET.BX,Upet SA
+ALCAP.PA,Capelli SA
+GELN.L,Gelion PLC
+MFTC.MI,Matica Fintec SpA
+AALLON.HE,Aallon Group Oyj
+ALUPG.PA,Upergy
+RES.MI,Recupero Etico Sostenibile SpA
+ALBIZ.PA,Obiz SA
+SMN.MI,Simone SpA
+ATAP.WA,ATC Cargo SA
+SMWN.DE,SM Wirtschaftsberatungs AG
+DRIL.ST,Drillcon AB
+ECMB.MI,Ecomembrane SpA
+ALVAP.PA,Kumulus Vape SA
+PRMP.WA,Prochem SA
+POWP.L,Power Metal Resources PLC
+PRES.L,Pressure Technologies PLC
+ATIC.ST,Actic Group AB
+RGBG.F,Regenbogen AG
+HERT.BB,Herti AD
+VNE.MI,Vne SpA
+UFO.L,Alien Metals Ltd
+HRAR.ZA,Croatia Airlines dd
+THRL.L,Thor Energy Plc
+YNUM.MC,Numulae Gestion de Servicios Socimi SA
+YINM.MC,Inmofam 99 SOCIMI SA
+ROSPX.BX,Sipex Company SA
+CTA.L,CT Automotive Group PLC
+MTPG.MU,Muenchener Tierpark Hellabrunn AG
+EDENE.L,Eden Research PLC
+BGPRC.BB,PRC ADSITS
+ESGRb.ST,ES Energy Save Holding AB (publ)
+LUG.WA,Lug SA
+VILr.AT,Unibios Holdings SA
+HAIr.AT,Haidemenos SA
+OBAB.ST,Online Brands Nordic AB
+ROSMTL.BX,Simtel Team SA
+ANAST.CY,D & S Anastopoulos SA
+MAKS.MC,Making Science Group SA
+EDIP.WA,ED Invest SA
+EPROLIUSIA.BU,Eprolius Ingatlan Nyrt
+LOGP.L,Lansdowne Oil & Gas PLC
+ZDDL.LJ,Terme Dobrna dd
+ALCYB.PA,Cybergun SA
+KINGS.CY,King's Head Development Plc
+TITN.L,Titon Holdings PLC
+ALMIL.PA,1000mercis SA
+SU3G.BE,Sunline AG
+KYTH.CY,K Kythreotis Holdings Public Ltd
+ARCV.BX,Imotrust SA
+SNO.BX,Santierul Naval Orsova SA
+YTCH.MC,Techo Hogar Socimi SL
+COEC.BX,Conect Business Park SA
+ALUNT.PA,Uniti SA
+MORE.AS,Morefield Group NV
+ALBOA.PA,Boa Concept SA
+HONBS.HE,Honkarakenne Oyj
+CMF.BX,Comelf SA
+KAV.L,Kavango Resources PLC
+SDMr.AT,Sidma Steel SA
+VPLD.BB,Varna Plod AD
+DPL.WA,Drozapol Profil SA
+AYM.L,Anglesey Mining PLC
+CORE.MI,Allcore SpA
+RMK.WA,Remak Energomontaz SA
+HMIP.WA,HM Inwest SA
+OMIP.L,One Media IP Group PLC
+QUIZ.L,QUIZ PLC
+GRN.MI,Green Oleo SpA
+MMCTE.PR,Mmcite as
+LAPWALL.HE,LapWall Oyj
+PMG.L,Parkmead Group PLC
+COKJ.BX,Concivia SA
+LOUn.H,DEAG Deutsche Entertainment AG
+WBAHk.F,Wild Bunch AG
+ROMR.OL,RomReal Ltd
+HRGI.OL,Horisont Energi AS
+TUAA.BX,Turism Covasna SA
+UCAV.SCT,Union Catalana de Valores SA
+PBHP.AS,PB Holding N.V.
+AIEA.L,Airea PLC
+BBT1.WA,Boombit SA
+RRR.L,Red Rock Resources PLC
+QAIR.ST,Qleanair AB
+PGVP.WA,PGF Polska Grupa Fotowoltaiczna SA
+LPA.L,LPA Group PLC
+NEXAM.ST,Nexam Chemical Holding AB
+TENG.L,Ten Lifestyle Group PLC
+BEM.L,Beowulf Mining PLC
+CSSG.L,Croma Security Solutions Group PLC
+AGP.MI,Altea Green Power SpA
+WOLFT.VI,Wolftank Group AG
+MIDSU.ST,Midsummer AB
+BMV.L,Bluebird Mining Ventures Ltd
+TYNN.PA,Societe de Tayninh SA
+PLEX.L,Plexus Holdings PLC
+APME.DE,Ad Pepper Media International NV
+DIALD.L,Diales PLC
+PRCF.AS,Koninklijke Porceleyne Fles NV
+YPARK.MC,Inmobiliaria Park Rose Iberoamericana SOCIMI SA
+MDBr.AT,N Varveris Moda Bagno SA
+FNK.ASE,Fenikso Ltd
+SZ50n.DE,Luebke Kelber AG
+NTU1L.VL,Novaturas AB
+MACO.BX,Macofil SA
+KMP.WA,Przedsiebiorstwo Produkcyjno Handlowe Kompap SA
+EEMA.PA,Electricite et Eaux De Madagascar SA
+TULAV.HE,Tulikivi Oyj
+SCHK.BR,Scheerders Van Kerchove's Verenigde Fabrieken NV
+DPP.L,DP Poland PLC
+EURTL.WA,Eurotel SA
+ADSA.OL,Ads Maritime Holding Plc
+NPRI.EUA,Societe Nationale De Propriete d'immeubles SCA
+HVT.L,Heavitree Brewery PLC
+GRALA.MI,Grifal SpA
+ADZ.MC,Adolfo Dominguez SA
+ELBr.AT,Elve SA
+YIPP.MC,Inhome Prime Properties Socimi SA
+INL1L.VL,INVL Baltic Farmland AB
+ROPPL.BX,Promateris SA
+MRDO.BX,Mercur SA
+ETMA.NFF,Etman International ASA
+ZYT.L,Zytronic PLC
+NBIB.MC,NBI Bearings Europe SA
+ININ.OL,Inin Group AS
+RTVGn.F,Your Family Entertainment AG
+PIONb.ST,PION Group AB
+ECOUP.HE,EcoUp Oyj
+TRIP.WA,Triton Development SA
+OCEANO.OL,Ocean Geoloop AS
+SPDI.L,Secure Property Development & Investment PLC
+GLDP.L,Goldplat PLC
+SY5N.MU,Stern Immobilien AG
+FINr.AT,Philippos Nakas SA
+1TSR01AE.BV,Sitno as v likvidacii
+TGRT.L,Tirupati Graphite PLC
+DGT.MI,DigiTouch SpA
+IMPC.ST,Impact Coatings AB (publ)
+CMOC.L,CMO Group PLC
+CRTS.PA,Courtois SA
+SNG.EUL,Sonagi SGPS SA
+MTV.MI,Mondo TV SpA
+MENTOR.NFF,Mentor Medier AS
+AMMn.DE,Grounds Real Estate Development AG
+HTPK.ZA,HTP Korcula dd
+MATD.L,Petro Matad Ltd
+CDLP.WA,CDRL SA
+CGNR.L,Conroy Gold and Natural Resources PLC
+ELHM.BB,Elhim Iskra AD
+ARCU.BX,Sifi Cluj Retail SA
+DESA.MC,Desarrollos Especiales de Sistemas de Anclaje SA
+VOGr.AT,Voyatzoglou SA
+KEYS.L,Keystone Law Group PLC
+TTOG.F,TTL Beteiligungs und Grundbesitz AG
+JFBG.H,Joh Friedrich Behrens AG
+SEASE.L,Seascape Energy Asia PLC
+YAP67.MC,Ap 67 Socimi SA
+REFINE.ST,Refine Group AB (publ)
+EVS.MI,Eviso SpA
+MAK.BB,Mak AD
+VLT.MI,Valtecne SpA
+CMLA.MI,Comal SpA
+YKTS.MC,Ktesios Real Estate SOCIMI SA
+ROARTE.BX,Artego SA
+ALEO2.PA,EO2 SA
+ASKR.BB,Asenova Krepost AD
+1HON01AE.BV,Kupele Dudince as
+FOSB.BX,Foraj Sonde SA
+STWK.ST,Stockwik Forvaltning AB
+TAMTRON.HE,Tamtron Group Oyj
+COR2.DE,Coreo AG
+TSGP.WA,Tesgas SA
+DOMO.MC,Domo Activos SA
+ALDUB.PA,Encres Dubuit SA
+SPSO.LS,Sporting Clube de Portugal Futebol SAD
+ROPTR.BX,Rompetrol Well Services SA
+BGSLB.BB,Slanchev Bryag AD
+YINB8.MC,Inbest Prime VIII Inmuebles SOCIMI SA
+ELV.BX,Elvila SA
+RORX.BX,Romaero SA
+VIDU.ZA,Villa Dubrovnik dd
+PIER.L,Brighton Pier Group PLC
+ROMET.BX,Meta Estate Trust SA
+SOSS.L,Sosandar PLC
+BBGA.BX,Alum SA
+BERNERb.ST,Berner Industrier AB
+BNNn.DE,BRAIN Biotech AG
+9TS.D,Tubesolar AG
+LRPL.CY,Lordos United Public Ltd
+ATRD.BX,Atelierele CFR Grivita SA
+EML.L,Emmerson PLC
+BGCHG.BB,Capital Holding Group ADSITS
+4DSG.DE,Daldrup & Soehne AG
+ARC1T.TL,Arco Vara AS
+BGALT.BB,Alteron ADSITS Varna
+WOOC.CY,The Mall of Engomi ME PLC
+CRI1.WA,Creotech Instruments SA
+BOREO.HE,Boreo Oyj
+BIF.CO,Broendbyernes IF Fodbold A/S
+JZ60k.DE,Eigenheim Union 1898 Beteiligungs AG
+ECCb.ST,Ecoclime Group AB
+KDNC.L,Cadence Minerals PLC
+BPF.BB,Bravo Property Fund ADSITS
+CAVEN.OL,Cavendish Hydrogen ASA
+ALCOI.PA,Coil SA
+ALLA.L,Atlantic Lithium Ltd
+BBSN.L,Brave Bison Group PLC
+BOHOpref.ST,Boho Group AB
+AQP1.D,Action Press AG
+WUF1V.HE,Wulff Yhtiot Oyj
+PMTI.MI,Promotica SpA
+RAFP.WA,Fabryka Obrabiarek Rafamet SA
+SENX.L,Serinus Energy PLC
+CEMAT.CO,Cemat A/S
+FREEM.ST,Freemelt Holding AB (publ)
+NCN1T.TL,Nordecon AS
+ALINV.PA,Invibes Advertising NV
+SD1n.H,Clean Logistics SE
+ETP.L,Eneraqua Technologies PLC
+EADG.DE,Erlebnis Akademie AG
+XX1n.D,ABO Kraft & Waerme AG
+PLG.BB,Puldin Properties Invest ADSITS
+FOEQ.PA,Forestiere Equatoriale SA
+EKP.WA,Elkop SE
+EAC.BB,Elana Agrocredit AD
+CH222133=BEKB,Gotthard Raststaette A2 Uri AG
+EMHE.L,European Metals Holdings Ltd
+AKKO.BU,AKKO Invest Nyrt
+YMIB.MC,Mistral Iberia Real Estate SOCIMI SA
+BCS.OL,Bergen Carbon Solutions AS
+HPR1T.TL,Hepsor AS
+SEVE.BX,Severnav SA
+DGB.AS,DGB Group NV
+METZ.BB,Metizi AD
+IRONI.L,Ironveld PLC
+CORAC.L,Cora Gold Ltd
+PYRG.DE,Pyrum Innovations AG
+KRDr.AT,Kordellou Bros SA
+CRJ.WA,Creepy Jar SA
+YINB3.MC,Inbest Prime III Inmuebles SOCIMI SA
+YINB2.MC,Inbest Prime II Inmuebles SOCIMI SA
+MSWP.WA,Mostostal Warszawa SA
+DBA.MI,DBA Group SpA
+AQP.CO,Aquaporin A/S
+FERRO.ST,Ferroamp AB (publ)
+GMEP.WA,Gremi Media SA
+ALDRV.PA,Drone Volt SA
+SNXP.WA,Sunex SA
+COCR.BX,Cocor SA
+STJD.ZA,Stanovi Jadran dd
+BGSHB.BB,Sofia Hotel Balkan AD
+CTL.L,CleanTech Lithium PLC
+MARPZ.MI,Marzocchi Pompe SpA
+XTR.L,Xtract Resources PLC
+UMBG.MC,Umbrella Solar Investment SA
+IKA.L,Ilika PLC
+ALHOP.PA,Hopscotch Groupe SA
+VIAFIN.HE,Viafin Service Oyj
+CCBR.BB,CCB Real Estate Fund ADSITS
+NTBR.L,Northern Bear PLC
+FLAO.BX,Flaros SA
+BLOE.L,Block Energy PLC
+3D6.DE,Avemio AG
+ZZb.ST,Zinzino AB
+ARRA.OL,Arribatec Group ASA
+INR1L.VL,INVL Baltic Real Estate SUTNTIB
+EQTE.L,EQTEC PLC
+LIWA.SCT,Liwe Espanola SA
+SBOK.ST,ScandBook Holding AB
+S24.MI,Il Sole 24 Ore SpA
+RCHI.BX,Grand Hotel Bucharest SA
+FEP.BX,Feper SA
+PXEN.L,Prospex Energy PLC
+SBPF.BB,Super Borovets Property Fund ADSITS
+ELEAV.HE,Elecster Oyj
+CTSP.WA,City Service SE
+TNTP.WA,T&T Proenergy SA
+WIK.WA,Wikana SA
+LPLH.ZA,Losinjska Plovidba Holding dd
+PFB.BB,Port Flot Burgas AD
+RIASb.CO,Rias A/S
+RLP.WA,Relpol SA
+PRDP.L,Predator Oil & Gas Holdings PLC
+CLFF.MI,Caleffi SpA
+DPTP.PA,St Dupont SA
+PAL.MI,Palingeo SpA
+CPH2.L,Clean Power Hydrogen PLC
+ACUVI.ST,Acuvi AB
+ENRO.ST,Eniro Group AB
+BMT.L,Braime Group PLC
+ELT.WA,Elektrotim SA
+INLr.AT,Intralot Integrated Lottery Systems and Services SA
+SBX.OL,Seabird Exploration PLC
+EQU.WA,Equnico Se
+ALHYP.PA,Hipay Group SA
+YBAR.MC,Barcino Property SOCIMI SA
+TUNT.L,Tungsten West PLC
+YARP.MC,Arrienda Rental Properties Socimi SA
+DADP.WA,Dadelo SA
+HE1H.L,Helium One Global Ltd
+ARNR.L,Ariana Resources PLC
+1CALL.MI,Meglioquesto SpA
+RAILG.ST,Railcare Group AB
+IMMOU.BR,Immo Moury Sicaf Immobiliere Publique de Droit Belge SCA
+H9WG.DE,HWA AG
+TM1.L,Technology Minerals PLC
+ABO.BR,Abo-Group Environment NV
+LBTA.WA,Libet SA
+EUA.L,Eurasia Mining PLC
+GOD.OL,Goodtech ASA
+BGHES.BB,Hydraulic Elements & Systems AD
+DELT.L,Deltic Energy PLC
+PREM.L,Premier African Minerals Ltd
+SONP.WA,Sonel SA
+ALXA.F,Alexanderwerk AG
+METM.MI,MetExtra Group SpA
+SIGR.CO,Scandinavian Investment Group A/S
+ALCOG.PA,Cogra Quarante Huit SA
+ATON.MI,ATON Green Storage SpA
+UJO.L,Union Jack Oil PLC
+BEN1.MU,Beno Holding AG
+ALPOU.PA,Poulaillon SA
+EQVA.OL,Eqva ASA
+UGE.CY,Universal Golf Enterprises PLC
+CTH1V.HE,Componenta Oyj
+EFK.WA,Korporacja Gospodarcza Efekt SA
+YMEI.MC,Mercal Inmuebles SOCIMI SA
+NUSC.MI,Nusco SpA
+SSSG.D,Schulte-Schlagbaum AG
+CVK.D,Diok One AG
+ALESE.PA,Entech SA
+LENP.WA,Lena Lighting SA
+TAN.L,Tanfield Group PLC
+TKPR.ZA,Tekstilpromet dd
+ALHAF.PA,Haffner Energy SA
+POLYG.ST,Polygiene Group AB
+DROr.AT,Dromeas Office Furniture Industry SA
+RDNA.BB,Elea Capital Holding AD
+FEEP.WA,Feerum SA
+CFL.MI,Cofle SpA
+SOSIL.NGM,Sotkamo Silver AB
+HDR.WA,Przedsiebiorstwo Hydrauliki Silowej Hydrotor SA
+NSTG.H,Steuler Fliesengruppe AG
+HRSP.WA,Herkules SA w restrukturyzacji
+EKTr.AT,Ekter SA
+RODN.BX,Dn Agrar Group SA
+RBLNb.CO,Roblon A/S
+ROSNC.BX,Santierul Naval Constanta SA
+TEKNA.OL,Tekna Holding ASA
+HLD.WA,Hollywood SA
+PLAZA.MT,Plaza Centres PLC
+MTPT.MT,MaltaPost plc
+CELLI.ST,Cell Impact AB (publ)
+CZT.WA,Czerwona Torebka SA
+ARTG.DE,bet at home com AG
+TND.L,Tandem Group PLC
+NAR.L,Northamber PLC
+NLG1V.HE,Nurminen Logistics Oyj
+SCEU.L,Surface Transforms PLC
+CNN.L,Caledonian Trust PLC
+HRN.L,Hornby PLC
+DEDIC.ST,Dedicare AB (publ)
+ADTR.ST,Adtraction Group AB
+EFIN.PA,Eurasia Fonciere Investissements SA
+CLEO.MC,Compania Levantina de Edificacion y Obras Publicas SA
+KEFI.L,KEFI Gold and Copper Plc
+BTGI.MI,Bastogi SpA
+ROBKS.BX,Brikston Construction Solutions SA
+SPSY.L,Spectra Systems Corp
+ROSFG.BX,Sphera Franchise Group SA
+BGBMTL.BB,Bulmetal AD
+NORTH.OL,North Energy ASA
+ADFF.L,Facilities By ADF PLC
+BONAS.ST,Bonasudden Holding AB (publ)
+SKAKO.CO,Skako A/S
+BGBSP.BB,Balkan and Sea Properties ADSITS
+IRLP.WA,Inter RAO Lietuva AB
+ILP.MI,ILPRA SpA
+JDPL.ZA,Jadroplov dd
+BGTIB.BB,Telematic Interactive Bulgaria AD
+MKOG.LJ,Melamin dd Kocevje
+DVD.OL,Deep Value Driller AS
+ELZY.BX,Electroprecizia SA
+FERR.WA,Ferrum SA
+ROTBM.BX,Turbomecanica SA
+AGFEb.CO,Agf A/S
+KDM.WA,KDM Shipping Public Ltd
+RBSN.L,Robinson PLC
+ESAU.MI,Esautomotion SpA
+AMNX.L,Aminex PLC
+ANYB.BU,ANY Biztonsagi Nyomda Nyrt
+STAR7.MI,Star7 SpA
+EDAC.MI,EdiliziAcrobatica SpA
+TB.MI,Triboo SpA
+SCLIS.MC,Lauthon Invest Socimi SA
+IASX.BX,Iasitex SA
+YGAV.MC,Gavari Properties Socimi SA
+IPRU.BX,Iproeb SA
+PANP.BU,PannErgy Nyrt
+PSQ.MI,Pasquarelli Auto SpA
+TRAD.ST,TradeDoubler AB
+BUCU.BX,Bucur Obor SA
+SCENS.ST,Scandinavian Enviro Systems AB
+CIRCA.OL,Circa Group AS
+NVT.WA,Novita SA
+ESFL.MI,Edil San Felice SpA Societa Benefit
+CAMBI.OL,Cambi ASA
+TOWR.L,Tower Resources PLC
+NPI.MI,Notorious Pictures SpA
+PTR1L.VL,Panevezio Statybos Trestas AB
+ALEMV.PA,Emova Group SA
+TPSG.MI,Technical Publications Service SpA
+ROCE.BX,Romcarbon SA
+YABA.MC,Jaba I Inversiones Inmobiliarias Socimi SA
+MED6.PA,Media 6 SA
+YEIS.MC,Elaia Investment Spain Socimi SA
+NTH.MC,Naturhouse Health SA
+PRSO.OL,Prosafe SE
+MEVr.AT,Mevaco Metallurgical Industrial And Trading Company SA
+PRSN.BX,Prospectiuni SA
+GRFG.F,Greiffenberger AG
+JOG.L,Jersey Oil and Gas PLC
+MZK.AT,El D Mouzakis Industrial Commercial Investing and Consulting Company SA
+ZMT.WA,Zamet SA
+RDUE.MI,Erredue SpA
+YADV.MC,ADVERO Properties Socimi SA
+KGLP.WA,KGL SA
+1TMR001E.BV,Tatry Mountain Resorts as
+POPR.MI,Poligrafici Printing SpA
+VIMI.MI,Vimi Fasteners SpA
+EMKA.BB,Emka AD
+UNIP.WA,Unibep SA
+GEBKA.AT,General Commercial and Industrial SA
+PRC.PA,Artmarket.com SA
+IOTA.NFF,Independent Oil & Resources PLC
+ARGEO.OL,Argeo ASA
+YDOA.MC,Inversiones Doalca SOCIMI SA
+FVIR.MI,Fervi SpA
+DOME.CY,Dome Investments PCL
+ALQP.PA,Quadpack Industries SA
+ALNSC.PA,NSC Groupe SA
+CAIN.BX,Casa Alba Independenta SA
+ALSPT.PA,Spartoo SA
+ALTUV.PA,Bio-UV Group SA
+SAVS.L,Savannah Resources Plc
+PAMPALO.HE,Endomines Finland Oyj
+AGRG.F,AGROB Immobilien AG
+TRNP.WA,Trans Polonia SA
+WOJ.WA,Wojas SA
+RBGP.L,RBG Holdings PLC
+RADIC.MI,Radici Pietro Industries & Brands SpA
+LAS.L,London & Associated Properties PLC
+CFYN.L,Caffyns PLC
+GATC.L,Gattaca PLC
+BNJ.AS,Banijay Group NV
+CADP.L,Cadogan Energy Solutions PLC
+ALMGI.PA,Mg International SA
+CDFF.L,Cardiff Property PLC
+ACGP.WA,AC SA
+ODL.WA,Odlewnie Polskie SA
+MEABb.ST,Malmbergs Elektriska AB (publ)
+MTDr.AT,Cars Motorcycles and Marine Engine Trade and Import Company SA
+ENTP.WA,Enter Air SA
+ZENZ.L,Zenith Energy Ltd
+CY1k.F,Sbf AG
+REVr.AT,Revoil Petroleum Company SA
+RNV.MI,Imprendiroma SpA
+INVEST.HE,Investors House Oyj
+PXC.L,Phoenix Copper Ltd
+YGCS.MC,Galil Capital Re Spain SOCIMI SA
+SWISS.CO,Swiss Properties Invest A/S
+GGR.MC,Grupo Greening 2022 SA
+DKUPL.PA,Adl Partner SA
+GRNP.WA,Grodno SA
+AFEN.L,AFC Energy PLC
+PWS.MI,Powersoft SpA
+ORTHEX.HE,Orthex Oyj
+CBC.BX,Carbochim SA
+REBL.HE,Rebl Group Oyj
+PSE.OL,Petrolia E&P Holdings Plc
+SVIK.ST,Studsvik AB
+WSP.L,Wynnstay Properties PLC
+VOW.OL,Vow ASA
+ALSAS.PA,Stradim Espace Finance SA
+KPD.WA,Koszalinskie Przedsiebiorstwo Przemyslu Drzewnego SA
+TRUG.MU,Traumhaus AG
+GBUSS.MI,Gibus SpA
+SPGG.DE,Springer Nature AG & Co KgaA
+MECE.BX,Mecanica Fina SA
+MOTR.L,Motorpoint Group PLC
+ALSP.ASE,Ace Liberty & Stone PLC
+CFX.L,Colefax Group PLC
+PNNI.MI,Pininfarina SpA
+GABI.MI,Gabetti Property Solutions SpA
+ALVU.PA,Vente-Unique.Com SA
+SCAML.MC,Am Locales Property Socimi SA
+NKR.OL,Nekkar Asa
+DXRX.L,Diaceutics PLC
+ALOKW.PA,Groupe Okwind SA
+CINIS.ST,Cinis Fertilizer AB
+RSGN.S,R&S Group Holding AG
+MRIT.L,Merit Group PLC
+NEXSN.L,Nexus Infrastructure PLC
+ALTRI.PA,Trilogiq SA
+YISC.MC,ISC Fresh Water Investment SOCIMI SA
+FSG.WA,Fabryki Sprzetu i Narzedzi Gorniczych Grupa Kapitalowa Fasing SA
+FAHC.CY,First Advisory and Holdings SA
+DLXG.DE,Delignit AG
+BISI.L,Bisichi PLC
+HSTV.VI,Hutter & Schrantz Stahlbau AG
+BAUD.EUA,Maison Antoine Baud SA
+MLLG.DE,Mueller Die lila Logistik SE
+DOV1V.HE,Dovre Group Oyj
+PJP.WA,PJP Makrum SA
+MONP.ZA,Mon Perin dd
+ATM.L,Andrada Mining Ltd
+EMBELL.ST,Embellence Group AB (publ)
+PTRN.MI,Pattern SpA
+UKOGa.L,UK Oil & Gas PLC
+ASCr.AT,AS Company SA
+HPDG.ZA,Medora Hoteli i Ljetovalista dd
+GMN.MI,Gentili Mosconi SpA
+SSTY.L,Safestay PLC
+HMUG.DE,HMS Bergbau AG
+GRIE.MC,Grino Ecologic SA
+DPAD.L,DP Aircraft I Ltd
+TGPT.L,Tekmar Group PLC
+YINB6.MC,Inbest Prime VI Inmuebles SOCIMI SA
+SYNB.BR,Accentis NV
+LLYC.MC,Llorente & Cuenca SA
+BBD.WA,BBI Development SA
+YQUO.MC,Quonia SOCIMI SA
+MGS.MI,Magis SpA
+BIFIRE.MI,Bifire SpA
+STRN.S,Schlatter Industries AG
+PAT.WA,Patentus SA
+VBL1L.VL,Vilniaus Baldai AB
+IES.L,Invinity Energy Systems PLC
+BYGGP.ST,ByggPartner Gruppen AB (publ)
+WOD.WA,Wodkan Przedsiebiorstwo Wodociagow i Kanalizacji SA
+PRYME.OL,Pryme NV
+CTC.CY,Cyprus Trading Corp PLC
+ALU10.PA,U10 Corp SA
+EQNX.LJ,Equinox dd
+FOPE.MI,Fope SpA
+ZNWD.L,Zinnwald Lithium PLC
+SOLWERS.HE,Solwers Oyj
+IWG.L,International Workplace Group Plc
+SYZG.DE,Syzygy AG
+INLP.WA,Introl SA
+PASS.PA,Passat SA
+HYPRO.OL,Hydrogenpro ASA
+ELIMP.OL,Elektroimportoren AS
+LYKOa.ST,Lyko Group AB (publ)
+PLEJD.TE,Plejd AB
+BGGTH.BB,Galata Investment Company AD
+SCORS.MC,Optimum RE Spain SOCIMI SA
+BALT.OL,Baltic Sea Properties AS
+KGRG.F,LEWAG Holding AG
+FLMNG.TE,Fleming Properties AB
+IOFI.L,Iofina PLC
+BGBRP.BB,Bulgarian River Shipping AD
+ZLP.BB,Zlatni Pyasatsi AD
+HLZZ.MC,Holaluz Clidom SA
+NWOR.L,National World PLC
+ORPF.PA,Orapi SA
+CONSTI.HE,Consti Oyj
+AGESb.ST,AGES Industri AB
+ANGSA.L,Angus Energy PLC
+CRWEN.NGM,Crown Energy AB
+YAZR.MC,Azaria Rental SOCIMI SA
+HKY.OL,Havila Kystruten AS
+TOPL.BB,Toplivo AD
+ALBKK.PA,Baikowski SA
+ENVI.AS,Envipco Holding NV
+INCI.MI,Innovatec SpA
+EMPR.L,Empresaria Group PLC
+SIGS.EUA,Hotelim SA
+BACKA.TE,Backaheden Fastighets AB
+ALQ.MC,Alquiber Quality SA
+CMX.L,Catalyst Media Group PLC
+DEF.DE,Defama Deutsche Fachmarkt AG
+DARG.DE,Datron AG
+KREATE.HE,Kreate Group Oyj
+GCM.L,GCM Resources plc
+SCALF.MC,Alfil Patrimonial Socimi SA
+NAI.AS,New Amsterdam Invest NV
+AET.L,Afentra PLC
+ALLHB.PA,Les Hotels Baverez SA
+1SN.L,First Tin PLC
+AGATE.CO,Agat Ejendomme A/S
+EFO.BX,Turism Hoteluri Restaurante Marea Neagra SA
+ICOP.MI,ICoP SpA SB
+PREH.BX,Prefab SA
+G4M.L,Gear4music (Holdings) PLC
+OTSL.WA,OT Logistics SA
+PPLI.BX,Professional Imo Partners SA
+FFM1.H,Franconofurt AG
+ZWM.S,Zwahlen et Mayr SA
+SWUT.VI,SW Umwelttechnik Stoiser & Wolschner AG
+ANG.L,Angling Direct PLC
+ELZZ.MC,Asturiana de Laminados SA
+PARTNE1.HE,Partnera Oyj
+TRIN.L,Trinity Exploration & Production PLC
+SNXS.L,Synectics PLC
+2GI.MU,GIEAG Immobilien AG
+FSTP.L,First Property Group PLC
+YUVS.MC,Urban View Development Spain SOCIMI SA
+CCT.L,Character Group PLC
+IKTr.AT,Iktinos Hellas Greek Marble Industry SA
+ROBIT.HE,Robit Oyj
+BGSFI.BB,Sopharma Properties ADSITS
+80M.L,80 Mile PLC
+KLUr.AT,I Kloukinas I Lappas Construction and Commercial Co SA
+AIRX.OL,Airthings ASA
+LIKE.L,Likewise Group PLC
+JRH.WA,JRH ASI SA
+ZUE.WA,ZUE SA
+YINB1.MC,Inbest Prime I Inmuebles SOCIMI SA
+YINB4.MC,Inbest Prime IV Inmuebles SOCIMI SA
+NGAZ.BB,Oil and Gas Exploration and Production AD
+OVARO.HE,Ovaro Kiinteistosijoitus Oyj
+PRE.L,Pensana PLC
+AVTX.AS,Avantium NV
+YTRM.MC,Torimbia SOCIMI SA
+MANO.L,Manolete Partners PLC
+YVBA.MC,VBARE Iberian Properties SOCIMI SA
+HUBP.WA,Hub.Tech SA
+LFG.MI,Leone Film Group SpA
+MIN.L,Minoan Group PLC
+LGT.MC,Lingotes Especiales SA
+IEP.BR,Iep Invest NV
+EOG.L,Europa Oil & Gas (Holdings) PLC
+LAMMb.ST,Lammhults Design Group AB
+ANSY.L,Andrews Sykes Group PLC
+SIF.CO,Silkeborg IF Invest A/S
+NTG.OL,Nordic Technology Group AS
+EDLG.DE,Edel SE & Co KgaA
+LCMG.MI,Lucisano Media Group SpA
+MINEST.ST,Minesto AB
+TPFG.L,Property Franchise Group PLC
+AATP.WA,Alta SA
+TUFE.BX,Turism Felix SA
+AWRD.NGM,Awardit AB publ
+ALKE.MI,Alkemy SpA
+ETC.MC,Energy Solar Tech SA
+GEOS.OL,Golden Energy Offshore Services ASA
+WEST.OL,Western Bulk Chartering AS
+EBQ.L,Ebiquity PLC
+RBW.WA,Rainbow Tours SA
+GKI.WA,Grupa Kapitalowa Immobile SA
+GYLDb.CO,Gyldendal A/S
+MGN.OL,Magnora ASA
+ODES.BB,Odessos Shiprepair Yard AD
+APN.WA,Aplisens SA
+RFG.MI,Racing Force SpA
+ALSOG.PA,Sogeclair SA
+JSE.L,Jadestone Energy PLC
+RUG.ST,Rugvista Group AB (publ)
+CAREI.ST,Careium AB (publ)
+KAPIAB.ST,Kalleback Property Invest AB
+ZUCI.MI,Vincenzo Zucchi SpA
+ALDV.PA,Alliance Developpement Capital Siic Se
+NXTGE.MI,Next Geosolutions Europe SpA
+OEXP.WA,OEX SA
+FIPP.PA,F I P P SA
+REAL.NGM,Real Fastigheter AB (publ)
+SMAR.BR,Smartphoto Group NV
+AUMI.MI,Autostrade Meridionali SpA in liquidazione
+YIBI.MC,IBI-Lion SOCIMI SA
+ALHRS.PA,Hydrogen-Refueling-Solutions SA
+ALBr.AT,Biokarpet Industrial and Commercial Enterprises SA
+BSP.ASE,Black Sea Property PLC
+SCWEL.MC,Wellder Senior Assets Socimi SA
+SCDM.BX,Unirea Shopping Center SA
+IARV.BX,IAR SA
+WTN.WA,Wittchen SA
+BOLJ.ST,Bong AB
+VLEN.ZA,Brodogradiliste Viktor Lenac dd
+DIEG.DE,Dierig Holding AG
+M7PR.ZA,Primo Real Estate dd
+YGAG.BB,Yuri Gagarin AD
+ADXP.WA,Adatex SA
+PENGb.ST,Projektengagemang Sweden AB
+INFREA.ST,Infrea AB
+MBR.WA,Mo-Bruk SA
+ATHO.VI,Athos Immobilien AG
+SAE.L,SIMEC Atlantis Energy Ltd
+ARPL.ST,Arla Plast AB
+EMANE.L,Everyman Media Group PLC
+GIGAS.ST,Gigasun AB (publ)
+DAIr.AT,Daios Plastics SA
+FIH.L,FIH Group PLC
+CNDR.L,Condor Gold PLC
+DUELL.HE,Duell Oyj
+MCRP.WA,Mercor SA
+ESENSE.HE,Enersense International Oyj
+DEA.MI,Distribuzione Elettrica Adriatica SpA
+SCANA.OL,Scana ASA
+CAU.L,Centaur Media PLC
+CSP.MI,CSP International Fashion Group SpA
+FIPPG.L,Frontier IP Group PLC
+HEFA.ZA,Helios Faros dd
+ERWE.F,ERWE Immobilien AG
+RN.MI,Risanamento SpA
+ALGIR.PA,Signaux Girod SA
+ILRA.ZA,Ilirija dd
+PTRr.AT,Petros Petropoulos SA
+EKOP.BR,Ekopak NV
+YHSP.MC,Hispanotels Inversiones SOCIMI SA
+NYRN.ASE,Newbury Racecourse PLC
+BGFPP.BB,FairPlay Properties ADSITS
+PROFb.ST,Profilgruppen AB
+VIC.L,Victorian Plumbing Group PLC
+YU.L,Yu Group PLC
+SPDY.BB,Speedy AD
+WATRI.L,Water Intelligence PLC
+SFG1T.TL,Silvano Fashion Group AS
+PKG1T.TL,Pro Kapital Grupp AS
+GARO.ST,Garo AB
+CFN.LS,Cofina SGPS SA
+ENGCONb.ST,Engcon AB
+BILN.L,Billington Holdings PLC
+ALCLA.PA,Clasquin SA
+REKA.HE,Reka Industrial Oyj
+OMR.MI,Omer SpA
+MARTI.LS,Martifer SGPS SA
+MMGRb.ST,Momentum Group AB
+HHXG.H,HAMMONIA Schiffsholding AG
+SQRL.MC,Squirrel Media SA
+TNOM.HE,Talenom Oyj
+KMK.L,Kromek Group PLC
+APNA.L,Applied Nutrition PLC
+TRKP.WA,Trakcja SA
+SWG.WA,Seco/Warwick SA
+KPL.WA,Kino Polska TV SA
+YMIL.MC,MilePro Logistica Ultima Milla SOCIMI SA
+PRO.BN,Procimmo Group AG
+MPC.MT,Malta Properties Company PLC
+PIERCE.ST,Pierce Group AB (publ)
+FGA.PA,Figeac Aero SARL
+EEG1T.TL,Ekspress Grupp AS
+INGR.ZA,Ingra dd
+IFDE.PA,Groupe ETPO SA
+IBU.DE,IBU-tec advanced materials AG
+MDS.MT,Medservregis PLC
+OPN.WA,Oponeo.pl SA
+ATHAN.ST,Athanase Innovation AB
+LORD.L,Lords Group Trading PLC
+EFUEL.OL,Everfuel A/S
+RNO.L,Renold PLC
+ASPL.L,Aseana Properties Ltd
+MSTL.L,MS International PLC
+GERHSP.CO,German High Street Properties A/S
+H2A.DE,H2APEX Group SCA
+KOMP.WA,Komputronik SA
+KSL.HE,Keskisuomalainen Oyj
+ULTP.L,Ultimate Products PLC
+LTX.WA,Lentex SA
+IZS.WA,Izostal SA
+HYPB.EUA,Hydraulique PB SA
+RATV.VI,Rath AG
+CPRP.WA,Compremum SA
+RATI.MI,Ratti SpA Sb
+FHWG.F,Fernheizwerk Neukoelln AG
+REN.MC,Renta Corporacion Real Estate SA
+ZPHR.L,Zephyr Energy PLC
+ALDSL.PA,Dlsi SA
+BOKUS.ST,Bokusgruppen AB (publ)
+MIPS.ST,Mips AB
+FORSE.PA,Forsee Power SA
+DPAP.PA,Les Docks des Petroles d Ambes SA
+YVCP.MC,Veracruz Properties SOCIMI SA
+ZAP.OL,Zaptec ASA
+VAM.BB,Velgraf Asset Management AD
+TRID.MT,Trident Estates PLC
+AACM.ST,AAC Clyde Space AB
+STST.OL,Stainless Tankers ASA
+BST1.DE,Bastei Luebbe AG
+HOLCO.AS,Holland Colours NV
+GGPL.L,Greatland Gold PLC
+SLMS.CY,Salamis Tours Holdings Public Ltd
+CDZ0.MU,MHP Hotel AG
+BOR.OL,Borgestad ASA
+VINP.WA,Gielda Praw Majatkowych Vindexus SA
+TIML.MT,Tigne Mall PLC
+ALAFY.PA,AFYREN SA
+M4N.H,Give AG
+CDONAB.ST,Cdon AB
+SUH.L,Sutton Harbour Group PLC
+ABP.MI,Azienda Bresciana Petroli Nocivelli SpA
+DLKV.ZA,Dalekovod dd
+SEAN.BN,Swiss Estates AG
+TRP.BX,Teraplast SA
+CHARC.L,Chariot Ltd
+IGV.MI,I Grandi Viaggi SpA
+RABA.BU,Raba Jarmuipari Holding Nyrt
+MPCES.OL,MPC Energy Solutions NV
+CPHCAPST.CO,Copenhagen Capital A/S
+STAR.L,Star Energy Group PLC
+PQ.MI,Piquadro SpA
+STAF.L,Staffline Group PLC
+PMGR.L,Portmeirion Group PLC
+ALCIS.PA,Catering International & Services SA
+APG1L.VL,Apranga APB
+SRAD.L,Stelrad Group plc
+YMRE.MC,Meridia Real Estate III Socimi SA
+LAMOR.HE,Lamor Corporation Oyj
+ALTNA.L,Altyngold PLC
+STCM.L,Steppe Cement Ltd
+FWW.CY,Woolworth Cyprus Properties PLC
+CASPC.L,Caspian Sunrise PLC
+OKEA.OL,Okea ASA
+LR.MI,Landi Renzo SpA
+NORAM.OL,Noram Drilling AS
+AAA.PA,Alan Allman Associates SA
+LAGLF.CY,Lanitis Golf PCL
+VBL.MT,VBL PLC
+ECKG.DE,LUDWIG BECK am Rathauseck Textilhaus Feldmeier AG
+ENRY.MI,Energy SpA
+ALA.MI,Ala SpA
+MSAG.DE,MS Industrie AG
+MONP.WA,Monnari Trade SA
+CT40n.D,Fox E-Mobility AG
+LU0006067663.BR,ArcelorMittal Schifflange SA
+KOD.L,Kodal Minerals PLC
+BANI.BR,Banimmo SA
+MSH.BB,M+S Hydraulic AD
+LCH.CY,Leptos Calypso Hotels Public Ltd
+ELNr.AT,Elton International Trading Company SA
+YENT.MC,Entrecampos Cuatro Socimi SA
+MSZ.WA,Mostostal Zabrze SA
+CTEK.ST,CTEK AB (publ)
+TITAb.ST,Titania Holding AB (publ)
+SUP.L,Supreme PLC
+EQLS.L,Equals Group PLC
+IGSSq.L,IG Seismic Services PLC
+DATA.L,GlobalData PLC
+YTAN.MC,Tander Inversiones SOCIMI SA
+YTEM.MC,Tempore Properties SOCIMI SAU
+NAH.L,NAHL Group PLC
+ALHGR.PA,Hoffmann Green Cement Technologies SAS
+ARTC.MC,Arteche Lantegi Elkartea SA
+CHSB.BB,Himsnab Bulgaria AD
+BREF.BB,Bulgarian Real Estate Fund ADSITS
+AMH2b.TE,Amhult 2 AB
+PAPL.BR,Payton Planar Magnetics Ltd
+SYDSV.TE,Sydsvenska Hem AB (publ)
+TOIVO.HE,Toivo Group Oyj
+MFO.WA,MFO SA
+CAMB.BR,Campine NV
+RECSI.OL,REC Silicon ASA
+ALMOU.PA,Moulinvest SA
+LRHR.ZA,Liburnia Riviera Hoteli dd
+DCR.WA,Decora SA
+VIRSI.RI,Virsi-A AS
+BE.MI,Beghelli SpA
+RWY.MI,ReWay Group SpA
+PENP.WA,Photon Energy NV
+CIAK.ZA,CIAK Grupa dd
+ATGP.WA,ATM Grupa SA
+RY8.F,ROY Asset Holding SE
+CABKA.AS,Cabka NV
+XIL.PA,Xilam Animation SA
+TINGSa.ST,Tingsvalvet Fastighets AB (publ)
+1GVR001E.BV,GEVORKYAN as
+ACIR.ZA,ACI dd
+YTRA.MC,Trajano Iberia Socimi SA
+ELMA.BX,Electromagnetica SA
+VNC.BX,Vrancart SA
+AUER.PA,Aurea SA
+ACWNn.DE,AS Creation Tapeten AG
+ABSO.ST,Absolent Air Care Group AB
+BBERG.OL,Beerenberg AS
+SCK.MI,Sciuker Frames SpA
+IB.MI,Iniziative Bresciane Inbre SpA
+BOWP.WA,Bowim SA
+NEA.MC,Nicolas Correa SA
+HGEA.DE,hGears AG
+MPAC.L,MPAC Group PLC
+WOLFG.DE,Meta Wolf AG
+T57.BB,Trace Group Hold AD
+PPHC.L,Public Policy Holding Company Inc
+EGENTY.CO,EgnsINVEST Ejendomme Tyskland A/S
+AIREA.L,Alternative Income REIT PLC
+LUKA.ZA,Luka Rijeka dd
+MTBA.MC,Montebalito SA
+SOM.L,Somero Enterprises Inc
+TES.MI,Tesmec SpA
+ALTPC.PA,Societe Marseillaise du Tunnel Prado Carenage SA
+LKPC.ZA,Luka Ploce dd
+MILDEF.ST,MilDef Group AB
+SOCP.BX,Socep SA
+ALMr.AT,Alumil Aluminium Industry SA
+LTXV.VI,Linz Textil Holding AG
+NR.MI,Next Re SIIQ SpA
+ELIr.AT,Elinoil Hellenic Petroleum Company SA
+TETR.PA,Touax Sgtr Cite Sgt Cmte Taf Slm Touage Investissements Reunies SCA
+ULM.WA,Ulma Construccion Polska SA
+THEON.AS,Theon International Plc
+NEOH.BB,Neochim AD
+JETPAK.ST,Jetpak Top Holding AB (publ)
+DWBG.SG,Dinkelacker AG
+NDT.MI,Neodecortech SpA
+SCLB.EUL,Sporting Clube de Braga Futebol SAD
+BOAT.ST,Nimbus Group AB (publ)
+BELYS.BR,Belysse Group NV
+ZIOC.L,Zanaga Iron Ore Company Ltd
+INK.WA,Instal Krakow SA
+NOHOP.HE,NoHo Partners Oyj
+SUNDELL.BU,SunDell Estate Nyrt
+OTOVO.OL,Otovo ASA
+IC8Gn.DE,InCity Immobilien AG
+BHAV.VI,Burgenland Holding AG
+M8H0.D,MBH Corporation PLC
+GYL.OL,Gyldendal ASA
+ICF.MI,Industrie Chimiche Forestali SpA
+CROS.PA,Crosswood SA
+ONDP.WA,Onde SA
+WUG.F,Westag AG
+SLBEN.LS,Sport Lisboa e Benfica Futebol SAD
+AUHV.ZA,Auto Hrvatska Zagreb dd
+SKA.WA,Fabryka Farb i Lakierow Sniezka SA
+H2OG.F,Enapter AG
+RANA.OL,Rana Gruber ASA
+LHH.CY,Lordos Hotels Holdings Public Ltd
+ZOOG.BE,Zoologischer Garten Berlin AG
+VAF.LS,VAA Vista Alegre Atlantis SGPS SA
+BEVA.AS,Bever Holding NV
+KCI.WA,KCI SA
+KIST.L,Kistos Holdings Plc
+REACH.OL,Reach Subsea ASA
+CTNGk.F,Centrotherm International AG
+PUUILO.HE,Puuilo Oyj
+LBW.WA,Lubawa SA
+ICIr.AT,Intercontinental International Real Estate Investment Company SA
+GPPP.WA,Grupa Pracuj SA
+ARTE.PA,Artea SA
+CETG.LJ,Cetis dd
+S188n.DE,SMT Scharf AG
+MPL.L,Mercantile Ports & Logistics Ltd
+SAGCV.HE,Saga Furs Oyj
+ACRIa.ST,Acrinova AB (publ)
+CMVX.BX,Comvex SA
+NUVG.DE,Noratis AG
+ELSRr.AT,Elastron SA
+FED.CO,Fast Ejendom Danmark A/S
+HLEE.S,Highlight Event and Entertainment AG
+VOPE.CY,Vonpende Holdings PLC
+SPINN.HE,Spinnova Oyj
+DLPR.ZA,Professio Energia dd
+FDEL.PA,La Francaise de l Energie SA
+AQU.WA,Aqua SA
+PRBU.BX,Practic SA
+NVM.DE,Novem Group SA
+TMGT.L,Mission Group PLC
+ALTS.BU,Alteo Energiaszolgaltato Nyrt
+ALPM.PA,Precia SA
+TSSG.F,InnoTec TSS AG
+UUUG.DE,3U Holding AG
+HOC.H,Holidaycheck Group AG
+CEG.L,Challenger Energy Group PLC
+LBMD.MI,Lady Bacardi Media SpA
+HIGH.PA,High Co SA
+HAE1T.TL,Harju Elekter Group AS
+DENER.ST,Dala Energi AB (publ)
+KJELL.ST,Kjell Group AB (publ)
+SOLT.ST,Soltech Energy Sweden AB (publ)
+GTLY.L,Gateley (Holdings) PLC
+BRMS.L,Braemar PLC
+SATSS.OL,Sats ASA
+ABL.OL,Abl Group ASA
+HNLG.DE,Dr Hoenle AG
+G2MNO.OL,Gentoo Media Inc
+FMMb.ST,FM Mattsson AB (publ)
+RPCP.WA,Zaklady Magnezytowe Ropczyce SA
+MULTI.OL,Multiconsult ASA
+LOGIST.TE,Logistri Fastighets AB (publ)
+HYDRA.AS,Hydratec Industries NV
+KWGG.DE,KHD Humboldt Wedag International AG
+UNIR.MI,Unieuro SpA
+MLHK.EUA,H&K AG
+ALMCP.PA,Mcphy Energy SA
+WAGA.PA,Waga Energy SA
+GRIO.L,Ground Rents Income Fund PLC
+LIB.MC,Libertas 7 SA
+GPEP.PA,Groupe Pizzorno Environnement SA
+OTL.OL,Odfjell Technology Ltd
+WTWa.ST,Wall To Wall Group AB
+TCRG.LJ,Terme Catez dd
+TOYA.WA,Toya SA
+HUMR.L,Hummingbird Resources PLC
+ASTr.AT,Alpha Real Estate Services AE
+MCP.LS,Grupo Media Capital SGPS SA
+ADPL.ZA,AD Plastik dd
+NWF.L,NWF Group PLC
+OTEC.OL,Otello Corporation ASA
+DDRIL.OL,Dolphin Drilling AS
+LAMr.AT,Lampsa Hellenic Hotels SA
+MID.MT,MIDI PLC
+ADT1.L,Adriatic Metals PLC
+HDF.PA,Hydrogene De France SA
+ROCMP.BX,Compa SA
+BMA.OL,Byggma ASA
+ALLDL.PA,Groupe LDLC SA
+ABIT.MI,Abitare In SpA
+GAMQ.MC,General de Alquiler de Maquinaria SA
+NETEL.ST,Netel Holding AB (publ)
+LHYFE.PA,Lhyfe SA
+RBO.PA,Roche Bobois SA
+AVENIR.NFF,Avenir LNG Ltd
+AMSCM.OL,Amsc ASA
+FROP.WA,Ferro SA
+SOLN.BR,Moury Construct SA
+INP.WA,Inpro SA
+BRUI.MI,Brioschi Sviluppo Immobiliare SpA
+CIC.L,Conygar Investment Co PLC
+SRV1V.HE,SRV Yhtiot Oyj
+TYA.MI,Toscana Aeroporti SpA
+MONB.BB,Monbat AD
+AFAGR.HE,Afarak Group SE
+IEG.MI,Italian Exhibition Group SpA
+EEZY.HE,Eezy Plc
+HG1G.F,Homag Group AG
+SCORE.MC,Olimpo Retail Germany SOCIMI SA
+ENDUR.OL,Endur ASA
+YJSS.MC,JSS Real Estate SOCIMI SA
+NBHG.MU,Hoftex Group AG
+ROAQ.BX,Aquila Part Prod Com SA
+RVRC.ST,RVRC Holding AB
+ABEO.PA,Abeo SA
+NWXG.F,NORDWEST Handel AG
+REFL.OL,Refuels NV
+BRIQr.AT,BriQ Properties REIC
+ATOM.BB,Atomenergoremont AD
+PPGP_p.OL,Pioneer Property Group ASA
+CBRH.CY,Constantinou Bros Hotels PCL
+NORBb.ST,Nordisk Bergteknik AB (publ)
+RLE.L,Real Estate Investors PLC
+NVAP.WA,PA Nova SA
+VISC.ST,Gruvaktiebolaget Viscaria
+AAZ.L,Anglo Asian Mining PLC
+YVIT.MC,Vitruvio Real Estate Socimi SA
+RELAIS.HE,Relais Group Oyj
+BLEKEDROSr.AT,BLE Kedros Real Estate Investment Company SA
+MOFAST.TE,Mofast AB (Publ)
+ARS.BX,Aerostar SA
+APPB.BU,Appeninn Vagyonkezelo Holding Nyrt
+TEXB.BR,Texaf NV
+KAMUX.HE,Kamux Oyj
+AGLX.OL,Agilyx ASA
+ATAS.L,Ashtead Technology Holdings PLC
+YLFG.MC,Lafinca Global Assets Socimi SA
+RNKP.WA,Rank Progress SA
+DNA3.L,Doric Nimrod Air Three Ltd
+OIL.BX,Oil Terminal SA
+STFP.WA,Stalprofil SA
+ALLUX.PA,Installux SA
+ALPDX.PA,Piscines Desjoyaux SA
+PBX.WA,Poznanska Korporacja Budowlana Pekabex SA
+DOLC.L,DCI Advisors Ltd
+YAPS.MC,Albirana Properties SOCIMI SA
+ACCS.L,Accsys Technologies PLC
+FUMA.MI,Franchi Umberto Marmi SpA
+TVE1T.TL,Tallinna Vesi AS
+TRAINb.ST,Train Alliance AB (publ)
+TOR.WA,Torpol SA
+HLIP.MT,Hili Properties PLC
+EPWN.L,Epwin Group PLC
+GREENH.CO,Green Hydrogen Systems A/S
+SEFER.PA,Sergeferrari Group SA
+YGOP.MC,Gop Properties Socimi SA
+QRF.BR,Qrf NV
+CFMP.PA,Acanthe Developpement SE
+ITTL.CY,The Mall of Cyprus MC PLC
+SITOWS.HE,Sitowise Group Oyj
+ALMRB.PA,MR Bricolage SA
+NXFIL.AS,NX Filtration NV
+IWS.OL,Integrated Wind Solutions ASA
+SPOE.PA,Fonciere Volta SA
+H5EG.F,HELMA Eigenheimbau AG
+BOKU.L,Boku Inc
+YIPS.MC,Inversa Prime Socimi SA
+PARF.PA,Paris Realty Fund SA
+GPIF.PA,Gerard Perrier Industrie SA
+MTL.L,Metals Exploration PLC
+FLXr.AT,Flexopack SA
+FIGP.WA,Figene Capital SA
+MRFr.AT,MIG Holdings SA
+WXFB.VI,Warimpex Finanzund Beteiligungs AG
+MRM.PA,MRM SA
+CAFO.PA,Cafom SA
+APTP.WA,Apator SA
+RAMA.LS,Ramada Investimentos e Industria SA
+ERB.WA,Erbud SA
+SW10n.H,Shw AG
+2GBG.DE,2G Energy AG
+LKD.WA,Lokum Deweloper SA
+THUNDR.ST,Thunderful Group AB
+ELMRA.OL,Elmera Group ASA
+FC9.DE,FCR Immobilien AG
+GEMD.L,Gem Diamonds Ltd
+DE10k.H,Deufol SE
+KG.CY,K + G Complex PCL
+RAP1V.HE,Rapala VMC Oyj
+INDB.MI,Indel B SpA
+MGTP.WA,Mangata Holding SA
+ALREA.PA,Realites SA
+ALMDG.PA,Mgi Digital Technology SA
+ESON.LS,Estoril Sol SGPS SA
+ECNER.MC,Ecoener SA
+AVG.L,Avingtrans PLC
+F3CG.DE,SFC Energy AG
+AUTW.BU,AutoWallis Nyrt
+KNR1L.VL,Kauno Energija AB
+DEK.WA,Dekpol SA
+MURP.WA,Murapol SA
+PNS.L,Panther Securities P L C
+ASUNTO.HE,Asuntosalkku Oy
+TDSA.LS,Teixeira Duarte SA
+AXRE.MT,AX Real Estate PLC
+SERK.MI,Seri Industrial SpA
+RUSTA.ST,Rusta AB (publ)
+ALNG.OL,Awilco LNG ASA
+TISGR.MI,Italian Sea Group SpA
+EXA.PA,Exail Technologies
+ENEQ.PR,Energoaqua as
+ABHA.MU,Hasen-Immobilien AG
+KEMPOWR.HE,Kempower Oyj
+GREENL.ST,Green Landscaping Group AB (publ)
+DIMANDr.AT,Dimand Societe Anonyme for The Use and Construction of Real Estate Constructions Services and Participations
+YADR.MC,Adriano Care SOCIMI SAU
+EIOF.OL,Eidesvik Offshore ASA
+CELL.MI,Cellularline SpA
+ABAG.F,ALBA SE
+PBYG.SG,Publity AG
+SERIT.MI,Servizi Italia SpA
+SNK.WA,Sanok Rubber Company SA
+EOLUb.ST,Eolus Vind AB (publ)
+PHL.CY,Petrolina Holdings Public Ltd
+NOM.OL,Nordic Mining ASA
+ZO1G.H,Zooplus SE
+ZUBN.S,Zueblin Immobilien Holding AG
+KLIN.S,Klingelnberg AG
+WBI.L,Woodbois Ltd
+ELIX.L,Elixirr International PLC
+BIKE.DE,Bike24 Holding AG
+PAYP.L,PayPoint plc
+OBL.WA,Orzel Bialy SA
+KODT.ZA,Koncar Distributivni i Specijalni Transformatori dd
+HSHP.OL,Himalaya Shipping Ltd
+EEPC.PA,Soc D Explosifs Produits Chimiques SA
+CAG0n.H,Clere AG
+GFRD.L,Galliford Try Holdings PLC
+ASPO.HE,Aspo Oyj
+BGTBD.BB,TPP Bobov Dol AD
+TIV.CO,Tivoli A/S
+ELC.MI,Elica SpA
+MLTI.MT,Malita Investments PLC
+ATLD.PA,Atland SA
+TRFT.L,Trifast PLC
+PARKSTa.CO,Park Street A/S
+ISUR.MC,Inmobiliaria del Sur SA
+WLTP.WA,Wielton SA
+SOLPW.MC,Soltec Power Holdings SA
+FVIG.F,Fair Value REIT-AG
+ALHRG.PA,Herige SA
+AVON.L,Avon Technologies PLC
+SEAPT.OL,Seacrest Petroleo Bermuda Ltd
+20202.OL,2020 Bulkers Ltd
+SMJ.L,J Smart & Co (Contractors) PLC
+KABEb.ST,KABE Group AB
+FASTN.AS,Fastned BV
+IDEr.AT,Ideal Holdings SA
+TLVB.PA,Televerbier SA
+ALDEL.PA,Delfingen Industry SA
+TIBN.S,Bergbahnen Engelberg Truebsee Titlis Bet AG
+ENWE.L,Enwell Energy PLC
+COTE.BX,Conpet SA
+PREMr.AT,Premia SA
+ALCM.BB,Alcomet AD
+ATPL.ZA,Atlantska Plovidba dd
+TFI.MI,Trevi Finanziaria Industriale SpA
+XANOb.ST,XANO Industri AB
+RWLP.WA,Rawlplug SA
+SLTG.H,Schaltbau Holding AG
+NEPG.H,SLOMAN NEPTUN Schiffahrts-AG
+SBC.MI,Sicily By Car SpA
+PNOR.OL,Petronor E&P ASA
+WABE.BU,Waberer's International Nyrt
+STGG.F,STINAG Stuttgart Invest AG
+BE0003783975.BR,Entreprises & Chemins de Fer en Chine SA
+GSPA.BU,Graphisoft Park SE Ingatlanfejleszto Europai Rt
+INCr.AT,Intrakat Technical and Energy Projects SA
+KNE1L.VL,KN Energies AB
+CGS.L,Castings PLC
+ALFRE.PA,Freelance.com SA
+IRC.MI,IRCE SpA
+MCON.I,Mincon Group PLC
+DEX.MI,Dexelance SpA
+YORE.MC,Olimpo Real Estate Socimi SA
+MNCP.WA,Mennica Polska SA
+MRXG.DE,Mister Spex SE
+IMPA.LS,Impresa Sociedade Gestora de Participacoes Sociais SA
+ILKKA2.HE,Ilkka Oyj
+PWO.DE,PWO AG
+ORILINAr.AT,Orilina Properties AEEAP
+AVAr.AT,Avax SA
+ABOG.DE,Clearvise AG
+KP2.L,Kore Potash PLC
+BESQAB.ST,Besqab AB (publ)
+HPUR.OL,Hexagon Purus ASA
+SELP.WA,Selena FM SA
+SPLUS.BU,Shopper Park Plus Zrt
+SABF.MI,Sabaf SpA
+ED4.DE,EDAG Engineering Group AG
+BIFR.BU,Budapesti Ingatlan Hasznositasi es Fejlesztesi Nyrt
+ATER.BB,Advance Terrafund ADSITS
+SOFF.OL,Solstad Offshore ASA
+SDNS.OL,Shelf Drilling (North Sea) Ltd
+MVPP.WA,Marvipol Development SA
+ARVEN_p.PA,Arverne Group SA
+PARKEN.CO,Parken Sport & Entertainment A/S
+SERE.L,Schroder European Real Estate Investment Trust PLC
+PRIMOF.CO,Prime Office A/S
+BCNT.MI,Basic Net SpA
+ADXR.MC,Audax Renovables SA
+WARB.BR,Warehouses Estates Belgium SA
+SCT.LS,Toyota Caetano Portugal SA
+UKIG.LJ,Unior dd
+BMCP.WA,Bumech SA
+VSSABb.ST,Viking Supply Ships AB
+AGOP.WA,Agora SA
+HLGZ.DE,Highlight Communications AG
+FSJ.L,James Fisher and Sons PLC
+VH2.DE,Friedrich Vorwerk Group SE
+CHMS.EUA,Compagnie du Mont Blanc SA
+KAMBI.ST,Kambi Group PLC
+TROAX.ST,Troax Group AB (publ)
+STXPP.WA,Stalexport Autostrady SA
+ARAMI.PA,Aramis Group SAS
+PCE.WA,Grupa Azoty Zaklady Chemiczne Police SA
+LGRS.L,Loungers PLC
+CDUL.EUL,Conduril Engenharia SA
+ARCHA.OL,Archer Ltd
+LACR.PA,Lacroix Group SA
+YAI1.MC,All Iron RE I SOCIMI SA
+XPP.L,XP Power Ltd
+TWSr.AT,Thessaloniki Water Supply and Sewarage Company SA
+NFGN.L,Next 15 Group PLC
+WIZZ.L,Wizz Air Holdings PLC
+EBUS.AS,Ebusco Holding NV
+DR0G.DE,Deutsche Rohstoff AG
+RBAV.VI,Rosenbauer International AG
+RKH.L,Rockhopper Exploration PLC
+HANGJI.CY,Hangji Global Ltd
+YEUR.MC,Euro Cervantes SOCIMI SA
+SPRSP.L,Springfield Properties PLC
+OLTr.AT,Thessaloniki Port Authority SA
+MRB.WA,Mirbud SA
+IMP.BX,Impact Developer & Contractor SA
+ANXA.L,Anexo Group PLC
+FRLr.AT,Fourlis SA
+NORCO.OL,Norconsult ASA
+NWGP.WA,Newag SA
+NORVA.ST,Norva24 Group AB (publ)
+EKTG.DE,Energiekontor AG
+NYAB.ST,Nyab AB
+PYHE.PA,Haulotte Group SA
+OTB.L,On The Beach Group PLC
+AEWU.L,AEW UK REIT PLC
+RESIR.L,Residential Secure Income PLC
+METG.S,Meier Tobler Group AG
+STUDBO.ST,Studentbostader I Norden AB (publ)
+AMG1L.VL,Amber Grid AB
+FOTH.LU,Fotex Holding SE
+MIA.MT,Malta International Airport PLC
+GR1T.L,Grit Real Estate Income Group Ltd
+TTS.BX,TTS Transport Trade Services SA
+AB9.DE,ABO Energy GmbH & Co KgaA
+FNOVAb.ST,Fortinova Fastigheter AB (publ)
+ALBI.PA,Gascogne SA
+GAUM.PA,Gaumont SA
+OPG.L,OPG Power Ventures PLC
+SPGP.CO,SP Group A/S
+CONIC.ST,Concentric AB
+FG.ST,Fasadgruppen Group AB (publ)
+PAGn.SG,PREOS Global Office Real Estate & Technology AG
+AOJb.CO,Broedrene A & O Johansen A/S
+RNWH.L,Renew Holdings PLC
+ALEUA.PA,Eurasia Groupe SA
+CFIP.WA,CFI Holding SA
+ETGG.DE,Envitec Biogas AG
+YTRI.MC,Trivium Real Estate SOCIMI SA
+SDY.L,Speedy Hire PLC
+ALR.BX,Alro SA
+ALREW.PA,Reworld Media SA
+SRPG.PA,SRP Groupe SA
+EXENS.PA,Exosens SAS
+SLPL.L,Sylvania Platinum Ltd
+GTYG.DE,Gateway Real Estate AG
+SBOS.OL,Selvaag Bolig ASA
+ALVDM.PA,Voyageurs du Monde SA
+ANNEb.ST,Annehem Fastigheter AB (publ)
+JHD.L,James Halstead PLC
+AFGA.OL,Af Gruppen ASA
+SPBH.F,Sedlmayr Grund und Immobilien AG
+AKH.OL,Aker Horizons ASA
+VOC.MC,Vocento SA
+FTEP.WA,Fabryki Mebli Forte SA
+MRK1T.TL,Merko Ehitus AS
+ALHEX.PA,Hexaom SA
+INCLU.BR,Inclusio SA
+AREN.ZA,Arena Hospitality Group dd
+KOA.OL,Kongsberg Automotive ASA
+PENR.OL,Panoro Energy ASA
+PXMP.WA,Polimex Mostostal SA
+POLV.VI,Polytec Holding AG
+RLRT.BR,Roularta Media Group NV
+ALGEV.PA,Gevelot SA
+BGBN.PA,Bigben Interactive SA
+BRCK.L,Brickability Group PLC
+AJAX.AS,AFC Ajax NV
+PLVP.PA,Plastiques du Val de Loire SA
+CICG.LJ,Cinkarna Celje dd
+HASE.L,Hargreaves Services PLC
+SYNSAM.ST,Synsam AB (publ)
+A4Y.DE,Accentro Real Estate AG
+MERG.L,Mears Group PLC
+TSH.CY,A Tsokkos Hotels Public Ltd
+GSP.MI,Gas Plus SpA
+IMSI.MI,Immsi SpA
+BFT.WA,Benefit Systems SA
+VRGP.WA,VRG SA
+HRPKk.DE,7C Solarparken AG
+SAVES.L,Savannah Energy PLC
+SOLG.L,SolGold PLC
+BVZN.S,BVZ Holding AG
+VASTB.BR,Vastned Belgium NV
+FDD.H,Pilkington Deutschland AG
+ETS.VI,EuroTeleSites AG
+ALCRB.PA,Carbios SA
+BF.MI,Fiere Internazionali di Bologna SpA Bolognafiere
+HIMR.ZA,Imperial Riviera dd
+LGD1L.VL,Litgrid AB
+CAPD.L,Capital Ltd
+BIJG.DE,Bijou Brigitte modische Accessoires AG
+INAI.S,Ina Invest AG
+APR.WA,Auto Partner SA
+BGALB.BB,Albena AD
+LOGIa.ST,Logistea AB
+CBOT.PA,Cbo Territoria SA
+ALDLT.PA,Delta Plus Group SA
+YIBV.MC,Ibervalles SOCIMI SA
+KOMPLK.OL,Komplett ASA
+GFM.L,Griffin Mining Ltd
+BELCO.OL,Belships ASA
+AMCP.WA,Amica SA
+CBSM.PA,Soc Centrale Bois Scieries Manche SA
+PANR.L,Pantheon Resources PLC
+FRAN.L,Franchise Brands PLC
+PHARP.L,Pharos Energy PLC
+UNTP.WA,Unimot SA
+KBUG.H,TAG Colonia Immobilien AG
+SFPI.PA,Groupe SFPI SA
+KMCP.OL,Kmc Properties ASA
+SFR.L,Severfield PLC
+COSG.L,Costain Group PLC
+BRINb.ST,Brinova Fastigheter AB (publ)
+HEAD.L,Headlam Group PLC
+TRACT.PA,Teract SA
+PUBLI.OL,Public Property Invest ASA
+FCMC.PA,Fermiere du Casino Municipal Cannes SA
+UZU.DE,Uzin Utz SE
+VCW.CY,Vassilico Cement Works PCL
+HVBG.F,UeSTRA Hannoversche Verkehrsbetriebe AG
+TIMAn.DE,ZEAL Network SE
+JEN.BR,Jensen-Group NV
+ACLN.S,Accelleron Industries AG
+SCHST.MC,Nordeste Properties SOCIMI SA
+COGP.WA,Cognor Holding SA
+BSTH.L,Borders and Southern Petroleum PLC
+UBMV.VI,UBM Development AG
+SGFI.MI,Sogefi SpA
+PREr.AT,Trastor Real Estate Investment Company SA
+PND.CY,Pandora Investments Public Ltd
+PLAP.EUA,Placoplatre SA
+LOGM.CY,Logicom Public Ltd
+IR5B_u.I,Irish Continental Group PLC
+EWIND.OL,Edda Wind ASA
+HEX.OL,Hexagon Composites ASA
+EMILpref.ST,Fastighetsbolaget Emilshus AB
+MOED.MI,Arnoldo Mondadori Editore SpA
+INSTAL.ST,Instalco AB
+DOXA.ST,Doxa AB
+ARHP.WA,Archicom SA
+ARM.MC,Arima Real Estate Socimi SA
+BLEE.PA,Bleecker SA
+POL.OL,Polaris Media ASA
+KME.MI,KME Group SpA
+GMS.L,Gulf Marine Services PLC
+TRESTATESr.AT,Trade Estates REIC SA
+AVI.MI,Avio SpA
+SHLF.OL,Shelf Drilling Ltd
+BRUN.AS,Brunel International NV
+DECB.BR,Deceuninck NV
+DKG.DE,Deutsche Konsum REIT-AG
+DMRE.DE,Demire Deutsche Mittelstand Real Estate AG
+ELO.OL,Elopak ASA
+RIVP.ZA,Valamar Riviera dd
+PSDL.L,Phoenix Spree Deutschland Ltd
+JINJ.OL,Jinhui Shipping and Transportation Ltd
+YATO.MC,Atom Hoteles Socimi SA
+PCR.WA,PCC Rokita SA
+IBG.MC,Iberpapel Gestion SA
+STCXH.LU,Saint Croix Holding Immobilier SOCIMI SA
+ARN.MI,Alerion Clean Power SpA
+JSG.L,Johnson Service Group PLC
+LAGP.ZA,Plava Laguna dd
+TNIE.DE,tonies SE
+LABS.L,Life Science REIT PLC
+KCCK.OL,Klaveness Combination Carriers ASA
+YSIL.MC,Silicius Real Estate SOCIMI SA
+SREI.L,Schroder Real Estate Investment Trust Ltd
+INDII.L,Indus Gas Ltd
+DBC.WA,Firma Oponiarska Debica SA
+PARP.PA,Groupe Partouche SA
+ATC.WA,Arctic Paper SA
+DOMP.WA,Dom Development SA
+GTT.PA,Gaztransport et Technigaz SA
+MAIS.ZA,Maistra dd
+ATEO.BR,Atenor SA
+AURAA.OL,Aurora Eiendom AS
+ROCRC.BX,Chimcomplex SA Borzesti
+CYPC.CY,Cyprus Cement PCL
+TGHN.DE,Logwin AG SA
+CLOUD.OL,Cloudberry Clean Energy ASA
+RGLR.L,Regional REIT Ltd
+KLARAb.ST,KlaraBo Sverige AB
+IBS.LS,Ibersol SGPS SA
+AKAST.OL,Akastor ASA
+DVLP.WA,Develia SA
+TRNT.L,Trainline PLC
+NREN.S,Novavest Real Estate AG
+THHG.PA,Thermador Groupe SA
+VARN.S,Varia US Properties AG
+CARDC.L,Card Factory PLC
+ECR.MC,Ercros SA
+HOMEH.L,Home REIT PLC
+VESTUM.ST,Vestum AB (publ)
+ROPE.BX,Premier Energy PLC
+SELER.PA,Selectirente SA
+ALBOU.PA,Bourrelier Group SA
+OET.OL,Okeanis Eco Tankers Corp
+BLV.PA,Believe SA
+BORY.WA,Boryszew SA
+CZG.PR,Colt CZ Group SE
+PURMO.HE,Purmo Group Oyj
+SFLG.MI,Safilo Group SpA
+NAS.OL,Norwegian Air Shuttle ASA
+HEIJ.AS,Koninklijke Heijmans NV
+YEPSA.MC,Emperador Properties Socimi SA
+EATP.WA,Amrest Holdings SE
+CEV.MC,Compania Espanola de Viviendas en Alquiler SA
+ECH.WA,Echo Investment SA
+1AT.WA,Atal SA
+GENL.L,Genel Energy PLC
+CRZK.DE,CR Energy AG
+WCMk.DE,WCM Beteiligungs und Grundbesitz AG
+VARV.MI,Sbe Varvit SpA
+PLAKR.AT,Crete Plastics SA
+DREGa.F,Deutsche Real Estate AG
+NOL.OL,Northern Ocean Ltd
+R3NK.DE,RENK Group AG
+VTU.L,Vertu Motors PLC
+FLOB.BR,Floridienne SA
+AGROUP.ST,Arlandastad Group AB (publ)
+KONL.ZA,Koncar dd
+MHV.CY,MHV Mediterranean Hospitality Venture Plc
+SFPN.S,SF Urban Properties AG
+TSM1T.TL,Tallinna Sadam AS
+ENQ.L,EnQuest PLC
+RCSM.MI,Rizzoli Corriere della Sera Mediagroup SpA
+CHG.L,Chemring Group PLC
+HINV.BR,Home Invest Belgium SA
+AGNr.AT,Aegean Airlines SA
+DARD.L,Dar Global PLC
+EGLA.MI,Eurogroup Laminations SpA
+ASCE.BR,Ascencio SA
+CED.MI,Caltagirone Editore SpA
+BDTG.DE,Bertrandt AG
+KTY.WA,Grupa Kety SA
+STEFb.ST,Stendorren Fastigheter AB
+RECT.BR,Recticel NV
+PATC.PA,Patrimoine et Commerce SCA
+ZEEP.WA,Ze Pak Sa
+TRIANb.ST,Fastighets AB Trianon
+AUTr.AT,Autohellas SA
+IFAG.H,Ls Invest AG
+WARN.S,Warteck Invest AG
+MATAS.CO,Matas A/S
+MTVW.L,Mountview Estates P.L.C.
+PADI.PA,Fiducial Real Estate SA
+SLPb.ST,Swedish Logistic Property AB
+BOOT.L,Henry Boot PLC
+GOTLb.ST,Rederi Gotland AB
+INWI.ST,Inwido AB (publ)
+TFF.PA,Tonnellerie Francois Freres SA
+EDSP.PA,Electricite de Strasbourg SA
+ASY.PA,Assystem SA
+ROONE.BX,One United Properties SA
+SEA1.OL,Siem Offshore Inc
+IMMO.BR,Compagnie Immobiliere de Belgique
+NIVIb.ST,Nivika Fastigheter AB (publ)
+AIAr.AT,Athens International Airport SA
+KGN.WA,Zespol Elektrocieplowni Wroclawskich Kogeneracja SA
+NEXN.L,Nexxen International Ltd
+LTGL.L,Learning Technologies Group PLC
+EPH.S,EPH European Property Holdings Plc
+EPAr.AT,Attica Holdings SA
+GKP.L,Gulf Keystone Petroleum Ltd
+JOMA.ST,John Mattson Fastighetsforetagen publ AB
+LTMC.MI,Lottomatica Group SpA
+PHN.WA,Polski Holding Nieruchomosci SA
+CGR.PA,Vitura SA
+SFAST.ST,Stenhus Fastigheter I Norden AB (publ)
+SOHO.L,Triple Point Social Housing REIT PLC
+AC5.MI,Acinque SpA
+MNSA.SCT,Minerales y Productos Derivados SA
+DEC.L,Diversified Energy Company PLC
+LECG.F,Lechwerke AG
+YMHRE.MC,Millenium Hospitality Real Estate Socimi SA
+FREN.S,Fundamenta Real Estate AG
+LKPG.LJ,Luka Koper dd
+OCN.L,Ocean Wilsons Holdings Ltd
+AGAS.OL,Avance Gas Holding Ltd
+CRT.L,Care REIT PLC
+MLGP.WA,MLP Group SA
+B7C.MI,d'Amico International Shipping SA
+INS2.DE,Instone Real Estate Group SE
+G3EG.L,G3 Exploration Ltd
+NEOBO.ST,Neobo Fastigheter AB (publ)
+HEBAb.ST,HEBA Fastighets AB
+NEWAb.ST,New Wave Group AB
+FINA.PA,Immobiliere Dassault SA
+TOM.OL,Tomra Systems ASA
+INEA.PA,Fonciere Inea SA
+KIE.L,Kier Group PLC
+UBS.MC,Urbas Grupo Financiero SA
+AKW.PA,Akwel SA
+WHRW.L,Warehouse REIT PLC
+FLUX.BR,Fluxys Belgium NV
+IHI.MT,International Hotel Investments PLC
+BWE.OL,BW Energy Ltd
+SAMS.PA,Samse SA
+CPINV.BR,Care Property Invest NV
+CCAG.DE,Corestate Capital Holding SA
+SANOMA.HE,Sanoma Oyj
+TEIF.PA,Societe de la Tour Eiffel SA
+SDGI.PA,Synergie SE
+CLCO.OL,Cool Company Ltd
+YCPS.MC,Castellana Properties Socimi SA
+EMREA.CY,Easternmed Real Estate Capital Plc
+MPCC.OL,MPC Container Ships ASA
+NOEJ.DE,Norma Group SE
+WEHB.BR,Wereldhave Belgium NV
+JANF.ZA,Janaf dd
+NP3.ST,NP3 Fastigheter AB
+SONO.PA,NRJ Group SA
+JFN.S,Jungfraubahn Holding AG
+MARS.L,Marston's PLC
+NCH2.DE,thyssenkrupp nucera AG & Co KgaA
+EGR1T.TL,Enefit Green AS
+BNOR.OL,Bluenord ASA
+PKPP.WA,PKP Cargo SA w restrukturyzacji
+OPAr.AT,Greek Organisation of Football Prognostics SA
+AMAV.VI,AMAG Austria Metall AG
+GGC.MC,General de Galerias Comerciales SOCIMI SA
+VIEI.NFF,Victoria Eiendom AS
+CITT.PA,Groupe Crit SA
+CRN.L,Cairn Homes PLC
+BASS.PA,Bassac
+EISP.NFF,Eiendomsspar AS
+PLANZ.S,Plazza AG
+FLNG.OL,FLEX LNG Ltd
+ZAPP.WA,Grupa Azoty Zaklady Azotowe Pulawy SA
+BETSb.ST,Betsson AB
+SCATC.OL,Scatec ASA
+YZBL.MC,Zambal Spain Socimi SA
+TAL1T.TL,Tallink Grupp AS
+THRLT.L,Target Healthcare REIT PLC
+GWKGn_p.H,GAG Immobilien AG
+VETN.S,Vetropack Holding SA
+KALMAR.HE,Kalmar Oyj
+INF1T.TL,Infortar AS
+SVS.L,Savills PLC
+TGN.BX,Societatea Nationala de Transport Gaze Naturale Transgaz SA
+NEXTA.BR,Nextensa NV
+SVITZR.CO,Svitzer Group A/S
+PRSR.L,PRS Reit PLC
+YACHT.MI,Ferretti SpA
+BMEB.L,B&M European Value Retail SA
+VIH1n.DE,VIB Vermoegen AG
+CHBE.PA,Beneteau SA
+STP.WA,Stalprodukt SA
+BWO.OL,BW Offshore Ltd
+EPICN.S,EPIC Suisse AG
+AROG.H,Arcandor AG
+SWHGg.F,Enercity AG
+VAR.OL,Var Energi ASA
+PETG.LJ,Petrol dd Ljubljana
+BORR.OL,Borr Drilling Ltd
+DNR.MI,Industrie De Nora SpA
+PEPP.WA,Polenergia SA
+DOFG.OL,Dof Group ASA
+GFII.PA,Lisi SA
+AERO.S,Montana Aerospace AG
+DBG.PA,Derichebourg SA
+PUIGb.MC,Puig Brands SA
+ELHA.AT,Elvalhalcor Hellenic Copper and Aluminium Industry SA
+WWGG.F,Gelsenwasser AG
+CADLR.OL,Cadeler A/S
+HOME.MC,Neinor Homes SA
+IPCOR.ST,International Petroleum Corp
+DIOS.ST,Dios Fastigheter AB
+YTST.MC,Testa Residencial SOCIMI SA
+YVIV.MC,Vivenio Residencial SOCIMI SA
+CARP.WA,Inter Cars SA
+NEAG.S,Naturenergie Holding AG
+FREY.PA,Frey SA
+QQ.L,QinetiQ Group PLC
+ROTEL.BX,Compania Nationala de Transport al Energiei Electrice Transelectrica SA
+ROEL.BX,Societatea Energetica Electrica SA
+CMTM.SCT,Cementos Molins SA
+DNO.OL,Dno ASA
+WISEa.L,Wise PLC
+AUTO.OL,AutoStore Holdings Ltd
+RLIA.MC,Realia Business SA
+ZIG.L,ZIGUP PLC
+STF.PA,Stef SA
+FUTR.L,Future PLC
+HAUTO.OL,Hoegh Autoliners ASA
+BE0944264663.BR,SCR- Sibelco NV
+SNC.LS,Sonaecom SGPS SA
+FPARa.ST,FastPartner AB
+BABr.AT,Jumbo SA
+BWLPG.OL,BW LPG Ltd
+HBR.L,Harbour Energy PLC
+ALLEI.ST,Alleima AB
+OPGP.WA,Cpi Fim SA
+PRODr.AT,Prodea Real Estate Investment Company SA
+WACGn.DE,Wacker Neuson SE
+YGMP.MC,GMP Property SOCIMI SA
+TRMDa.CO,Torm PLC
+CALI.MI,Caltagirone SpA
+BAIN.PA,Societe Anonyme des Bains de Mer et du Cercle des Etrangers a Monaco SA
+HBMG.H,Hornbach Baumarkt AG
+BULY.PA,Burelle SA
+EGAB.PA,TotalEnergies EP Gabon
+MNVG.F,Mainova AG
+SEPL.L,Seplat Energy PLC
+INAI.ZA,INA dd
+JDAN.CO,Jeudan A/S
+NTEA_p.L,Northern Electric PLC
+YCA.L,Yellow Cake PLC
+HBH.DE,HORNBACH Holding AG & Co KgaA
+BE0941244536.BR,Etex NV
+DEME.BR,DEME Group NV
+BEIJb.ST,Beijer Ref AB (publ)
+HAFNI.OL,Hafnia Ltd
+TLGG.H,TLG Immobilien AG
+JUNG_p.DE,Jungheinrich AG
+REHN.S,Romande Energie Holding SA
+ITH.L,Ithaca Energy PLC
+SNG.BX,Societatea Nationala de Gaze Naturale Romgaz SA
+ESSF.PA,Esso Societe Anonyme Francaise SA
+MAB.L,Mitchells & Butlers PLC
+BE0941243520.BR,Aliaxis SA
+TXGN.S,TX Group AG
+SOAC.BR,Solvac SA
+AVOL.S,Avolta AG
+IGN1L.VL,Ignitis Grupe AB
+OLT.OL,Olav Thon Eiendomsselskap ASA
+ROCKb.CO,Rockwool A/S
+FRES.L,Fresnillo PLC
+ADEN.S,Adecco Group AG
+CNA.L,Centrica PLC
+LMPL.L,LondonMetric Property PLC
+CCAP.PA,Compagnie du Cambodge SA
+ADSGn.DE,Adidas AG
+LU0006047129.BR,ArcelorMittal Luxembourg SA
+RTO.L,Rentokil Initial PLC
+SZGG.DE,Salzgitter AG
+ROH2O.BX,Societatea de Producere a Energiei Electrice in Hidrocentrale Hidroelectrica SA
+VTWRn.H,Vantage Towers AG
+AM.PA,Dassault Aviation SA
+SDFGn.DE,K+S AG
+SYENS.BR,Syensqo NV
+UN0k.DE,Uniper SE
+GFCP.PA,Gecina SA
+ODET.PA,Compagnie De l'odet SE
+P911_p.DE,Dr Ing hc F Porsche AG
+PSHG_p.DE,Porsche Automobil Holding SE
+CH1092387=BEKB,Hoher Kasten Drehrestaurant und Seilbahn AG
+CH1136752=BEKB,Saastal Bergbahnen AG
+CH1245763=BEKB,Plaston Holding AG Widnau
+CH139553=BEKB,Suvretta Haus AG
+CH141821=BEKB,Aluminium Laufen AG Liesberg
+CH145782=BEKB,Auto AG Schwyz
+CH155120=BEKB,BuchsMedien AG
+CH1656888=BEKB,Bergbahnen Spluegen Tambo AG Spluegen
+CH170468=BEKB,Eskimo Textil AG
+CH178834=BEKB,Genossenschaft Lenk Bergbahnen
+CH1838412=BEKB,Bergbahnen Destination Gstaad AG
+CH193395=BEKB,Portes du Soleil Suisse SA
+CH1955690=BEKB,Cresta Palace Celerina AG
+CH205250=BEKB,Brunni Bahnen Engelberg AG
+CH205278=BEKB,Luftseilbahn Grindelwald Pfingstegg AG
+CH205291=BEKB,Luftseilbahn Jakobsbad Kronberg AG
+CH205581=BEKB,Luftseilbahn Wasserauen Ebenalp AG
+CH205603=BEKB,Luftseilbahn Wengen-maennlichen AG
+CH221869=BEKB,Railtour Suisse SA
+CH225366=BEKB,Bergbahnen Hohsaas AG
+CH34142011=BEKB,Schifffahrtsgesellschaft Hallwilersee AG
+CH229180=BEKB,Schweizerische Schifffahrtsgesellschaft Untersee Und Rhein AG
+CH233136=BEKB,Sattel Hochstuckli AG
+CH235369=BEKB,Sportbahnen Pischa AG LDP
+CH255761=BEKB,Treib Seelisberg Bahn AG
+CH256969=BEKB,Tuwag Immobilien AG
+CH265550=BEKB,Zoologischer Garten Basel AG
+CH342383=BEKB,Niederhornbahn AG
+CH495950=BEKB,Casino de Montreux SA
+CH570170=BEKB,Stoosbahnen AG
+CH900597=BEKB,Pilatus Bahnen AG
+CH652426=BEKB,Adev Wasserkraftwerk AG
+CH233209=BEKB,Bergbahnen Brigels AG
+MLPHO.EUA,Photonike Capital SA
+1ABI401E.BV,Polnohospodarske Druzstvo Mlynica
+BPN.WA,Black Point SA
+EKSP.WA,e-Kiosk SA
+AQAP.WA,Aqua SA
+ABKP.WA,Abak SA
+1PRI401E.BV,Real Za as
+1AGN401E.BV,Agrocons Nitra as
+MLCLP.EUA,Colicountry Reunion Sa
+1KMX01AE.BV,Kamex as v likvidacii
+MVRP.WA,Movie Games VR SA
+PTNP.WA,Poltronic SA
+VDS.WA,Vidis SA
+WREP.WA,West Real Estate SA
+ERRES.S,Edmond de Rothschild Real Estate SICAV
+VERP.WA,MPL Verbum SA
+ECNP.WA,Ecnology Group SA
+DBMI.BB,Debitum Invest ADSITS
+GOLP.WA,Golab SA
+RBSP.WA,Robinson Europe SA
+PLGP.WA,PL Group SA
+DKR.WA,Dektra SA
+HRLP.WA,Hornigold REIT SA
+PMGP.WA,Polska Grupa Militarna SA
+TXNP.WA,Tax Net SA
+PBB.WA,Przedsiebiorstwo Przemyslu Betonow Prefabet Biale Blota SA
+GREP.WA,MVA Green Energy SA
+GKS.WA,GKS GieKSa Katowice SA
+KPC.WA,Kupiec SA
+KLNP.WA,Klon SA
+DNS.WA,Danks Europejskie Centrum Doradztwa Podatkowego SA
+MLONL.EUA,Onlineformapro SA
+MMCP.WA,MM Conferences SA
+MLGAL.EUA,Galeo Concept SA
+IZB.WA,Izoblok SA
+PRMC.BB,Primorsko Club EAD
+QRTP.WA,Quart Development SA
+MRDP.WA,Medard SA
+UNVP.WA,Universe SA
+KFW1.BE,Klepper Faltbootwerft AG
+PRNP.WA,Partner Nieruchomosci SA
+MRHP.WA,Mr Hamburger SA
+NTVP.WA,New Tech Venture SA
+FPOA.WA,Forposta SA
+TGSP.WA,True Games Syndicate SA
+SFK.WA,Skoczkowska Fabryka Kapeluszy Polkap SA
+BFC.WA,Biofactory SA
+PVBS.BX,Perseus Fintech SA
+IBCK.WA,IBC Polska F & P SA
+RECYb.TE,Recyctec Holding AB
+TMEP.WA,Termoexpert SA
+ARIP.WA,Agencja Rozwoju Innowacji SA
+MLDYX.EUA,Dynex Energy SA
+FKD.WA,Fabryka Konstrukcji Drewnianych SA
+DIV1.WA,DI Volio SA
+FVEP.WA,Foto Volt Eko Energia SA
+RSCL.BB,Rizarv Kepital ADSITS v likvidatsiya
+MLVIN.EUA,Fonciere Vindi SA
+VKT.WA,Vakomtek SA
+ENVIRb.TE,Envirologic AB (publ)
+ABIG.TE,Igrene AB (publ)
+HEIQ.L,Heiq PLC
+APAP.WA,Apanet SA
+FFP1.WA,Farmy Fotowoltaiki Polska SA
+BE0020918638.BR,Bouwonderneming Vooruitzicht NV
+BE0014799556.BR,Le Patrimoine Immobilier Het Onroerend Vermogen SA
+BE0011395465.BR,Societe des Charbonnages de Gosson Kessales SA
+BE0011844108.BR,Charbonnages de Maurage SA
+BE0156881329.BR,Societe des Charbonnages du Bois du Luc SA
+BE0010566900.BR,Centrale Sociale De Bruxelles
+BE0027840017.BR,Compagnie Het Zoute NV
+BE0026342551.BR,Koninklijke Maatschappij Voor Dierkunde Van Antwerpen Onroerend Patrimonium NV
+BE0049483135.BR,Eupen Finanz AG
+BE0945246784.BR,Fimmobel SA
+BE0057677594.BR,Grottes De Han SA
+BE0049482129.BR,Kabelwerk Eupen AG
+BE0038785821.BR,Metalen Galler NV
+BE0157892739.BR,Pantech SA
+BE0003660710.BR,Roton Compagnie Industrielle et Financiere SA
+BE0003279784.BR,Saint Gobain Innovative Materials Belgium SA
+BE0017609521.BR,Utexbel NV
+NL0000009645.BR,Koninklijke Luchtvaart Maatschappij NV
+MLHCF.EUA,Home Concept France SA
+BE0003640514.BR,Financiere Patience Beaujonc SA
+MLAGI.EUA,AG3I SAS
+BE0946377455.BR,Abattoir NV
+BE0010381029.BR,Charbonnages du Bonnier SA
+BE6265912038.BR,Infrabel SA
+BE0010012210.BR,Voor Het Kopen Bouwen Verkopen en Verhuren Van Werkmanswoonsten NV
+CMC.WA,Comeco SA
+BE0024981525.BR,Basse Sambre
+BE0020932779.BR,Immobiliere Agricole et Forestiere SA
+HYCO.NGM,Hybricon AB
+EFT1T.TL,EfTEN Real Estate Fund AS
+BE0010342609.BR,Maatschappij Van de Brugse Zeehaven
+EMHn.DE,Pferdewetten de AG
+BE0036061746.BR,Tissages Bruggeman NV
+BE0035966762.BR,NMC AG
+BE0003222214.BR,Messer Belgium NV
+BE0051300847.BR,Arma SA
+BE0034169251.BR,Old England SA
+MLCMG.EUA,Cmg Cleantech SA
+MLCLI.EUA,Maison Clio Blue SA
+SCCb.TE,Sjostrand Coffee Int AB
+BPD.BB,BPD Industrial Real Estate Fund ADSITS
+TMOT.L,Time Out Group PLC
+XPF.L,XP Factory Plc
+BPGR.VI,BPG Hramba Plemenitih Kovin dd
+FINEP.TE,Finepart Sweden AB
+OUTP.WA,Outdoorzy SA
+NEON.L,Neo Energy Metals PLC
+DKE.L,Dukemount Capital PLC
+OURLIV.TE,OurLiving AB
+MKZG.LJ,MK Zalozba dd
+MNGG.LJ,Manufaktura dd
+OGCG.LJ,Remont dd
+RMTG.LJ,TAB dd
+SZLG.LJ,SZ ZGP Ljubljana dd
+TBPG.LJ,TBP dd
+TLBR.LJ,Talum dd Kidricevo
+ZATG.LJ,Terme Olimia dd
+ALFG.LJ,Regia Group dd
+ALZG.LJ,Alples dd Zelezniki
+CTTN.LJ,Telemach Tezno dd
+ECEG.LJ,Elektro Celje dd
+EGKG.LJ,Elektro Gorenjska dd
+ELBG.LJ,Elmont Bled dd
+ELOG.LJ,Elektro Ljubljana dd
+EMAG.LJ,Elektro Maribor dd
+EPRG.LJ,Elektro Primorska dd
+GRMG.LJ,Goricane dd Medvode
+IKMG.LJ,Iskra Mehanizmi Holding dd Lipnica
+ILAR.LJ,Ilana dd
+AAG.BX,Aages SA
+KINR.LJ,Kompas INT dd
+KNGG.LJ,Komunala Nova Gorica dd
+KSPG.LJ,Komunala Sezana dd
+LUO.WA,Luon SA
+NL0012237614.BR,CBRE BV
+AQT.WA,AQT Water SA
+7LVP.WA,7Levels SA
+ADMI.BN,Admicasa Holding AG
+PPPP.L,Pennpetro Energy PLC
+SAHG.LJ,Salonit Anhovo dd
+KVGG.LJ,Kogast Grosuplje dd
+GGNG.LJ,G G Novo Mesto dd
+DNLG.LJ,"Dnevnik, d.d."
+SLKR.LJ,Stol dd Kamnik
+MRLR.LJ,LP Invest dd
+MLOCT.EUA,Octopus Biosafety SA
+MLPRXP.EUA,Parx Materials NV
+BODY.TE,Bodyflight Sweden AB
+GOMERO.TE,Gomero Group AB
+KRPZ.L,Kropz PLC
+RISK.TE,Risk Intelligence A/S
+MLBAR.EUA,Barings Core Spain SOCIMI SA
+45CR.L,John Lewis PLC
+MLBSP.EUA,Blue Shark Power System SA
+MLITN.EUA,Italy Innovazioni SpA
+MLGWH.EUA,Grupo Whiteni Socimi SA
+ZOOMI.TE,Zoomability Int AB (publ)
+MLIPO.EUA,Iposa Properties SOCIMI SA
+PU11n.F,The Social Chain AG
+MLMAQ.EUA,Maq Administracion Urbanas Socimi SA
+EPTL-FF.NFF,Empire Product Tankers Ltd
+MLORE.EUL,Olimpo Real Estate Portugal SIGI SA
+MLISP.EUA,Inmosupa Socimi SA
+BE6321066613.BR,T Palm International Luxembourg SA
+MLINT.EUA,Iante Investment Socimi SA
+HUNTER.TE,Hunter Capital AB (publ)
+MLAGP.EUA,AGP Malaga Socimi SA
+MLORB.EUA,Orbis Properties Socimi SAU
+MLVRF.EUA,Vref Seville Real Estate Holdco SOCIMI SA
+MLARO.EUA,Aroca del Pinar Socimi SA
+MLRSR.EUL,Rsr Singular Assets Europe SOCIMI SAU
+MLHAY.EUA,Healthcare Activos Yield SOCIMI SA
+CNANO.NFF,Crayonano AS
+BE0099150162.BR,TotalEnergies Petrochemicals & Refining SA
+94NA.L,Thames Water Utilities Finance PLC
+80CX.L,Heathrow Finance PLC
+88D.MU,WR Wohnraum AG
+BE0146350740.BR,Alme Invest NV
+GTH.NFF,Green Transition Holding AS
+00N.NFF,00Nation AS
+BE6326475389.BR,Broux J Kiggen BVBA
+COND.NFF,Condalign AS
+KRONA.TE,Krona Public Real Estate AB
+POLYMER.NGM,Polymer Factory Sweden AB
+NOWO.NGM,Nowonomics AB (publ)
+MLINM.EUA,Inmark Prime Socimi SA
+MLNDG.EUA,Global Pielago Socimi SA
+MLORQ.EUA,Orinoquia Real Estate SOCIMI SA
+MLVSY.EUA,Versity
+SOZAP.ST,SOZAP AB (publ)
+MLVIE.EUA,Integritas Viager SA
+MBBAB.TE,MoveByBike Europe publ AB
+GIAB.ST,Godsinlosen Nordic AB
+MLJDL.EUA,Res Gestae Socimi SA
+MLMIV.EUA,Meridia Re IV Socimi SAU
+IDNTT.MI,IDNTT SA
+MLWIZ.EUA,Wiziboat SA
+4JQ.D,heygold SE
+ALAIR.PA,Groupe Airwell SA
+AQUAT.TE,Aquaticus Real Estate AB (publ)
+MLECE.EUA,Faifey Invest Socimi SA
+MLCAN.EUA,Eurolog Canola Socimi SA
+BE0034574427.BR,Nobel NV
+MLABC.EUA,Igis Neptune Barcelona Holdco Socimi SA
+MLARI.EUA,Arimelia Itg Socimi Sa
+STECH.OL,Soiltech ASA
+QINTER.CO,Q Interline A/S
+PRESRV.TE,Preservium Property AB
+PIXEL.NGM,PixelFox AB (publ)
+MLAA.EUA,L Agence Automobiliere SA
+SLWD.ASE,Silverwood Brands PLC
+RESQ.ST,Resqunit AB (publ)
+ALGRO.PA,Grolleau SA
+MLPER.EUA,Perseida Renta Gestion Socimi SA
+MLVRE.EUA,Vandor Real Estate Socimi SA
+MLBBO.EUA,BEBO Health SA
+WEG.TE,Windon Energy Group AB
+ALHUN.PA,Hunyvers SA
+MLJ21.EUA,Jungle21 SA
+JACK.NFF,Jacktel AS
+ROBUS.TL,Robus Group AS
+MLUAV.EUA,Embention Sistemas Inteligentes SA
+MLSAG.EUA,Sagax Real Estate SOCIMI SA
+PATRI.BN,Patrimonium Urban Opportunity AG
+MLMAC.EUL,Promontoria Macc 1X1 Socimi SA
+KEDAq.S,Keda Industrial Group Co Ltd
+UNX.ASE,Unigel Group PLC
+INNO.BQB,Innowearable AB
+BE0023885230.BR,Schreder Be SA
+BE0059682279.BR,Schreder SA
+MLHBP.EUA,Hoteles BESTPRICE SA
+MLSMB.EUL,Samba Digital SGPS SA
+9HF.D,HB Holding NV
+ACGa.L,ACG Metals Ltd
+MLASO.EUA,Apodaca Inversiones Inmobiliarias Socimi SA
+BT6G.D,Vandana Se
+MLCOE.EUA,Core Spain Holdco Socimi SA
+MLARE.EUA,Aref Thalassa Socimi SA
+EPP.L,EnergyPathways PLC
+FRILAN.TE,Invoicery Group AB
+6CG.D,Intesgo Se
+ALFLO.PA,Florentaise SA
+MLOKP.EUA,Ok Properties I Socimi SA
+MLATR.EUL,Atrium Bire SIGI SA
+XEAL.DE,Xtrackers (Jersey) ETC PLC
+BARS.L,Zipa Precious Metals PLC
+BTC1G.DE,ETC Issuance GmbH
+KUBP.WA,Kubota SA
+ASTRASUN.BU,Astrasun Solar Nyrt
+MULTIHOME.BU,MultiHome Ingatlanforgalmazo Nyrt
+RCMP.WA,Red Carpet Media Group SA
+BIGGEORGE.BU,Biggeorge Property Nyrt
+GMB.WA,Games Box SA
+QTLG.ZA,Quattro logistika dd
+ROSTKP.BX,STK Properties SA
+ROCHRD.BX,Chromosome Dynamics SA
+ECTP.WA,Eco5tech SA
+POLYDUCT.BU,Polyduct Muanyages Femipari Nyrt
+EPDUFERR.BU,Epduferr Nyrt
+ZEN1.WA,Zeneris Projekty SA
+BGINF.BB,Infinity Capital AD
+CITYC.MC,Club De Futbol Intercity Sad
+CLAP.WA,Console Labs SA
+ROAPP.BX,Appraisal & Valuation SA
+BGSIN.BB,Sin Cars Industry AD
+TPLB.BB,Toplofikatsiya Burgas AD
+ROCLAIM.BX,Air Claim SA
+NOBP.WA,Noobz From Poland SA
+KSBE.BN,Kursaal Bern AG
+VTV.BB,Varvara Termal Village ADSITS
+STI1.WA,Stilo Energy SA
+RORKOT.BX,Raiko Transilvania SA
+ROFRB.BX,Firebyte Games SA
+ROREIT.BX,Star Residence Invest SA
+K2P.WA,Kool2play SA
+SMTP.WA,Simteract SA
+PF99.BB,Port Fleet 99 AD
+AAGN.VI,Aventa AG
+VISZ.ZA,VIS dd
+WGPP.WA,WG Partners SA
+YNPC.MC,Nextpoint Capital SOCIMI SA
+TTZG.LJ,Tekol dd
+TTNG.LJ,TTN dd
+TSPG.LJ,Tekstil dd Ljubljana
+TRDG.LJ,Termit dd
+TITG.LJ,Trio dd Trzic
+TESR.LJ,Tehnika Set dd
+SIPR.LJ,SIP dd Sempeter v Savinjski dolini
+SHBR.LJ,Sava Turizem dd
+PRIG.LJ,Primat dd
+PBVG.LJ,Projektivni Biro Velenje dd
+ONIN.LJ,Oniks Invest dd
+MDSG.LJ,MDS IT dd
+LILG.LJ,Liko dd Liboje
+KKKG.LJ,Kostak dd
+KIGG.LJ,KIG dd
+IMDR.LJ,IMP dd
+IJRR.LJ,Induplati dd
+IGAR.LJ,Igmat dd
+HSLG.LJ,Hotel Slon dd
+FENR.LJ,Fenolit dd
+EMVG.LJ,ESOTECH dd
+EMGR.LJ,EMG dd Zalec
+ELLR.LJ,Elektromontaza dd
+CPPG.LJ,CP Ptuj dd
+CMSG.LJ,Pomgrad CP dd
+CMLG.LJ,Commerce dd
+CKRG.LJ,Gorenjska Gradbena Druzba dd
+CKPG.LJ,CPK dd
+CESG.LJ,Celjski Sejem dd
+PNWP.WA,Plantwear SA
+BGGTP.BB,Green Town Projects AD
+ULTIMA.BN,Ultima Capital SA
+GOPD.BU,GOPD Nyrt
+BALG.VI,BAL Germany AG
+ICG.BB,Intercapital Group AD
+MGKR.BU,Megakran Kereskedelmi es Szolgaltato Nyrt
+GLMC.BB,Glenmoore Capital ADSITS
+TRSBa.BX,Transcom SA
+TIGH.BX,Tarnava SA
+SATU.BX,Saturn SA
+REMM.BX,Remat Maramures SA
+PRDI.BX,Prodhart SA
+PETY.BX,Petal SA
+OMSE.BX,Comat Caras Severin SA
+MESA.BX,Metalul Mesa SA
+ICSH.BX,ICSH SA
+AGQR.BX,Aldani Master Capital SA
+ELCT.BX,El Co SA
+ROVIRO.BX,Virola Independenta SA
+ROSIGS.BX,Sigstrat SA
+SELC.BX,Selca SA
+ROOF.BX,Romanofir SA
+RRD.BX,Romradiatoare SA
+PACO.LU,Pineapple Corporation PLC
+1CHI01AE.BV,Cheminvest as
+1CSB01AE.BV,Cestne Stavby as
+1DSU01AE.BV,Dolkam Suja as
+1ESM01AE.BV,Ekostav as
+1FRG01AE.BV,Frigo as
+1GEC01AE.BV,Geocomplex as
+1KSP01AE.BV,Kupele Strbske Pleso as
+1MER01AE.BV,Merina as v likvidacii
+1STP01AE.BV,Stapring as
+1TEM01AE.BV,Dividend Development as v likvidacii
+1VNR01AE.BV,Vunar as
+1ZIM01AE.BV,ZTS Inmart as
+1ZTS01NE.BV,ZTS Sabinov as
+1HML01AE.BV,Hydromelioracie as
+ALAST.PA,AST Groupe SA
+ALFPC.PA,Fountaine Pajot SA
+ALDAR.PA,Damartex SA
+EXEP.PA,Exel Industries SA
+CATGR.PA,Catana Group SA
+ALMAS.PA,Mastrad SA
+EEFG.PA,Eagle Football Group SA
+LAEP.PA,Latecoere SA
+MLETA.EUA,Metalliance SA
+HOMJ.EUA,Soc Immobiliere et Exploit Hotel Majesti SA
+PWBP.EUA,Phone Web SA
+CHFP.EUA,Cie de Chemins de Fer Departementaux SA
+HOIN.EUA,Societe Hoteliere et Immobiliere de Nice SA
+PVAC.PA,Pierre et Vacances SA
+ALGAU.PA,Gaussin SA
+SELU_p.LU,Societe Electrique de l'Our SA
+GBSx.L,Gold Bullion Securities Ltd
+DIAL.L,Dialight PLC
+BTW_pa.L,Bristol Water PLC
+PHPT.L,Wisdomtree Metal Securities Ltd
+EAAS.L,Eenergy Group PLC
+GBGGg.MU,Salvator Vermoegensverwaltungs GmbH
+NYVKt.MU,Sino Thai Engineering and Construction PCL
+BBRG.SG,Buergerliches Brauhaus Ravensburg Lindau Aktiengesellschaft
+NUCG.SG,Nucletron Electronic AG
+NAKG.H,NAK Stoffe AG
+WDIG.H,Wirecard AG
+ADMY.BX,Admet SA
+ROANIM.BX,Societatea Comerciala Studioul Cinematografic Animafilm SA
+ROANTA.BX,Romanta Estival 2002 SA
+ANTE.BX,Anteco SA
+ARJI.BX,Arteca Jilava SA
+ARMT.BX,Caromet SA
+AUXI.BX,ATM Construct SA
+ROBADE.BX,Baza de Aprovizionare si Desfacere SA
+ROBALN.BX,Societatea Comerciala de Tratament Balnear Buzias SA
+BIBU.BX,Biroul de Turism pentru Tineret BTT SA
+BLEA.BX,Balea Estival 2002 SA
+BNAT.BX,Banat Estival 2002 SA
+ROBRNA.BX,Romnav SA
+CACU.BX,Sifi CJ Logistic SA
+CEPO.BX,Ceprocim SA
+CFED.BX,Constructii Feroviare Craiova SA
+CHIA.BX,Constructii Hidrotehnice SA
+CICE.BX,Cicero SA
+ROCLUB.BX,Hotel Club Estival 2002 SA
+CLUJ.BX,Clujana SA
+CNTE.BX,Conted SA
+COBL.BX,Bricomat SA
+COBU.BX,Concifor SA
+COET.BX,Complex Comet SA
+COLK.BX,Conex Prahova SA
+COMY.BX,Comat SA
+CONK.BX,Concas SA
+ROCORO.BX,Constructii Feroviare Galati SA
+ROCOTN.BX,Comrep SA
+CPHA.BX,Ceprohart SA
+CPLB.BX,Constructii Complexe Buzau SA
+CTKS.ZA,Cateks dd
+RODIAS.BX,Diasfin SA
+DIEGK.BR,Immolease Trust NV
+DOIS.BX,Dorna Turism SA
+DUPX.BX,Duplex SA
+DZSL.LJ,DZS dd
+EEAI.BX,Electroconstructia ELCO Alba Iulia SA
+EETS.BX,Electroconstructia Elco Timisoara SA
+ELEL.BX,Electroconstructia Elco Suceava SA
+ROELER.BX,Elerom SA
+ELJA.BX,Electromontaj Carpati SA
+ELRD.BX,Electrecord SA
+EMAI.BX,Emailul SA
+EMTL.BX,Electrometal SA
+EPN.BX,Ema SA
+EXPV.BX,Societate Comerciala pentru Exploatare Portuara Drobeta SA
+FAMZ.BX,Fabrica de Accesorii Metalice FAM SA
+FERO.BX,Iamba Arad SA
+FIMA.BX,Fimaro SA
+FMAR.BX,Faimar SA
+FOMA.BX,Forma SA
+FOSP.BX,Foraj Sonde SA
+GALF.BX,Galfinband SA
+GAOY.BX,Gastronom SA
+GDP.BX,Grupul Editorilor si Difuzorilor de Presa SA
+GROB.BX,Gerom SA
+ROHEAL.BX,Helios SA
+HLEB.BX,Hercules SA
+HTPO.ZA,HTP Orebic dd
+IANY.BX,24 Ianuarie SA
+ICEV.BX,Institutul de Cercetari pentru Acoperiri Avansate ICAA SA
+ICMA.BX,ICMA SA
+INCT.BX,Institutul de Cercetari in Transporturi Incertrans SA
+INMA.BX,Industrie Mica Prahova SA
+INOX.BX,Inox SA
+IPHI.BX,Iprochim SA
+IPRO.BX,Iprolam SA
+JDTC.ZA,Jadran dd
+LCSI.BX,LCS Imobiliar SA
+LIDO.BX,Lido SA
+MALI.BX,Comalim SA
+MAMA.BX,Magazin Universal Maramures SA
+MEBY.BX,Luceafarul SA
+MECA.BX,Metalurgica SA
+MECH.BX,Mecanica 94 SA
+MECPM.BX,Mecon SA
+MEOY.BX,Mecanica Codlea SA
+METT.BX,Mettexin SA
+METY.BX,Mecanica Rotes SA
+MINO.BX,Mindo SA
+MOBE.BX,Mobest SA
+MOBD.BX,Mobam SA
+MOBG.BX,Mobex SA
+MXPP.WA,Maxipizza SA
+NAPO.BX,Societatea Comerciala de Constructii Napoca SA
+NAXY.BX,Navexim SA
+NTEX.BX,Sifi CJ Storage SA
+ORAS.BX,Organe de Asamblare SA
+PARC.BX,Parc SA
+PCTM.BX,Prima Construct SA
+PLMP.WA,Polman SA
+POBR.BX,Poiana Brasov SA
+PRAH.BX,Prahova Estival 2002 SA
+PRIB.BX,Primcom SA
+PRIN.BX,Proiect Covasna SA
+RANT.BX,Granitul SA
+RELE.BX,Relee SA
+RETZ.BX,Retezat SA
+REVA.BX,Reva SA
+SCBC.BX,Scut SA
+SEBZ.BX,Sembraz SA
+ROSERC.BX,Serico SA
+SIEP.BX,Sinter Ref SA
+ROSINA.BX,Sinatex SA
+ROSLBB.BX,Suport Logistic Bucuresti SA
+SOPL.BX,Somplast SA
+SOTA.BX,Someta SA
+SPTU.BX,Spit Bucovina SA
+STOF.BX,Stofe Buhusi SA
+TALD.BX,Talc Dolomita SA
+TERA.BX,Terra Estival 2002 SA
+ROTRCS.BX,Transtec SA
+TRFM.ZA,Terra Firma dd
+TRGI.BX,Transporturi Auto Giulesti SA
+TRSK.BX,Transilana SA
+ROTRVC.BX,Transilvania Com SA
+TSND.BX,Tusnad SA
+UCET.BX,Clabucet Estival 2002 SA
+ROUNIR.BX,Unirea SA
+UPRR.BX,Upruc CTR SA
+ROURBA.BX,Urbana SA
+URCB.BX,URC SA
+UTGR.BX,Utilaj Greu SA
+UZC.BX,Uzuc SA
+VITK.BX,Vitimas SA
+MLODT.EUA,Odiot Holding
+MULG.LJ,Murales dd
+RMEG.LJ,Energija RM dd
+ONOF.NFF,On & Offshore Holding As
+TBJG.LJ,TBJ dd
+BGMSYS.BB,Mebelsystem AD
+BGEXPR.BB,Exclusive Property ADSITS AD
+BGFFI.BB,Forucom Real Estate Fund ADSITS
+NIS.BB,Real Estate Sofia ADSITS Sofia
+ZENP.BB,Zenit Properties ADSITS
+KAU.BB,Kauchuk AD
+1KTN001E.BV,KT Invest as
+ALDOL.PA,Dolfines SA
+VJSN.ZA,Vjesnik dd
+MLSML.EUA,Smalto SA
+VDZG.ZA,Vodoprivreda Zagreb dd
+HRT.WA,Hurtimex SA
+EGH.WA,Ekopol Gornoslaski Holding SA
+RCW.WA,Ruch Chorzow SA
+LBD.WA,Lokaty Budowlane SA
+BGEMPR.BB,Emirates Properties ADSITS
+APSP.WA,Automatyka Pomiary Sterowanie SA
+AMNO.NGM,Amnode AB
+ZEITg.F,FC Wertmanagement GmbH
+ELMP.WA,Elektromont SA w restrukturyzacji
+BRST.BB,Bryast-D AD
+INTN.WA,Internity SA
+BGLEVI.BB,Lev Invest ADSITS Sofia
+AGCM.BX,Agromec Ciorogirla SA
+MLWEY.EUA,Weya SA
+MDR.BB,Madara Europe AD
+POTI.BX,Potis Capital SA
+RSF.S,Realstone Swiss Property
+SZR.WA,Szar SA
+PSMP.WA,Plasma System SA w restrukturyzacji
+ASRP.WA,Astro SA
+ASAP.WA,Apis SA
+PBRT.L,Wisdomtree Hedged Commodity Securities Ltd
+UFG.WA,Uf Games SA
+VAS.VI,VAS AG
+BSHP.WA,Bridge Solutions Hub SA
+OLY1.WA,Olymp SA
+BGELM.BB,Elmark Invest EAD
+RGLP.WA,Robs Group Logistic SA
+YMCS.MC,MICISO Real Estate Socimi SA
+MLMTP.EUA,Montepino Logistica Socimi SA
+OBSE.ST,Observit AB (publ)
+PROSPER.CY,Prospertree Plc
+MLPET.EUA,Pet Service Holding NV
+VANA.MC,Vanadi Coffee SA
+MLAST.EUA,Astickso XXI SOCIMI SAU
+REXB.CY,zRees Fraction Plc
+RNS.CY,Rianeson Investments PLC
+BGREIT.BU,Biggeorge REIT Zrt
+SIBEK.ST,SIBEK AB (publ)
+GOSOL.TE,Gosol Energy Group AB
+MLERH.EUA,Elix Rental Housing Socimi II SA
+RWTA.VI,Rwt AG
+ALSTI.PA,Stif France SAS
+QNAP.WA,QNA Technology SA
+CYCLE.TE,Cyclezyme AB
+MLAIG.EUA,Andino Inversiones Global SA
+CA1.DE,Circus SE
+PLX.PA,Pluxee NV
+MLURC.EUA,Urbanizadora Constructora Levantina Socimi SA
+5OZ0.D,Mabewo AG
+HEXH.L,HeLIX Exploration PLC
+BACP.WA,B Act SA
+GARPCOb.NGM,Garpco AB
+SCRES.MC,Inmuebles en Alquiler Resydenza SOCIMI SA
+ROGGC.BX,Glissando Garden Center SA
+VTURA.OL,Ventura Offshore Holding Ltd
+NOVALr.AT,Noval Property Real Estate Investment Co SA
+PRISMA.ST,Prisma Properties AB
+KN9.BE,Golden Goose Group SpA
+TLT.AS,London Tunnels PLC
+EM6.MU,Energenta AG
+MWB.VI,Mwb AG
+CONDO.TE,Condo Nordic Holding AB (publ)
+ES0105826004.BR,Spanish Retail Investments SOCIMI SA
+ES0105825006.BR,Lighthouse Spanish Properties Socimi SA
+SCMIB.MC,Mistral Iberia Real Estate Socimi II SA
+SCIG6.MC,Inbest Gpf Multi Assetclass Prime VI Socimi SA
+SCIG7.MC,Inbest Gpf Multi Asset Classprime VII Socimi SA
+ROJTG.BX,JT Grup Oil SA
+MLIME.EUA,Imeon Energy SAS
+BGRSW.BB,Reisswolf Bulgaria AD
+ZN2.D,WeGrow AG
+EXEGb.BQB,Exeger Sweden AB (publ)
+MASH.BQB,Marshall Group AB (publ)
+1XS.D,Moove Lubricants Holdings
+SVEAF.ST,Sveafastigheter publ AB
+LGOLDb.TE,Lappland Guldprospektering AB (publ)
+BGTTI.BB,Te-Trade Invest ADSITS
+CGFD.MI,Cogefeed SpA
+4X0.DE,Steyr Motors AG

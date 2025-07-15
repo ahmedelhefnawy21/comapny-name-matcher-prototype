@@ -1,4 +1,4 @@
-# Comapny Name Matcher
+# Company Name Matcher
 
 This prototype repository contains a **Jupyter Notebook-based pipeline** for standardising and matching company names across three datasets related to energy companies. The output is a well-documented, human-verifiable Excel workbook containing both exact and intelligent approximate matches.
 
